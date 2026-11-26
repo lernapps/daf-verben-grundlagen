@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "strand": "daf/grammatik",
+  "pages": [
+    {
+      "path": "pronomen-und-verben/personalpronomen/",
+      "title": {
+        "de": "Personalpronomen im Nominativ",
+        "en": "Personal Pronouns (Nominative)"
+      },
+      "competencies": [
+        "personalpronomen-nominativ"
+      ]
+    },
+    {
+      "path": "pronomen-und-verben/sein-und-haben/",
+      "title": {
+        "de": "Die Verben sein und haben",
+        "en": "Verbs sein and haben"
+      },
+      "competencies": [
+        "praesens-sein-haben"
+      ]
+    },
+    {
+      "path": "pronomen-und-verben/regelmaessige-verben/",
+      "title": {
+        "de": "Regelmäßige Verben im Präsens",
+        "en": "Regular Verbs in the Present Tense"
+      },
+      "competencies": [
+        "praesens-regelmaessig"
+      ]
+    },
+    {
+      "path": "pronomen-und-verben/verben-mit-vokalwechsel/",
+      "title": {
+        "de": "Verben mit Vokalwechsel",
+        "en": "Stem-Changing Present Verbs"
+      },
+      "competencies": [
+        "praesens-vokalwechsel"
+      ]
+    },
+    {
+      "path": "satzbau-fragen-imperativ/verb-zweitstellung/",
+      "title": {
+        "de": "Verb-Zweitstellung im Hauptsatz",
+        "en": "Verb-Second Word Order"
+      },
+      "competencies": [
+        "verb-zweitstellung"
+      ]
+    },
+    {
+      "path": "satzbau-fragen-imperativ/w-fragen/",
+      "title": {
+        "de": "W-Fragen stellen und beantworten",
+        "en": "Asking and Answering W-Questions"
+      },
+      "competencies": [
+        "w-fragen"
+      ]
+    },
+    {
+      "path": "satzbau-fragen-imperativ/ja-nein-fragen/",
+      "title": {
+        "de": "Ja-/Nein-Fragen und doch",
+        "en": "Yes/No Questions and doch"
+      },
+      "competencies": [
+        "ja-nein-fragen"
+      ]
+    },
+    {
+      "path": "satzbau-fragen-imperativ/imperativ/",
+      "title": {
+        "de": "Imperativ (du, ihr, Sie)",
+        "en": "Imperative (du, ihr, Sie)"
+      },
+      "competencies": [
+        "imperativ"
+      ]
+    },
+    {
+      "path": "trennbare-verben-und-aduso/trennbare-verben/",
+      "title": {
+        "de": "Trennbare Verben und die Satzklammer",
+        "en": "Separable Prefix Verbs and the Sentence Bracket"
+      },
+      "competencies": [
+        "trennbare-verben"
+      ]
+    },
+    {
+      "path": "trennbare-verben-und-aduso/konjunktionen-aduso/",
+      "title": {
+        "de": "Position-0-Konjunktionen (ADUSO)",
+        "en": "Coordinating Conjunctions (Position 0)"
+      },
+      "competencies": [
+        "konjunktionen-aduso"
+      ]
+    }
+  ]
+}

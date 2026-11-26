@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 230" width="640" height="230" role="img">
+  <rect width="640" height="230" rx="12" fill="#F8FAFC"/>
+  <text x="20" y="28" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#475569">W-Frage · Verb auf Position 2</text>
+  <rect x="20" y="40" width="150" height="58" rx="8" fill="#E0E7FF" stroke="#4F46E5" stroke-width="2"/>
+  <text x="95" y="61" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#4338CA">POS. 1 · W-WORT</text>
+  <text x="95" y="83" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Woher</text>
+
+  <rect x="186" y="40" width="150" height="58" rx="8" fill="#FEF3C7" stroke="#D97706" stroke-width="3"/>
+  <text x="261" y="61" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#B45309">POS. 2 · VERB</text>
+  <text x="261" y="83" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0F172A">kommst</text>
+
+  <rect x="352" y="40" width="130" height="58" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/>
+  <text x="417" y="61" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#1D4ED8">SUBJEKT</text>
+  <text x="417" y="83" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0F172A">du?</text>
+
+  <text x="20" y="134" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#475569">Ja-/Nein-Frage · Verb auf Position 1</text>
+  <rect x="20" y="146" width="160" height="58" rx="8" fill="#FEF3C7" stroke="#D97706" stroke-width="3"/>
+  <text x="100" y="167" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#B45309">POS. 1 · VERB</text>
+  <text x="100" y="189" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Spielst</text>
+
+  <rect x="196" y="146" width="130" height="58" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/>
+  <text x="261" y="167" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#1D4ED8">SUBJEKT</text>
+  <text x="261" y="189" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0F172A">du</text>
+
+  <rect x="342" y="146" width="278" height="58" rx="8" fill="#CCFBF1" stroke="#0F766E" stroke-width="2"/>
+  <text x="481" y="167" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#0F766E">REST</text>
+  <text x="481" y="189" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0F172A">gern Fußball?</text>
+</svg>
