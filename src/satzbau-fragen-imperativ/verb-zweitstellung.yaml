@@ -1,0 +1,153 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Verb-Zweitstellung im Hauptsatz
+  en: Verb-Second Word Order
+description:
+  de: "Deutsche Aussagesätze mit dem konjugierten Verb auf Position 2 bauen — auch mit Zeit oder Ort auf Position 1 (Inversion)."
+  en: "Build German statements with the conjugated verb in second position, including inversion after time or place."
+competencies: [verb-zweitstellung]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: Der feste Verb-Anker auf Position 2
+      en: The Fixed Position-2 Verb Anchor
+    blocks:
+      - type: text
+        text:
+          de: "Sam plant seine Woche in Lindenberg. Im deutschen Aussagesatz gilt eine eiserne Regel: Das konjugierte Verb bleibt auf **Position 2** verankert — egal welche Satzkarte nach vorn rutscht."
+          en: "Sam plans his week in Lindenberg. German statements follow one iron rule: the conjugated verb stays locked in **Position 2** — no matter which Sentence Card moves to the front."
+      - type: figure
+        image: images/sentence-cards-v2.svg
+        source:
+          de: eigene Zeichnung
+          en: own diagram
+        licence: CC0-1.0
+        alt:
+          de: "Satzkarten für Verb-Zweitstellung: Satz A zeigt Sam (Pos. 1), wohnt (Pos. 2 Verb), heute in Lindenberg (Rest). Satz B zeigt Heute (Pos. 1), wohnt (Pos. 2 Verb), Sam (Subjekt), in Lindenberg (Rest)."
+          en: "Sentence Cards for verb-second order: Sentence A shows Sam (Pos. 1), wohnt (Pos. 2 Verb), heute in Lindenberg (Rest). Sentence B shows Heute (Pos. 1), wohnt (Pos. 2 Verb), Sam (Subject), in Lindenberg (Rest)."
+        caption:
+          de: "Wenn Zeit oder Ort auf Position 1 wandern, rutscht das Subjekt direkt hinter den Verb-Anker."
+          en: "When time or place moves to Position 1, the subject slides directly behind the Verb Anchor."
+      - type: single-choice
+        id: v2-einstieg
+        text:
+          de: "Welcher Satz ist im Deutschen richtig, wenn *Am Montag* auf Position 1 steht?"
+          en: "Which German sentence is correct when *Am Montag* (On Monday) sits in Position 1?"
+        options:
+          - text:
+              de: "Am Montag lernt Sam Deutsch."
+              en: "Am Montag lernt Sam Deutsch."
+            correct: true
+            info:
+              de: "Richtig: Am Montag ist eine Satzkarte (Position 1), lernt bleibt auf Position 2, Sam folgt direkt dahinter."
+              en: "Correct: Am Montag is one Sentence Card (Position 1), lernt stays in Position 2, and Sam follows right after."
+          - text:
+              de: "Am Montag Sam lernt Deutsch."
+              en: "Am Montag Sam lernt Deutsch."
+            correct: false
+            info:
+              de: "Das wäre englische Wortstellung — im Deutschen stünde lernt hier falsch auf Position 3."
+              en: "That follows English word order — in German it pushes lernt into Position 3, which is wrong."
+          - text:
+              de: "Am Montag Deutsch lernt Sam."
+              en: "Am Montag Deutsch lernt Sam."
+            correct: false
+            info:
+              de: "Vor dem Verb darf nur eine einzige Satzkarte stehen, nicht zwei (Am Montag + Deutsch)."
+              en: "Only one Sentence Card may stand before the verb, not two (Am Montag + Deutsch)."
+        explanation:
+          de: "Position 1 ist ein Satzglied (z. B. ein Wort wie Heute oder eine Gruppe wie Am Montag). Danach kommt immer sofort das konjugierte Verb."
+          en: "Position 1 holds one whole phrase (e.g. Heute or Am Montag). The conjugated verb always comes immediately next."
+  - type: section
+    id: regel
+    title:
+      de: Subjekt-Verb-Inversion kurz erklärt
+      en: Subject-Verb Inversion in Brief
+    blocks:
+      - type: definition
+        term:
+          de: Verb-Zweitstellung (V2)
+          en: Verb-second order (V2)
+        explanation:
+          de: "In jedem deutschen Aussagesatz steht das konjugierte Verb an zweiter Stelle. Steht auf Position 1 nicht das Subjekt (sondern z. B. Zeit oder Ort), rückt das Subjekt direkt hinter das Verb (Inversion)."
+          en: "In every German statement, the conjugated verb stands in second position. If something other than the subject (such as time or place) fills Position 1, the subject moves right after the verb (inversion)."
+      - type: table
+        caption:
+          de: "Position 1 tauschen — Position 2 bleibt fest"
+          en: "Swap Position 1 — Position 2 stays locked"
+        header:
+          - de: Position 1
+            en: Position 1
+          - de: Position 2 (Verb)
+            en: Position 2 (Verb)
+          - de: Rest des Satzes
+            en: Rest of sentence
+        rows:
+          - - de: Mina
+              en: Mina
+            - de: "**spielt**"
+              en: "**spielt**"
+            - de: heute im Sportverein.
+              en: heute im Sportverein.
+          - - de: Heute
+              en: Heute
+            - de: "**spielt**"
+              en: "**spielt**"
+            - de: Mina im Sportverein.
+              en: Mina im Sportverein.
+          - - de: Im Sportverein
+              en: Im Sportverein
+            - de: "**spielt**"
+              en: "**spielt**"
+            - de: Mina heute.
+              en: Mina heute.
+  - type: section
+    id: uebung
+    title:
+      de: Übung
+      en: Practice
+    blocks:
+      - type: ordering
+        id: v2-ordnen
+        text:
+          de: "Bringe die Satzkarten in die richtige Reihenfolge. Beginne mit der Zeitangabe *Am Wochenende*."
+          en: "Put the Sentence Cards in the right order. Start with the time phrase *Am Wochenende*."
+        items:
+          - de: Am Wochenende
+            en: Am Wochenende
+          - de: fährt
+            en: fährt
+          - de: Familie Weber
+            en: Familie Weber
+          - de: an den See.
+            en: an den See.
+        explanation:
+          de: "Am Wochenende (Pos. 1) + fährt (Pos. 2) + Familie Weber (Subjekt) + an den See (Rest)."
+          en: "Am Wochenende (Pos. 1) + fährt (Pos. 2) + Familie Weber (subject) + an den See (rest)."
+      - type: language-task
+        id: v2-umstellen
+        languages: { source: en, target: de }
+        mode: write
+        form: { punctuation: ok }
+        task:
+          de: Schreibe jeden Satz so um, dass das angegebene Wort auf Position 1 steht. Achte auf Position 2!
+          en: Rewrite each sentence starting with the given phrase in Position 1. Keep the verb in Position 2!
+        items:
+          - source: "Sam reads a book today. → Start with: Heute"
+            target: "Heute liest Sam ein Buch."
+            mistakes:
+              - answer: "Heute Sam liest ein Buch."
+                message:
+                  de: "Achtung: Das Verb liest muss auf Position 2 bleiben — Sam kommt direkt dahinter."
+                  en: "Watch out: The verb liest must stay in Position 2 — Sam goes right after it."
+          - source: "We eat rolls in Lindenberg. → Start with: In Lindenberg"
+            target: "In Lindenberg essen wir Brötchen."
+            mistakes:
+              - answer: "In Lindenberg wir essen Brötchen."
+                message:
+                  de: "In Lindenberg ist Position 1, deshalb kommt essen sofort auf Position 2."
+                  en: "In Lindenberg fills Position 1, so essen comes immediately in Position 2."
+        explanation:
+          de: "Nach jeder Zeit- oder Ortsangabe am Satzanfang kommt im Deutschen sofort der Verb-Anker, nie das Subjekt."
+          en: "After any time or place phrase at the start of a German sentence, the Verb Anchor comes immediately, never the subject."

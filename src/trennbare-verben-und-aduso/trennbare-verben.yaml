@@ -1,0 +1,164 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Trennbare Verben und die Satzklammer
+  en: Separable Prefix Verbs and the Sentence Bracket
+description:
+  de: "Trennbare Verben wie aufstehen, einkaufen und anrufen im Hauptsatz richtig teilen: Verb auf Position 2, Vorsilbe ans Satzende."
+  en: "Split separable verbs like aufstehen, einkaufen, and anrufen in main clauses: conjugated verb in Position 2, prefix at the end."
+competencies: [trennbare-verben]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: Sams Tagesablauf in Lindenberg
+      en: Sam's Daily Routine in Lindenberg
+    blocks:
+      - type: text
+        text:
+          de: "Viele alltägliche Verben im Deutschen bestehen aus zwei Teilen: einer betonten Vorsilbe (**auf-**, **ein-**, **an-**, **mit-**) und dem Grundverb. Im Hauptsatz spalten sie sich zur **Satzklammer**."
+          en: "Many everyday German verbs have two parts: a stressed prefix (**auf-**, **ein-**, **an-**, **mit-**) plus a base verb. In a main clause, they split to form a **sentence bracket**."
+      - type: figure
+        image: images/sentence-cards-bracket.svg
+        source:
+          de: eigene Zeichnung
+          en: own diagram
+        licence: CC0-1.0
+        alt:
+          de: "Satzklammer für aufstehen: Sam (Pos. 1), steht (Pos. 2 Verb), um sieben Uhr (Mittelfeld), auf (Ende Präfix). Eine Klammer verbindet steht und auf."
+          en: "Sentence bracket for aufstehen: Sam (Pos. 1), steht (Pos. 2 Verb), um sieben Uhr (middle field), auf (End Prefix). A bracket links steht and auf."
+        caption:
+          de: "Das konjugierte Grundverb bleibt auf Position 2; die Vorsilbe schließt rechts die Satzklammer."
+          en: "The conjugated base verb stays in Position 2; the prefix closes the sentence bracket at the very end."
+      - type: single-choice
+        id: trennbar-einstieg
+        text:
+          de: "Wie lautet der richtige Satz mit *einkaufen* (to shop)?"
+          en: "Which sentence uses *einkaufen* (to shop) correctly?"
+        options:
+          - text:
+              de: "Frau Weber kauft heute im Supermarkt ein."
+              en: "Frau Weber kauft heute im Supermarkt ein."
+            correct: true
+            info:
+              de: "Richtig: kauft steht konjugiert auf Position 2, und ein steht ganz am Satzende."
+              en: "Correct: conjugated kauft sits in Position 2, and ein closes the clause at the very end."
+          - text:
+              de: "Frau Weber einkauft heute im Supermarkt."
+              en: "Frau Weber einkauft heute im Supermarkt."
+            correct: false
+            info:
+              de: "Im Hauptsatz im Präsens wird einkaufen immer getrennt: kauft … ein."
+              en: "In a present-tense main clause, einkaufen always splits: kauft … ein."
+          - text:
+              de: "Frau Weber kauft ein heute im Supermarkt."
+              en: "Frau Weber kauft ein heute im Supermarkt."
+            correct: false
+            info:
+              de: "Die Vorsilbe ein wandert ganz ans Ende hinter alle anderen Satzkarten."
+              en: "The prefix ein moves all the way to the end, after all other Sentence Cards."
+        explanation:
+          de: "Die rechte Klammer (die Vorsilbe) wartet immer ganz am Ende — auch in Fragen (*Kaufst du heute ein?*) und im Imperativ (*Ruf mich an!*)."
+          en: "The right bracket (the prefix) always sits at the very end — in questions (*Kaufst du heute ein?*) and imperatives (*Ruf mich an!*) too."
+  - type: section
+    id: regel
+    title:
+      de: Häufige trennbare Verben
+      en: Common Separable Verbs
+    blocks:
+      - type: vocabulary
+        caption:
+          de: Trennbare Verben für den Alltag in Lindenberg
+          en: Separable verbs for daily life in Lindenberg
+        languages: { source: en, target: de }
+        entries:
+          - target: aufstehen
+            source: to get up
+            example: { target: "Sam steht um sieben Uhr auf.", source: "Sam gets up at seven o'clock." }
+          - target: einkaufen
+            source: to go shopping
+            example: { target: "Wir kaufen Brötchen ein.", source: "We are buying rolls." }
+          - target: anrufen
+            source: to call (by phone)
+            example: { target: "Ich rufe meine Eltern an.", source: "I call my parents." }
+          - target: anfangen
+            source: to begin, to start
+            note:
+              de: "Vokalwechsel a → ä: Der Unterricht fängt um acht Uhr an."
+              en: "Stem change a → ä: Der Unterricht fängt um acht Uhr an."
+            example: { target: "Die Schule fängt um acht Uhr an.", source: "School starts at eight o'clock." }
+          - target: mitkommen
+            source: to come along
+            example: { target: "Kommst du ins Kino mit?", source: "Are you coming along to the cinema?" }
+          - target: fernsehen
+            source: to watch TV
+            note:
+              de: "Vokalwechsel e → ie: Mina sieht abends fern."
+              en: "Stem change e → ie: Mina sieht abends fern."
+            example: { target: "Mina sieht abends selten fern.", source: "Mina rarely watches TV in the evening." }
+      - type: note
+        title:
+          de: "Woran erkennst du trennbare Vorsilben?"
+          en: "How to Spot Separable Prefixes"
+        blocks:
+          - type: text
+            text:
+              de: "Typische trennbare Vorsilben sind **ab-, an-, auf-, aus-, ein-, fern-, mit-, vor-, zu-, zurück-**. Beim Sprechen liegt die Betonung immer auf der Vorsilbe (*AUFstehen*, *EINkaufen*)."
+              en: "Common separable prefixes are **ab-, an-, auf-, aus-, ein-, fern-, mit-, vor-, zu-, zurück-**. When spoken, the stress always falls on the prefix (*AUFstehen*, *EINkaufen*)."
+  - type: section
+    id: uebung
+    title:
+      de: Übung
+      en: Practice
+    blocks:
+      - type: ordering
+        id: trennbar-ordnen
+        text:
+          de: Baue die Satzklammer mit *anrufen* (to call).
+          en: Build the sentence bracket with *anrufen* (to call).
+        items:
+          - de: Am Abend
+            en: Am Abend
+          - de: ruft
+            en: ruft
+          - de: Sam
+            en: Sam
+          - de: seine Eltern
+            en: seine Eltern
+          - de: an.
+            en: an.
+        explanation:
+          de: "Am Abend (Pos. 1) + ruft (Pos. 2 Verb) + Sam seine Eltern (Mittelfeld) + an (rechte Klammer)."
+          en: "Am Abend (Pos. 1) + ruft (Pos. 2 verb) + Sam seine Eltern (middle field) + an (right bracket)."
+      - type: language-task
+        id: trennbar-luecken
+        languages: { source: en, target: de }
+        mode: write
+        form: { punctuation: ok }
+        task:
+          de: "Schreibe jeden Satz mit dem trennbaren Verb im Präsens. Denke an Position 2 und das Satzende!"
+          en: "Write each sentence in German using the separable verb in the present tense. Remember Position 2 and the sentence end!"
+        items:
+          - source: "Sam gets up early. (aufstehen · früh)"
+            target: "Sam steht früh auf."
+            mistakes:
+              - answer: "Sam aufsteht früh."
+                message:
+                  de: "Teile aufstehen im Hauptsatz: steht auf Position 2, auf ans Ende."
+                  en: "Split aufstehen in a main clause: steht in Position 2, auf at the end."
+          - source: "Class starts at eight o'clock. (anfangen · Der Unterricht · um acht Uhr)"
+            target: "Der Unterricht fängt um acht Uhr an."
+            mistakes:
+              - answer: "Der Unterricht fangt um acht Uhr an."
+                message:
+                  de: "Denke an den Vokalwechsel a → ä bei anfangen: fängt … an."
+                  en: "Remember the a → ä stem change in anfangen: fängt … an."
+          - source: "Are you coming along today? (mitkommen · du · heute)"
+            target: "Kommst du heute mit?"
+            mistakes:
+              - answer: "Mitkommst du heute?"
+                message:
+                  de: "Auch in Ja-/Nein-Fragen teilt sich das Verb: Kommst … mit?"
+                  en: "In yes/no questions the verb splits too: Kommst … mit?"
+        explanation:
+          de: "Egal ob Aussage oder Frage: Das konjugierte Grundverb ankert vorn (Pos. 2 oder Pos. 1), und die Vorsilbe schließt ganz rechts die Klammer."
+          en: "Whether in a statement or a question, the conjugated base verb anchors near the front (Pos. 2 or Pos. 1), and the prefix closes the bracket at the far right."

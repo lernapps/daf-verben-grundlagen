@@ -1,0 +1,180 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Die Verben sein und haben
+  en: Verbs sein and haben
+description:
+  de: "sein (to be) und haben (to have) im Präsens konjugieren, um Personen, Zustände und Besitz zu beschreiben."
+  en: "Conjugate sein (to be) and haben (to have) in the present tense to describe people, states, and possessions."
+competencies: [praesens-sein-haben]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: Sams erstes Zimmer in Lindenberg
+      en: Sam's New Room in Lindenberg
+    blocks:
+      - type: text
+        text:
+          de: "Sam packt bei Familie Weber aus und stellt sich vor: *Ich bin Sam. Ich habe ein Fahrrad und ein helles Zimmer.*"
+          en: "Sam unpacks at the Weber home and introduces himself: *Ich bin Sam. Ich habe ein Fahrrad und ein helles Zimmer.*"
+      - type: single-choice
+        id: sein-haben-einstieg
+        text:
+          de: "Wie sagt Sam über seine Gastgeschwister Lukas und Mina: „They are nice and they have a dog“?"
+          en: "How does Sam say about his host siblings Lukas and Mina: 'They are nice and they have a dog'?"
+        options:
+          - text:
+              de: "Sie sind nett und sie haben einen Hund."
+              en: "Sie sind nett und sie haben einen Hund."
+            correct: true
+            info:
+              de: "Richtig: Zu sie (Plural) gehören sind und haben."
+              en: "Correct: Plural sie takes sind and haben."
+          - text:
+              de: "Sie ist nett und sie hat einen Hund."
+              en: "Sie ist nett und sie hat einen Hund."
+            correct: false
+            info:
+              de: "ist und hat stehen für eine Person (sie = she), nicht für zwei."
+              en: "ist and hat are singular (sie = she), not plural."
+          - text:
+              de: "Sie seid nett und sie habt einen Hund."
+              en: "Sie seid nett und sie habt einen Hund."
+            correct: false
+            info:
+              de: "seid und habt gehören zu ihr (you all), nicht zu sie (they)."
+              en: "seid and habt go with ihr (you all), not sie (they)."
+        explanation:
+          de: "sein und haben sind die zwei wichtigsten Verben im Deutschen. Beide sind unregelmäßig — du lernst ihre Formen am besten direkt mit dem Pronomen."
+          en: "sein (to be) and haben (to have) are the two most important verbs in German. Both are irregular, so learn each form together with its pronoun."
+  - type: section
+    id: regel
+    title:
+      de: Formen von sein und haben
+      en: Forms of sein and haben
+    blocks:
+      - type: table
+        caption:
+          de: "Präsens von sein und haben"
+          en: "Present tense of sein and haben"
+        header:
+          - de: Pronomen
+            en: Pronoun
+          - de: sein (to be)
+            en: sein (to be)
+          - de: haben (to have)
+            en: haben (to have)
+        rows:
+          - - de: ich
+              en: ich
+            - de: bin
+              en: bin
+            - de: habe
+              en: habe
+          - - de: du
+              en: du
+            - de: bist
+              en: bist
+            - de: hast
+              en: hast
+          - - de: er / sie / es
+              en: er / sie / es
+            - de: ist
+              en: ist
+            - de: hat
+              en: hat
+          - - de: wir
+              en: wir
+            - de: sind
+              en: sind
+            - de: haben
+              en: haben
+          - - de: ihr
+              en: ihr
+            - de: seid
+              en: seid
+            - de: habt
+              en: habt
+          - - de: sie / Sie
+              en: sie / Sie
+            - de: sind
+              en: sind
+            - de: haben
+              en: haben
+      - type: note
+        title:
+          de: "Achtung bei du und er/sie/es"
+          en: "Watch du and er/sie/es"
+        blocks:
+          - type: text
+            text:
+              de: "Bei **haben** verschwindet das **b** in *du ha**st*** und *er/sie/es ha**t***. Und *wir* sowie *sie / Sie* nutzen immer dieselbe Form (*sind*, *haben*)."
+              en: "In **haben**, the **b** drops in *du ha**st*** and *er/sie/es ha**t***. Also, *wir* and *sie / Sie* always share the same form (*sind*, *haben*)."
+  - type: section
+    id: uebung
+    title:
+      de: Übung
+      en: Practice
+    blocks:
+      - type: language-task
+        id: sein-haben-tabelle
+        languages: { source: en, target: de }
+        mode: table
+        form: { case: hint }
+        task:
+          de: Ergänze die fehlenden Formen von sein und haben.
+          en: Fill in the missing forms of sein and haben.
+        table:
+          caption:
+            de: "sein und haben im Präsens"
+            en: "sein and haben in the present tense"
+          header: ["Person", "sein", "haben"]
+          rows:
+            - ["ich", "bin", "[habe]"]
+            - ["du", "[bist]", "[hast]"]
+            - ["er / sie / es", "[ist]", "[hat]"]
+            - ["ihr", "[seid]", "habt"]
+            - ["wir / sie / Sie", "[sind]", "haben"]
+        explanation:
+          de: "Merke dir besonders du hast, er hat (ohne b) und ihr seid (mit d)."
+          en: "Pay special attention to du hast, er hat (no b) and ihr seid (ends in d)."
+      - type: language-task
+        id: sein-haben-saetze
+        languages: { source: en, target: de }
+        mode: gap
+        form: { case: hint }
+        task:
+          de: Setze die passende Form von sein oder haben in die Sätze aus Lindenberg ein.
+          en: Fill in the right form of sein or haben in these sentences from Lindenberg.
+        items:
+          - source: "Sam is 16 years old. (sein)"
+            target: "Sam [ist] sechzehn Jahre alt."
+            mistakes:
+              - answer: sind
+                message:
+                  de: "Sam ist eine Person (er), deshalb heißt es ist."
+                  en: "Sam is one person (er), so use ist."
+          - source: "Do you have a bike, Lukas? (haben)"
+            target: "Lukas, [hast] du ein Fahrrad?"
+            mistakes:
+              - answer: habst
+                message:
+                  de: "Bei du verliert haben das b: du hast."
+                  en: "With du, haben drops the b: du hast."
+          - source: "We are hungry. (haben — literal: We have hunger)"
+            target: "Wir [haben] Hunger."
+            mistakes:
+              - answer: sind
+                message:
+                  de: "Im Deutschen sagt man „Hunger haben“, nicht „Hunger sein“."
+                  en: "In German you say 'Hunger haben' (to have hunger), not 'Hunger sein'."
+          - source: "You all are in Lindenberg now. (sein)"
+            target: "Ihr [seid] jetzt in Lindenberg."
+            mistakes:
+              - answer: seit
+                message:
+                  de: "Das Verb für ihr schreibt man mit d: ihr seid."
+                  en: "The verb form for ihr is spelled with d: ihr seid."
+        explanation:
+          de: "Jedes Verb richtet sich genau nach dem Subjekt. Im Deutschen nutzt man außerdem „Hunger haben“ und „Durst haben“ mit haben."
+          en: "Every verb matches its subject. Notice also that German uses haben for 'Hunger haben' (to be hungry) and 'Durst haben' (to be thirsty)."

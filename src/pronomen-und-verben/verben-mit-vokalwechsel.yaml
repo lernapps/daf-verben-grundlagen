@@ -1,0 +1,174 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Verben mit Vokalwechsel
+  en: Stem-Changing Present Verbs
+description:
+  de: "Häufige Verben mit Vokalwechsel (e → i/ie, a → ä) wie sprechen, lesen, fahren und schlafen bei du und er/sie/es richtig bilden."
+  en: "Conjugate common stem-changing verbs (e → i/ie, a → ä) like sprechen, lesen, fahren, and schlafen in du and er/sie/es."
+competencies: [praesens-vokalwechsel]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: Nachmittag in Lindenberg
+      en: Afternoon in Lindenberg
+    blocks:
+      - type: text
+        text:
+          de: "Nach der Schule fahren Lukas und Sam mit dem Fahrrad nach Hause. Nadia liest ein Buch, und Mina spricht schon gut Englisch."
+          en: "After school Lukas and Sam ride their bikes home. Nadia reads a book, and Mina already speaks good English."
+      - type: single-choice
+        id: vokalwechsel-einstieg
+        text:
+          de: "Bei welchen Personen wechselt der Stammvokal (*fahren → fährt*, *sprechen → spricht*)?"
+          en: "In which persons does the stem vowel change (*fahren → fährt*, *sprechen → spricht*)?"
+        options:
+          - text:
+              de: "nur bei du und er / sie / es"
+              en: "only in du and er / sie / es"
+            correct: true
+            info:
+              de: "Richtig: ich, wir, ihr und sie / Sie behalten immer den Originalvokal!"
+              en: "Correct: ich, wir, ihr, and sie / Sie always keep the original vowel!"
+          - text:
+              de: "bei allen Personen im Singular (ich, du, er/sie/es)"
+              en: "in all singular persons (ich, du, er/sie/es)"
+            correct: false
+            info:
+              de: "Bei ich bleibt der Vokal unverändert: ich fahre, ich spreche, ich lese."
+              en: "ich keeps the original vowel: ich fahre, ich spreche, ich lese."
+          - text:
+              de: "nur im Plural (wir, ihr, sie)"
+              en: "only in the plural (wir, ihr, sie)"
+            correct: false
+            info:
+              de: "Im Plural gibt es nie einen Vokalwechsel: wir fahren, ihr sprecht, sie lesen."
+              en: "Plural forms never change their stem vowel: wir fahren, ihr sprecht, sie lesen."
+        explanation:
+          de: "Merke dir die „2.-und-3.-Person-Regel“: Der Vokalwechsel passiert ausschließlich bei du und er/sie/es."
+          en: "Remember the '2nd-and-3rd-person singular rule': stem vowel changes happen exclusively in du and er/sie/es."
+  - type: section
+    id: regel
+    title:
+      de: "Die drei Muster: e → i, e → ie, a → ä"
+      en: "The Three Patterns: e → i, e → ie, a → ä"
+    blocks:
+      - type: table
+        caption:
+          de: "Typische Verben mit Vokalwechsel im Präsens"
+          en: "Common stem-changing verbs in the present tense"
+        header:
+          - de: Muster & Infinitiv
+            en: Pattern & Infinitive
+          - de: ich / wir / ihr
+            en: ich / wir / ihr
+          - de: du / er, sie, es
+            en: du / er, sie, es
+        rows:
+          - - de: "e → i: sprechen"
+              en: "e → i: sprechen (speak)"
+            - de: spreche / sprechen / sprecht
+              en: spreche / sprechen / sprecht
+            - de: spr**i**chst / spr**i**cht
+              en: spr**i**chst / spr**i**cht
+          - - de: "e → i: essen"
+              en: "e → i: essen (eat)"
+            - de: esse / essen / esst
+              en: esse / essen / esst
+            - de: "**i**sst / **i**sst"
+              en: "**i**sst / **i**sst"
+          - - de: "e → ie: lesen"
+              en: "e → ie: lesen (read)"
+            - de: lese / lesen / lest
+              en: lese / lesen / lest
+            - de: l**ie**st / l**ie**st
+              en: l**ie**st / l**ie**st
+          - - de: "e → ie: sehen"
+              en: "e → ie: sehen (see)"
+            - de: sehe / sehen / seht
+              en: sehe / sehen / seht
+            - de: s**ie**hst / s**ie**ht
+              en: s**ie**hst / s**ie**ht
+          - - de: "a → ä: fahren"
+              en: "a → ä: fahren (drive/ride)"
+            - de: fahre / fahren / fahrt
+              en: fahre / fahren / fahrt
+            - de: f**ä**hrst / f**ä**hrt
+              en: f**ä**hrst / f**ä**hrt
+          - - de: "a → ä: schlafen"
+              en: "a → ä: schlafen (sleep)"
+            - de: schlafe / schlafen / schlaft
+              en: schlafe / schlafen / schlaft
+            - de: schl**ä**fst / schl**ä**ft
+              en: schl**ä**fst / schl**ä**ft
+      - type: note
+        title:
+          de: "Achtung bei lesen und essen"
+          en: "Note on lesen and essen"
+        blocks:
+          - type: text
+            text:
+              de: "Da *les-* und *ess-* schon auf **s** enden, sind *du* und *er/sie/es* gleich: *du liest / er liest*, *du isst / sie isst*."
+              en: "Because *les-* and *ess-* already end in **s**, the *du* and *er/sie/es* forms are identical: *du liest / er liest*, *du isst / sie isst*."
+  - type: section
+    id: uebung
+    title:
+      de: Übung
+      en: Practice
+    blocks:
+      - type: language-task
+        id: vokalwechsel-wahl
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: Wähle die richtige Verbform für jeden Satz.
+          en: Choose the right verb form for each sentence.
+        items:
+          - source: "Lukas rides his bike to school."
+            target: "Lukas [fährt] mit dem Fahrrad zur Schule."
+            distractors: [[fahrt, fährst]]
+          - source: "You all speak German very well!"
+            target: "Ihr [sprecht] sehr gut Deutsch!"
+            distractors: [[spricht, sprichst]]
+          - source: "Do you read the newspaper, Sam?"
+            target: "[Liest] du die Zeitung, Sam?"
+            distractors: [[Lest, Liesst]]
+          - source: "I always eat a roll in the morning."
+            target: "Ich [esse] morgens immer ein Brötchen."
+            distractors: [[isse, isst]]
+        explanation:
+          de: "Nur du und er/sie/es wechseln den Vokal. Bei ich (ich esse) und ihr (ihr sprecht) bleibt der Vokal wie im Infinitiv."
+          en: "Only du and er/sie/es change the vowel. ich (ich esse) and ihr (ihr sprecht) keep the infinitive vowel."
+      - type: language-task
+        id: vokalwechsel-luecken
+        languages: { source: en, target: de }
+        mode: gap
+        form: { case: hint }
+        task:
+          de: Setze die richtige Form im Präsens ein.
+          en: Fill in the right present-tense form.
+        items:
+          - source: "Mina speaks clearly. (sprechen)"
+            target: "Mina [spricht] deutlich."
+            mistakes:
+              - answer: sprecht
+                message:
+                  de: "Bei sprechen wechselt e zu i in der 3. Person Singular: Mina spricht."
+                  en: "In sprechen, e changes to i in 3rd person singular: Mina spricht."
+          - source: "Sam sleeps until seven o'clock. (schlafen)"
+            target: "Sam [schläft] bis sieben Uhr."
+            mistakes:
+              - answer: schlaft
+                message:
+                  de: "Bei schlafen wird a zu ä in der 3. Person Singular: Sam schläft."
+                  en: "In schlafen, a changes to ä in 3rd person singular: Sam schläft."
+          - source: "We ride the train to Berlin. (fahren)"
+            target: "Wir [fahren] mit dem Zug nach Berlin."
+            mistakes:
+              - answer: fähren
+                message:
+                  de: "Bei wir gibt es keinen Vokalwechsel: Wir fahren."
+                  en: "There is no vowel change with wir: Wir fahren."
+        explanation:
+          de: "Du kannst jetzt Pronomen, sein/haben, regelmäßige Verben und Vokalwechsel sicher konjugieren. Im nächsten Kapitel setzt du sie mit den Satzkarten auf Position 2!"
+          en: "You can now conjugate pronouns, sein/haben, regular verbs, and stem-changing verbs. In the next chapter, you lock them onto Position 2 with the Sentence Cards!"

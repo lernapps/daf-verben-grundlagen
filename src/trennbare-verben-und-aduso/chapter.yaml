@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Trennbare Verben und Position-0-Konjunktionen
+  en: Separable Verbs and Coordinating Conjunctions
+summary:
+  de: "Die Satzkarten bekommen eine rechte Klammer für trennbare Vorsilben und eine Position-0-Brücke für und, oder, aber, denn und sondern."
+  en: "The Sentence Cards gain a right-bracket slot for separable prefixes and a position-0 bridge for und, oder, aber, denn, and sondern."
+pages:
+  - trennbare-verben
+  - konjunktionen-aduso

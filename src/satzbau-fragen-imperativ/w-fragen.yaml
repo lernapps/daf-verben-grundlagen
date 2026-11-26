@@ -1,0 +1,168 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: W-Fragen stellen und beantworten
+  en: Asking and Answering W-Questions
+description:
+  de: "W-Fragen mit wer, was, wo, woher, wohin, wann und wie bilden — mit dem Verb auf Position 2."
+  en: "Ask and answer W-questions with wer, was, wo, woher, wohin, wann, and wie — keeping the verb in Position 2."
+competencies: [w-fragen]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: Sam fragt sich durch Lindenberg
+      en: Sam Asks His Way Around Lindenberg
+    blocks:
+      - type: text
+        text:
+          de: "In den ersten Tagen hat Sam viele Fragen an Nadia und Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*"
+          en: "In his first days Sam has many questions for Nadia and Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*"
+      - type: figure
+        image: images/sentence-cards-questions.svg
+        source:
+          de: eigene Zeichnung
+          en: own diagram
+        licence: CC0-1.0
+        alt:
+          de: "Satzkarten für Fragen: W-Frage zeigt Woher (Pos. 1 W-Wort), kommst (Pos. 2 Verb), du? (Subjekt). Ja-/Nein-Frage zeigt Spielst (Pos. 1 Verb), du (Subjekt), gern Fußball? (Rest)."
+          en: "Sentence Cards for questions: W-question shows Woher (Pos. 1 W-word), kommst (Pos. 2 Verb), du? (Subject). Yes/No question shows Spielst (Pos. 1 Verb), du (Subject), gern Fußball? (Rest)."
+        caption:
+          de: "Bei W-Fragen besetzt das Fragewort Position 1 — das Verb bleibt fest auf Position 2."
+          en: "In W-questions the question word fills Position 1 — the verb stays locked in Position 2."
+      - type: matching
+        id: w-woerter-zuordnen
+        text:
+          de: Ordne jedes W-Wort seiner Bedeutung zu.
+          en: Match each W-word to its meaning.
+        pairs:
+          - left:
+              de: wer
+              en: wer
+            right:
+              de: who (Person)
+              en: who (person)
+          - left:
+              de: was
+              en: was
+            right:
+              de: what (Sache / Tätigkeit)
+              en: what (thing / activity)
+          - left:
+              de: wann
+              en: wann
+            right:
+              de: when (Zeit)
+              en: when (time)
+          - left:
+              de: wie
+              en: wie
+            right:
+              de: how (Art / Name / Befinden)
+              en: how (manner / name / feeling)
+        explanation:
+          de: "Fast alle deutschen Fragewörter beginnen mit W — sie stehen immer auf Position 1, direkt vor dem Verb."
+          en: "Almost all German question words start with W — they always stand in Position 1, right before the verb."
+  - type: section
+    id: regel
+    title:
+      de: "Drei Ortsfragen: wo, woher, wohin"
+      en: "Three Place Words: wo, woher, wohin"
+    blocks:
+      - type: text
+        text:
+          de: "Englisch *where* entspricht im Deutschen drei verschiedenen W-Wörtern — je nach Richtung:"
+          en: "English *where* splits into three German W-words depending on direction:"
+      - type: table
+        caption:
+          de: "wo, woher und wohin im Vergleich"
+          en: "Comparing wo, woher, and wohin"
+        header:
+          - de: W-Wort
+            en: W-word
+          - de: Bedeutung
+            en: Meaning
+          - de: Beispiel
+            en: Example
+        rows:
+          - - de: "**wo**"
+              en: "**wo**"
+            - de: where (Ort, Ruhe)
+              en: where (location, no movement)
+            - de: Wo wohnst du? — In Lindenberg.
+              en: Wo wohnst du? — In Lindenberg.
+          - - de: "**woher**"
+              en: "**woher**"
+            - de: where from (Herkunft)
+              en: where from (origin)
+            - de: Woher kommst du? — Aus den USA.
+              en: Woher kommst du? — Aus den USA.
+          - - de: "**wohin**"
+              en: "**wohin**"
+            - de: where to (Ziel)
+              en: where to (destination)
+            - de: Wohin gehst du? — In die Schule.
+              en: Wohin gehst du? — In die Schule.
+      - type: note
+        title:
+          de: "Wie heißt du? — nicht Was!"
+          en: "Wie heißt du? — not Was!"
+        blocks:
+          - type: text
+            text:
+              de: "Nach dem Namen fragt man auf Deutsch mit **Wie**: *Wie heißt du?* (wörtlich: *How are you called?*)."
+              en: "To ask someone's name in German, use **Wie**: *Wie heißt du?* (literally *How are you called?*)."
+  - type: section
+    id: uebung
+    title:
+      de: Übung
+      en: Practice
+    blocks:
+      - type: language-task
+        id: w-fragen-waehlen
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: Wähle das passende Fragewort für jede Frage.
+          en: Choose the right question word for each question.
+        items:
+          - source: "Where are you from, Sam? — From Boston."
+            target: "[Woher] kommst du, Sam?"
+            distractors: [[Wo, Wohin]]
+          - source: "Where are you going now? — To the bakery."
+            target: "[Wohin] gehst du jetzt?"
+            distractors: [[Wo, Woher]]
+          - source: "Where is the train station? — In the center."
+            target: "[Wo] ist der Bahnhof?"
+            distractors: [[Woher, Wohin]]
+          - source: "When does German class start? — At eight o'clock."
+            target: "[Wann] beginnt der Deutschunterricht?"
+            distractors: [[Wer, Was]]
+        explanation:
+          de: "wo fragt nach dem Ort, woher nach der Herkunft (aus …), wohin nach dem Ziel, und wann nach der Zeit."
+          en: "wo asks for a location, woher for origin (from), wohin for destination (to), and wann for time."
+      - type: language-task
+        id: w-fragen-schreiben
+        languages: { source: en, target: de }
+        mode: write
+        form: { punctuation: ok }
+        task:
+          de: Schreibe die W-Frage auf Deutsch. Denke an das Verb auf Position 2!
+          en: Write each W-question in German. Keep the verb in Position 2!
+        items:
+          - source: "Who is that?"
+            target: "Wer ist das?"
+            mistakes:
+              - answer: "Wer das ist?"
+                message:
+                  de: "In einer W-Frage steht das Verb ist auf Position 2: Wer ist das?"
+                  en: "In a W-question, the verb ist stands in Position 2: Wer ist das?"
+          - source: "What are you learning? (du)"
+            target: "Was lernst du?"
+            mistakes:
+              - answer: "Was du lernst?"
+                message:
+                  de: "Stelle das Verb lernst direkt hinter Was auf Position 2: Was lernst du?"
+                  en: "Place the verb lernst right after Was in Position 2: Was lernst du?"
+        explanation:
+          de: "Eine W-Frage braucht kein englisches Hilfsverb wie *do/are*: W-Wort (Pos. 1) + konjugiertes Verb (Pos. 2) + Subjekt."
+          en: "German W-questions never add an extra *do/are*: W-word (Pos. 1) + conjugated verb (Pos. 2) + subject."

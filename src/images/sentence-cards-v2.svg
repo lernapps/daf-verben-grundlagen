@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 230" width="640" height="230" role="img">
+  <rect width="640" height="230" rx="12" fill="#F8FAFC"/>
+  <text x="20" y="28" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#475569">A · Subjekt auf Position 1</text>
+  <rect x="20" y="40" width="160" height="58" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/>
+  <text x="100" y="61" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#1D4ED8">POS. 1</text>
+  <text x="100" y="83" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Sam</text>
+
+  <rect x="196" y="40" width="160" height="58" rx="8" fill="#FEF3C7" stroke="#D97706" stroke-width="3"/>
+  <text x="276" y="61" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#B45309">POS. 2 · VERB</text>
+  <text x="276" y="83" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0F172A">wohnt</text>
+
+  <rect x="372" y="40" width="248" height="58" rx="8" fill="#CCFBF1" stroke="#0F766E" stroke-width="2"/>
+  <text x="496" y="61" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#0F766E">REST</text>
+  <text x="496" y="83" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0F172A">heute in Lindenberg.</text>
+
+  <text x="20" y="134" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#475569">B · Zeit auf Position 1 (Inversion)</text>
+  <rect x="20" y="146" width="160" height="58" rx="8" fill="#CCFBF1" stroke="#0F766E" stroke-width="2"/>
+  <text x="100" y="167" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#0F766E">POS. 1</text>
+  <text x="100" y="189" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Heute</text>
+
+  <rect x="196" y="146" width="160" height="58" rx="8" fill="#FEF3C7" stroke="#D97706" stroke-width="3"/>
+  <text x="276" y="167" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#B45309">POS. 2 · VERB</text>
+  <text x="276" y="189" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0F172A">wohnt</text>
+
+  <rect x="372" y="146" width="106" height="58" rx="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/>
+  <text x="425" y="167" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#1D4ED8">SUBJEKT</text>
+  <text x="425" y="189" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Sam</text>
+
+  <rect x="490" y="146" width="130" height="58" rx="8" fill="#CCFBF1" stroke="#0F766E" stroke-width="2"/>
+  <text x="555" y="167" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#0F766E">REST</text>
+  <text x="555" y="189" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0F172A">in Lindenberg.</text>
+</svg>

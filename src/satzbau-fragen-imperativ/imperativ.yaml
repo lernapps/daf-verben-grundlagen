@@ -1,0 +1,174 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Imperativ (du, ihr, Sie)
+  en: Imperative (du, ihr, Sie)
+description:
+  de: "Anweisungen, Tipps und höfliche Bitten mit dem Imperativ für du, ihr und Sie bilden — Verb auf Position 1."
+  en: "Give instructions, tips, and polite requests using the imperative for du, ihr, and Sie — verb in Position 1."
+competencies: [imperativ]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: Tipps und Anweisungen in Lindenberg
+      en: Tips and Instructions in Lindenberg
+    blocks:
+      - type: text
+        text:
+          de: "Wie bei der Ja-/Nein-Frage steht das Verb im Imperativ auf **Position 1**. Je nachdem, wen man anspricht, gibt es drei Formen: **du**, **ihr** und **Sie**."
+          en: "Just like in yes/no questions, the verb stands in **Position 1** in the imperative. Depending on who you address, German has three forms: **du**, **ihr**, and **Sie**."
+      - type: single-choice
+        id: imperativ-einstieg
+        text:
+          de: "Herr Braun sagt zur ganzen Klasse: *„Öffnet bitte das Buch auf Seite 10!“* Wen spricht er an?"
+          en: "Herr Braun tells the whole class: *'Öffnet bitte das Buch auf Seite 10!'* Who is he addressing?"
+        options:
+          - text:
+              de: "mehrere vertraute Personen (ihr)"
+              en: "several people informally (ihr)"
+            correct: true
+            info:
+              de: "Richtig: Der ihr-Imperativ hat die normale ihr-Form (ihr öffnet) ohne das Pronomen ihr."
+              en: "Correct: The ihr-imperative uses the regular ihr-form (ihr öffnet) without the pronoun ihr."
+          - text:
+              de: "eine einzelne Schülerin (du)"
+              en: "one single student (du)"
+            correct: false
+            info:
+              de: "Für du hieße es: Öffne bitte das Buch!"
+              en: "For du it would be: Öffne bitte das Buch!"
+          - text:
+              de: "eine erwachsene Person höflich (Sie)"
+              en: "one adult formally (Sie)"
+            correct: false
+            info:
+              de: "Bei Sie steht das Pronomen immer dabei: Öffnen Sie bitte das Buch!"
+              en: "The Sie-imperative always keeps the pronoun Sie: Öffnen Sie bitte das Buch!"
+        explanation:
+          de: "Im Deutschen zeigt die Verbform sofort, ob du eine Person (du), mehrere (ihr) oder jemanden höflich (Sie) ansprichst."
+          en: "In German the verb form immediately shows whether you address one peer (du), a group (ihr), or someone formally (Sie)."
+  - type: section
+    id: regel
+    title:
+      de: So bildest du die drei Imperativ-Formen
+      en: How to Form the Three Imperatives
+    blocks:
+      - type: table
+        caption:
+          de: "Imperativ für du, ihr und Sie"
+          en: "Imperative for du, ihr, and Sie"
+        header:
+          - de: Infinitiv
+            en: Infinitive
+          - de: du / ihr (ohne Pronomen)
+            en: du / ihr (no pronoun)
+          - de: Sie (mit Sie!)
+            en: Sie (keep Sie!)
+        rows:
+          - - de: kommen
+              en: kommen (come)
+            - de: Komm! / Kommt!
+              en: Komm! / Kommt!
+            - de: Kommen Sie!
+              en: Kommen Sie!
+          - - de: arbeiten
+              en: arbeiten (work)
+            - de: Arbeit**e**! / Arbeitet!
+              en: Arbeit**e**! / Arbeitet!
+            - de: Arbeiten Sie!
+              en: Arbeiten Sie!
+          - - de: sprechen (e → i)
+              en: sprechen (e → i)
+            - de: Spr**i**ch! / Sprecht!
+              en: Spr**i**ch! / Sprecht!
+            - de: Sprechen Sie!
+              en: Sprechen Sie!
+          - - de: lesen (e → ie)
+              en: lesen (e → ie)
+            - de: L**ie**s! / Lest!
+              en: L**ie**s! / Lest!
+            - de: Lesen Sie!
+              en: Lesen Sie!
+          - - de: fahren (a → ä)
+              en: fahren (a → ä)
+            - de: F**a**hr! / Fahrt!
+              en: F**a**hr! / Fahrt!
+            - de: Fahren Sie!
+              en: Fahren Sie!
+          - - de: sein (Sonderform)
+              en: sein (irregular)
+            - de: "**Sei**! / **Seid**!"
+              en: "**Sei**! / **Seid**!"
+            - de: "**Seien** Sie!"
+              en: "**Seien** Sie!"
+      - type: note
+        title:
+          de: "Goldene Regel für den du-Imperativ"
+          en: "Golden Rule for the du-Imperative"
+        blocks:
+          - type: text
+            text:
+              de: "Nimm die *du*-Form und streiche **-st** und *du*: *du kommst → Komm!* Der Wechsel **e → i/ie** bleibt (*Sprich!*, *Lies!*), aber der Umlaut **a → ä** fällt weg (*Fahr!*, *Schlaf!*). Nach **-t/-d** bleibt ein **-e**: *Arbeite!*"
+              en: "Take the *du*-form and drop **-st** and *du*: *du kommst → Komm!* Keep **e → i/ie** (*Sprich!*, *Lies!*), but drop the umlaut **a → ä** (*Fahr!*, *Schlaf!*). After **-t/-d**, keep **-e**: *Arbeite!*"
+  - type: section
+    id: uebung
+    title:
+      de: Übung
+      en: Practice
+    blocks:
+      - type: language-task
+        id: imperativ-wahl
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: Wähle die richtige Imperativ-Form für den du-Imperativ.
+          en: Choose the right du-imperative form.
+        items:
+          - source: "Speak slowly, please! (sprechen, du)"
+            target: "[Sprich] bitte langsam!"
+            distractors: [[Sprech, Sprichst]]
+          - source: "Ride carefully! (fahren, du)"
+            target: "[Fahr] vorsichtig!"
+            distractors: [[Fähr, Fährst]]
+          - source: "Read the sentence! (lesen, du)"
+            target: "[Lies] den Satz!"
+            distractors: [[Les, Liest]]
+          - source: "Be punctual! (sein, du)"
+            target: "[Sei] pünktlich!"
+            distractors: [[Bist, Seid]]
+        explanation:
+          de: "e → i/ie bleibt im du-Imperativ erhalten (Sprich!, Lies!), a → ä verliert den Umlaut (Fahr!), und sein hat die Sonderform Sei!."
+          en: "e → i/ie stays in the du-imperative (Sprich!, Lies!), a → ä drops its umlaut (Fahr!), and sein has the special form Sei!."
+      - type: language-task
+        id: imperativ-luecken
+        languages: { source: en, target: de }
+        mode: gap
+        form: { case: hint }
+        task:
+          de: Bilde den passenden Imperativ für du, ihr oder Sie.
+          en: Form the right imperative for du, ihr, or Sie.
+        items:
+          - source: "Frau Weber to Sam (du): Eat a roll! (essen)"
+            target: "[Iss] ein Brötchen, Sam!"
+            mistakes:
+              - answer: Ess
+                message:
+                  de: "Bei essen (e → i) bleibt das i im du-Imperativ: Iss!"
+                  en: "With essen (e → i), keep the i in the du-imperative: Iss!"
+          - source: "Herr Braun to the class (ihr): Ask Nadia! (fragen)"
+            target: "[Fragt] bitte Nadia!"
+            mistakes:
+              - answer: Fragen
+                message:
+                  de: "Der ihr-Imperativ endet wie ihr fragt auf -t: Fragt!"
+                  en: "The ihr-imperative takes the -t ending of ihr fragt: Fragt!"
+          - source: "Sam to a neighbor (Sie): Please wait a moment! (warten)"
+            target: "[Warten Sie] bitte einen Moment!"
+            mistakes:
+              - answer: Warten
+                message:
+                  de: "Beim höflichen Imperativ steht Sie immer hinter dem Verb: Warten Sie!"
+                  en: "In the formal imperative, always include Sie right after the verb: Warten Sie!"
+        explanation:
+          de: "Stark! Du beherrschst jetzt Position 2 (Aussagen, W-Fragen) und Position 1 (Ja-/Nein-Fragen, Imperativ). Im letzten Kapitel erweitern wir die Satzkarten um die rechte Klammer und Position 0."
+          en: "Well done! You now master Position 2 (statements, W-questions) and Position 1 (yes/no questions, imperatives). In the final chapter, we add the right bracket and Position 0."
