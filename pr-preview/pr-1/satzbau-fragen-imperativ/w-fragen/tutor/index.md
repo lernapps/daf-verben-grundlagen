@@ -41,9 +41,9 @@ Nennt die Adresse dieser Seite `bedarf=`, gilt jeder Abschnitt, den sie nennt, m
 
 W-Fragen mit wer, was, wo, woher, wohin, wann und wie bilden — mit dem Verb auf Position 2.
 
-### Sam fragt sich durch Lindenberg
+### Peter fragt sich durch Lindenberg
 
-In den ersten Tagen hat Sam viele Fragen an Nadia und Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*
+In den ersten Tagen hat Peter viele Fragen an Nadia und Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*
 
 Bild: Satzkarten für Fragen: W-Frage zeigt Woher (Pos. 1 W-Wort), kommst (Pos. 2 Verb), du? (Subjekt). Ja-/Nein-Frage zeigt Spielst (Pos. 1 Verb), du (Subjekt), gern Fußball? (Rest). Bildunterschrift: Bei W-Fragen besetzt das Fragewort Position 1 — das Verb bleibt fest auf Position 2.
 
@@ -83,7 +83,7 @@ Nach dem Namen fragt man auf Deutsch mit **Wie**: *Wie heißt du?* (wörtlich: *
 - Antwortformat: für jede Lücke ein Wort wählen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):
-1. Where are you from, Sam? — From Boston. → Woher kommst du, Sam?
+1. Where are you from, Peter? — From Boston. → Woher kommst du, Peter?
 2. Where are you going now? — To the bakery. → Wohin gehst du jetzt?
 3. Where is the train station? — In the center. → Wo ist der Bahnhof?
 4. When does German class start? — At eight o'clock. → Wann beginnt der Deutschunterricht?

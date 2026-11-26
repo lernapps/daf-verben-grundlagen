@@ -41,18 +41,18 @@ If the address of this page names `bedarf=`, each section it names holds, severa
 
 Split separable verbs like aufstehen, einkaufen, and anrufen in main clauses: conjugated verb in Position 2, prefix at the end.
 
-### Sam's Daily Routine in Lindenberg
+### Peter's Daily Routine in Lindenberg
 
 Many everyday German verbs have two parts: a stressed prefix (**auf-**, **ein-**, **an-**, **mit-**) plus a base verb. In a main clause, they split to form a **sentence bracket**.
 
-Picture: Sentence bracket for aufstehen: Sam (Pos. 1), steht (Pos. 2 Verb), um sieben Uhr (middle field), auf (End Prefix). A bracket links steht and auf. Caption: The conjugated base verb stays in Position 2; the prefix closes the sentence bracket at the very end.
+Picture: Sentence bracket for aufstehen: Peter (Pos. 1), steht (Pos. 2 Verb), um sieben Uhr (middle field), auf (End Prefix). A bracket links steht and auf. Caption: The conjugated base verb stays in Position 2; the prefix closes the sentence bracket at the very end.
 
 - Exercise `trennbar-einstieg` (below)
 
 ### Common Separable Verbs
 
 Vocabulary (German – English): Separable verbs for daily life in Lindenberg
-- aufstehen – to get up. Example: Sam steht um sieben Uhr auf. – Sam gets up at seven o'clock.
+- aufstehen – to get up. Example: Peter steht um sieben Uhr auf. – Peter gets up at seven o'clock.
 - einkaufen – to go shopping. Example: Wir kaufen Brötchen ein. – We are buying rolls.
 - anrufen – to call (by phone). Example: Ich rufe meine Eltern an. – I call my parents.
 - anfangen – to begin, to start. Example: Die Schule fängt um acht Uhr an. – School starts at eight o'clock.. Note: Stem change a → ä: Der Unterricht fängt um acht Uhr an.
@@ -85,8 +85,8 @@ Common separable prefixes are **ab-, an-, auf-, aus-, ein-, fern-, mit-, vor-, z
 
 - Task: Build the sentence bracket with *anrufen* (to call).
 - Answer format: put the items in the right order (the app shows them shuffled)
-- Solution: 1. Am Abend, 2. ruft, 3. Sam, 4. seine Eltern, 5. an.
-- Explanation: Am Abend (Pos. 1) + ruft (Pos. 2 verb) + Sam seine Eltern (middle field) + an (right bracket).
+- Solution: 1. Am Abend, 2. ruft, 3. Peter, 4. seine Eltern, 5. an.
+- Explanation: Am Abend (Pos. 1) + ruft (Pos. 2 verb) + Peter seine Eltern (middle field) + an (right bracket).
 - Link: [../?via=tutor#trennbar-ordnen](../?via=tutor#trennbar-ordnen)
 
 ### Exercise trennbar-luecken
@@ -95,8 +95,8 @@ Common separable prefixes are **ab-, an-, auf-, aus-, ein-, fern-, mit-, vor-, z
 - Answer format: write the whole answer in German
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation ignored
 - Items (start → solution):
-1. Sam gets up early. (aufstehen · früh) → Sam steht früh auf.
-     - Sam aufsteht früh.: Split aufstehen in a main clause: steht in Position 2, auf at the end.
+1. Peter gets up early. (aufstehen · früh) → Peter steht früh auf.
+     - Peter aufsteht früh.: Split aufstehen in a main clause: steht in Position 2, auf at the end.
 2. Class starts at eight o'clock. (anfangen · Der Unterricht · um acht Uhr) → Der Unterricht fängt um acht Uhr an.
      - Der Unterricht fangt um acht Uhr an.: Remember the a → ä stem change in anfangen: fängt … an.
 3. Are you coming along today? (mitkommen · du · heute) → Kommst du heute mit?

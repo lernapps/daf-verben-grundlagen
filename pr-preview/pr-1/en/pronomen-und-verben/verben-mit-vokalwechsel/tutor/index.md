@@ -43,7 +43,7 @@ Conjugate common stem-changing verbs (e → i/ie, a → ä) like sprechen, lesen
 
 ### Afternoon in Lindenberg
 
-After school Lukas and Sam ride their bikes home. Nadia reads a book, and Mina already speaks good English.
+After school Lukas and Peter ride their bikes home. Nadia reads a book, and Mina already speaks good English.
 
 - Exercise `vokalwechsel-einstieg` (below)
 
@@ -88,7 +88,7 @@ Because *les-* and *ess-* already end in **s**, the *du* and *er/sie/es* forms a
 - Items (start → solution):
 1. Lukas rides his bike to school. → Lukas fährt mit dem Fahrrad zur Schule.
 2. You all speak German very well! → Ihr sprecht sehr gut Deutsch!
-3. Do you read the newspaper, Sam? → Liest du die Zeitung, Sam?
+3. Do you read the newspaper, Peter? → Liest du die Zeitung, Peter?
 4. I always eat a roll in the morning. → Ich esse morgens immer ein Brötchen.
 - Explanation: Only du and er/sie/es change the vowel. ich (ich esse) and ihr (ihr sprecht) keep the infinitive vowel.
 - How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
@@ -102,8 +102,8 @@ Because *les-* and *ess-* already end in **s**, the *du* and *er/sie/es* forms a
 - Items (start → solution):
 1. Mina speaks clearly. (sprechen) → Mina spricht deutlich.
      - sprecht: In sprechen, e changes to i in 3rd person singular: Mina spricht.
-2. Sam sleeps until seven o'clock. (schlafen) → Sam schläft bis sieben Uhr.
-     - schlaft: In schlafen, a changes to ä in 3rd person singular: Sam schläft.
+2. Peter sleeps until seven o'clock. (schlafen) → Peter schläft bis sieben Uhr.
+     - schlaft: In schlafen, a changes to ä in 3rd person singular: Peter schläft.
 3. We ride the train to Berlin. (fahren) → Wir fahren mit dem Zug nach Berlin.
      - fähren: There is no vowel change with wir: Wir fahren.
 - Explanation: You can now conjugate pronouns, sein/haben, regular verbs, and stem-changing verbs. In the next chapter, you lock them onto Position 2 with the Sentence Cards!

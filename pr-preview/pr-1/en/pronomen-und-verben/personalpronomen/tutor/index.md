@@ -43,7 +43,7 @@ Use German nominative subject pronouns (ich, du, er, sie, es, wir, ihr, sie, Sie
 
 ### Arriving at the Weber Home
 
-Sam arrives in Lindenberg as an exchange student. Frau Weber, Lukas (15), and Mina (12) wait at the station. Which pronoun fits the first greeting?
+Peter arrives in Lindenberg as an exchange student. Frau Weber, Lukas (15), and Mina (12) wait at the station. Which pronoun fits the first greeting?
 
 - Exercise `pronomen-einstieg` (below)
 
@@ -53,7 +53,7 @@ A nominative personal pronoun sits on the Subject Card: it tells you who does th
 
 Nominative personal pronouns:
 - Pronoun | Meaning | Example in Lindenberg
-- ich | I | Ich bin Sam.
+- ich | I | Ich bin Peter.
 - du | you (singular, informal) | Du bist Lukas.
 - er / sie / es | he / she / it | Er ist 15. Sie ist 12. Es ist kalt.
 - wir | we | Wir wohnen in Lindenberg.
@@ -73,7 +73,7 @@ Nominative personal pronouns:
 
 ### Exercise pronomen-einstieg
 
-- Task: Sam speaks to Frau Weber first. She is an adult he does not know well yet. Which pronoun does he use?
+- Task: Peter speaks to Frau Weber first. She is an adult he does not know well yet. Which pronoun does he use?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ Sie (capitalized) – Correct: With adults you address formally, German uses capitalized Sie.
@@ -87,7 +87,7 @@ Nominative personal pronouns:
 
 - Task: Match each person or group in Lindenberg to the right subject pronoun.
 - Answer format: match each item on the left with one on the right
-- Solution: Mina (12) – sie (she); Lukas and I (Sam) – wir; Lukas and Mina (Sam talks to both) – ihr; Herr Braun (Sam's teacher, direct address) – Sie
+- Solution: Mina (12) – sie (she); Lukas and I (Peter) – wir; Lukas and Mina (Peter talks to both) – ihr; Herr Braun (Peter's teacher, direct address) – Sie
 - Explanation: Mina is feminine singular (sie), Lukas + I is wir, two peers addressed together are ihr, and a teacher is addressed formally as Sie.
 - Link: [../?via=tutor#pronomen-zuordnen](../?via=tutor#pronomen-zuordnen)
 
@@ -97,10 +97,10 @@ Nominative personal pronouns:
 - Answer format: choose a word for each gap
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):
-1. Sam talks about Lukas: He is fifteen years old. → Er ist fünfzehn Jahre alt.
-2. Sam talks to Lukas and Mina: You all live in Lindenberg. → Ihr wohnt in Lindenberg.
-3. Sam talks about Frau Weber and Herr Weber: They are very friendly. → Sie sind sehr freundlich.
-4. Sam talks about himself and Lukas: We go to school. → Wir gehen zur Schule.
+1. Peter talks about Lukas: He is fifteen years old. → Er ist fünfzehn Jahre alt.
+2. Peter talks to Lukas and Mina: You all live in Lindenberg. → Ihr wohnt in Lindenberg.
+3. Peter talks about Frau Weber and Herr Weber: They are very friendly. → Sie sind sehr freundlich.
+4. Peter talks about himself and Lukas: We go to school. → Wir gehen zur Schule.
 - Explanation: Always check who is on the Subject Card: one person (er/sie/es), yourself plus others (wir), peers addressed directly (ihr), or other people in the plural (sie).
 - How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
 - Link: [../?via=tutor#pronomen-waehlen](../?via=tutor#pronomen-waehlen)

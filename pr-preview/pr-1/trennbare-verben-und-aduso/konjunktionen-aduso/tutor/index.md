@@ -43,9 +43,9 @@ Zwei Hauptsätze mit und, oder, aber, denn und sondern verbinden — die Verb-Zw
 
 ### Die Position-0-Brücke zwischen zwei Sätzen
 
-Sam schreibt seinen Eltern eine Nachricht über seine erste Woche in Lindenberg. Mit fünf kleinen Bindewörtern (**aber, denn, und, sondern, oder** — kurz **ADUSO**) verbindet er zwei Hauptsätze, ohne die Wortstellung zu verändern.
+Peter schreibt seinen Eltern eine Nachricht über seine erste Woche in Lindenberg. Mit fünf kleinen Bindewörtern (**aber, denn, und, sondern, oder** — kurz **ADUSO**) verbindet er zwei Hauptsätze, ohne die Wortstellung zu verändern.
 
-Bild: Position-0-Brücke ADUSO: Satz 1 Sam ist müde, dann Pos. 0 aber, dann Pos. 1 er, Pos. 2 lernt, Rest weiter. Bildunterschrift: ADUSO-Konjunktionen stehen auf Position 0 — danach startet ganz normal Position 1 + Position 2.
+Bild: Position-0-Brücke ADUSO: Satz 1 Peter ist müde, dann Pos. 0 aber, dann Pos. 1 er, Pos. 2 lernt, Rest weiter. Bildunterschrift: ADUSO-Konjunktionen stehen auf Position 0 — danach startet ganz normal Position 1 + Position 2.
 
 - Aufgabe `aduso-einstieg` (unten)
 
@@ -56,7 +56,7 @@ Bedeutung und Komma bei ADUSO:
 - **A** · aber | but (Gegensatz, mit Komma) | Deutsch ist schwer, **aber** es macht Spaß.
 - **D** · denn | because (Grund, mit Komma) | Ich bleibe hier, **denn** ich bin müde.
 - **U** · und | and (Aufzählung, kein Komma nötig) | Lukas liest **und** Mina spielt Fußball.
-- **S** · sondern | but rather (nach nicht/kein, mit Komma) | Sam kommt nicht aus London, **sondern** er kommt aus Boston.
+- **S** · sondern | but rather (nach nicht/kein, mit Komma) | Peter kommt nicht aus London, **sondern** er kommt aus Boston.
 - **O** · oder | or (Alternative, kein Komma nötig) | Trinkst du Tee **oder** möchtest du Wasser?
 
 **Merke: aber oder sondern?**
@@ -71,13 +71,13 @@ Benutze **sondern** nur, wenn der erste Satz eine Verneinung (*nicht* / *kein*) 
 
 ### Aufgabe aduso-einstieg
 
-- Aufgabe: Wie verbindet Sam diese beiden Sätze richtig mit *denn* (because): *Sam lernt viel. Er wohnt jetzt in Lindenberg.*
+- Aufgabe: Wie verbindet Peter diese beiden Sätze richtig mit *denn* (because): *Peter lernt viel. Er wohnt jetzt in Lindenberg.*
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
-  - ✓ Sam lernt viel, denn er wohnt jetzt in Lindenberg. – Richtig: denn steht auf Position 0, also bleibt er auf Position 1 und wohnt auf Position 2.
-  - ✗ Sam lernt viel, denn wohnt er jetzt in Lindenberg. – denn zählt nicht als Position 1 — hier gibt es keine Inversion!
-  - ✗ Sam lernt viel, denn er jetzt in Lindenberg wohnt. – Verben am Satzende gibt es erst bei weil (Nebensatz), nicht bei denn.
-- Lösung: Sam lernt viel, denn er wohnt jetzt in Lindenberg.
+  - ✓ Peter lernt viel, denn er wohnt jetzt in Lindenberg. – Richtig: denn steht auf Position 0, also bleibt er auf Position 1 und wohnt auf Position 2.
+  - ✗ Peter lernt viel, denn wohnt er jetzt in Lindenberg. – denn zählt nicht als Position 1 — hier gibt es keine Inversion!
+  - ✗ Peter lernt viel, denn er jetzt in Lindenberg wohnt. – Verben am Satzende gibt es erst bei weil (Nebensatz), nicht bei denn.
+- Lösung: Peter lernt viel, denn er wohnt jetzt in Lindenberg.
 - Erklärung: Merke das Kürzel ADUSO: aber, denn, und, sondern, oder. Alle fünf besetzen Position 0 und lassen Position 1 und Position 2 unberührt.
 - Link: [../?via=tutor#aduso-einstieg](../?via=tutor#aduso-einstieg)
 
@@ -87,7 +87,7 @@ Benutze **sondern** nur, wenn der erste Satz eine Verneinung (*nicht* / *kein*) 
 - Antwortformat: für jede Lücke ein Wort wählen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):
-1. Sam does not live in Berlin, but rather he lives in Lindenberg. → Sam wohnt nicht in Berlin, sondern er wohnt in Lindenberg.
+1. Peter does not live in Berlin, but rather he lives in Lindenberg. → Peter wohnt nicht in Berlin, sondern er wohnt in Lindenberg.
 2. We take the bus, because it is raining today. → Wir nehmen den Bus, denn es regnet heute.
 3. The room is small, but it is very bright. → Das Zimmer ist klein, aber es ist sehr hell.
 4. Are we going to the cinema or are we staying at home? → Gehen wir ins Kino oder bleiben wir zu Hause?
@@ -103,8 +103,8 @@ Benutze **sondern** nur, wenn der erste Satz eine Verneinung (*nicht* / *kein*) 
 - Einträge (Vorgabe → Lösung):
 1. Mina plays soccer and Lukas reads a book. (und) → Mina spielt Fußball und Lukas liest ein Buch.
      - Mina spielt Fußball und liest Lukas ein Buch.: und steht auf Position 0 — danach kommt zuerst das Subjekt (Lukas) auf Position 1 und dann das Verb (liest) auf Position 2.
-2. Sam is tired, because he gets up early. (denn) → Sam ist müde, denn er steht früh auf.
-     - Sam ist müde, denn steht er früh auf.: Nach denn (Pos. 0) bleibt die normale Wortstellung: er (Pos. 1) + steht (Pos. 2) … auf.
+2. Peter is tired, because he gets up early. (denn) → Peter ist müde, denn er steht früh auf.
+     - Peter ist müde, denn steht er früh auf.: Nach denn (Pos. 0) bleibt die normale Wortstellung: er (Pos. 1) + steht (Pos. 2) … auf.
 - Erklärung: Geschafft! Du hast das ganze A1-Fundament für Verben und Hauptsätze aufgebaut: Konjugation, Verb-Zweitstellung, Fragen, Imperativ, Satzklammer und ADUSO-Brücken.
 - So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
 - Link: [../?via=tutor#aduso-verbinden](../?via=tutor#aduso-verbinden)

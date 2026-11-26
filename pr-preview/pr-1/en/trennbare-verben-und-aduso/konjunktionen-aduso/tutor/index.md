@@ -43,9 +43,9 @@ Connect main clauses with und, oder, aber, denn, and sondern without changing Po
 
 ### The Position-0 Bridge Between Two Clauses
 
-Sam writes a message home about his first week in Lindenberg. With five small connecting words (**aber, denn, und, sondern, oder** — short **ADUSO**), he links two main clauses without changing word order.
+Peter writes a message home about his first week in Lindenberg. With five small connecting words (**aber, denn, und, sondern, oder** — short **ADUSO**), he links two main clauses without changing word order.
 
-Picture: Position-0 bridge ADUSO: Clause 1 Sam ist müde, then Pos. 0 aber, then Pos. 1 er, Pos. 2 lernt, Rest weiter. Caption: ADUSO conjunctions sit in Position 0 — after them, Position 1 + Position 2 start fresh as normal.
+Picture: Position-0 bridge ADUSO: Clause 1 Peter ist müde, then Pos. 0 aber, then Pos. 1 er, Pos. 2 lernt, Rest weiter. Caption: ADUSO conjunctions sit in Position 0 — after them, Position 1 + Position 2 start fresh as normal.
 
 - Exercise `aduso-einstieg` (below)
 
@@ -56,7 +56,7 @@ Meaning and comma rules for ADUSO:
 - **A** · aber | but (contrast, with comma) | Deutsch ist schwer, **aber** es macht Spaß.
 - **D** · denn | because (reason, with comma) | Ich bleibe hier, **denn** ich bin müde.
 - **U** · und | and (addition, no comma needed) | Lukas liest **und** Mina spielt Fußball.
-- **S** · sondern | but rather (after nicht/kein, with comma) | Sam kommt nicht aus London, **sondern** er kommt aus Boston.
+- **S** · sondern | but rather (after nicht/kein, with comma) | Peter kommt nicht aus London, **sondern** er kommt aus Boston.
 - **O** · oder | or (choice, no comma needed) | Trinkst du Tee **oder** möchtest du Wasser?
 
 **Remember: aber vs. sondern**
@@ -71,13 +71,13 @@ Use **sondern** only when the first clause has a negation (*nicht* / *kein*) and
 
 ### Exercise aduso-einstieg
 
-- Task: How does Sam connect these two sentences correctly with *denn* (because): *Sam lernt viel. Er wohnt jetzt in Lindenberg.*
+- Task: How does Peter connect these two sentences correctly with *denn* (because): *Peter lernt viel. Er wohnt jetzt in Lindenberg.*
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
-  - ✓ Sam lernt viel, denn er wohnt jetzt in Lindenberg. – Correct: denn stands in Position 0, so er stays in Position 1 and wohnt stays in Position 2.
-  - ✗ Sam lernt viel, denn wohnt er jetzt in Lindenberg. – denn does not count as Position 1 — there is no subject-verb inversion!
-  - ✗ Sam lernt viel, denn er jetzt in Lindenberg wohnt. – Verb-final word order happens with weil (subordinate clause), not with denn.
-- Solution: Sam lernt viel, denn er wohnt jetzt in Lindenberg.
+  - ✓ Peter lernt viel, denn er wohnt jetzt in Lindenberg. – Correct: denn stands in Position 0, so er stays in Position 1 and wohnt stays in Position 2.
+  - ✗ Peter lernt viel, denn wohnt er jetzt in Lindenberg. – denn does not count as Position 1 — there is no subject-verb inversion!
+  - ✗ Peter lernt viel, denn er jetzt in Lindenberg wohnt. – Verb-final word order happens with weil (subordinate clause), not with denn.
+- Solution: Peter lernt viel, denn er wohnt jetzt in Lindenberg.
 - Explanation: Remember the acronym ADUSO: aber, denn, und, sondern, oder. All five sit in Position 0 and leave Position 1 and Position 2 untouched.
 - Link: [../?via=tutor#aduso-einstieg](../?via=tutor#aduso-einstieg)
 
@@ -87,7 +87,7 @@ Use **sondern** only when the first clause has a negation (*nicht* / *kein*) and
 - Answer format: choose a word for each gap
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):
-1. Sam does not live in Berlin, but rather he lives in Lindenberg. → Sam wohnt nicht in Berlin, sondern er wohnt in Lindenberg.
+1. Peter does not live in Berlin, but rather he lives in Lindenberg. → Peter wohnt nicht in Berlin, sondern er wohnt in Lindenberg.
 2. We take the bus, because it is raining today. → Wir nehmen den Bus, denn es regnet heute.
 3. The room is small, but it is very bright. → Das Zimmer ist klein, aber es ist sehr hell.
 4. Are we going to the cinema or are we staying at home? → Gehen wir ins Kino oder bleiben wir zu Hause?
@@ -103,8 +103,8 @@ Use **sondern** only when the first clause has a negation (*nicht* / *kein*) and
 - Items (start → solution):
 1. Mina plays soccer and Lukas reads a book. (und) → Mina spielt Fußball und Lukas liest ein Buch.
      - Mina spielt Fußball und liest Lukas ein Buch.: und sits in Position 0 — follow it with the subject (Lukas) in Position 1 and the verb (liest) in Position 2.
-2. Sam is tired, because he gets up early. (denn) → Sam ist müde, denn er steht früh auf.
-     - Sam ist müde, denn steht er früh auf.: After denn (Pos. 0), keep normal word order: er (Pos. 1) + steht (Pos. 2) … auf.
+2. Peter is tired, because he gets up early. (denn) → Peter ist müde, denn er steht früh auf.
+     - Peter ist müde, denn steht er früh auf.: After denn (Pos. 0), keep normal word order: er (Pos. 1) + steht (Pos. 2) … auf.
 - Explanation: You made it! You now have the complete A1 foundation for German verbs and main clauses: conjugation, verb-second order, questions, imperatives, sentence brackets, and ADUSO bridges.
 - How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
 - Link: [../?via=tutor#aduso-verbinden](../?via=tutor#aduso-verbinden)

@@ -43,7 +43,7 @@ Conjugate regular German verbs such as wohnen, lernen, spielen, arbeiten, and he
 
 ### First School Day at the Gymnasium
 
-On Monday Sam goes to the Gymnasium in Lindenberg with Lukas. They meet Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*
+On Monday Peter goes to the Gymnasium in Lindenberg with Lukas. They meet Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*
 
 - Exercise `regelmaessig-einstieg` (below)
 
@@ -63,7 +63,7 @@ Regular conjugation with wohnen (to live):
 If the stem ends in **-t** or **-d** (*arbeit-en*, *find-en*), add an extra **-e-** before *-st* and *-t*: *du arbeit**e**st*, *er arbeit**e**t*, *ihr arbeit**e**t*. If the stem ends in **-s, -ß, -z** (*heiß-en*), *du* adds only **-t**: *du heiß**t***.
 
 Vocabulary (German – English): Common regular verbs in Lindenberg
-- wohnen – to live (reside). Example: Sam wohnt bei Familie Weber. – Sam lives with the Weber family.
+- wohnen – to live (reside). Example: Peter wohnt bei Familie Weber. – Peter lives with the Weber family.
 - lernen – to learn, to study. Example: Wir lernen Deutsch. – We are learning German.
 - arbeiten – to work. Example: Frau Weber arbeitet im Büro. – Frau Weber works in an office.
 - heißen – to be called. Example: Wie heißt du? – What is your name?

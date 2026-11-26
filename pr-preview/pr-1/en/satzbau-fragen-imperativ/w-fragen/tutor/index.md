@@ -41,9 +41,9 @@ If the address of this page names `bedarf=`, each section it names holds, severa
 
 Ask and answer W-questions with wer, was, wo, woher, wohin, wann, and wie — keeping the verb in Position 2.
 
-### Sam Asks His Way Around Lindenberg
+### Peter Asks His Way Around Lindenberg
 
-In his first days Sam has many questions for Nadia and Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*
+In his first days Peter has many questions for Nadia and Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*
 
 Picture: Sentence Cards for questions: W-question shows Woher (Pos. 1 W-word), kommst (Pos. 2 Verb), du? (Subject). Yes/No question shows Spielst (Pos. 1 Verb), du (Subject), gern Fußball? (Rest). Caption: In W-questions the question word fills Position 1 — the verb stays locked in Position 2.
 
@@ -83,7 +83,7 @@ To ask someone's name in German, use **Wie**: *Wie heißt du?* (literally *How a
 - Answer format: choose a word for each gap
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):
-1. Where are you from, Sam? — From Boston. → Woher kommst du, Sam?
+1. Where are you from, Peter? — From Boston. → Woher kommst du, Peter?
 2. Where are you going now? — To the bakery. → Wohin gehst du jetzt?
 3. Where is the train station? — In the center. → Wo ist der Bahnhof?
 4. When does German class start? — At eight o'clock. → Wann beginnt der Deutschunterricht?

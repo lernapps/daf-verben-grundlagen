@@ -43,9 +43,9 @@ Build German statements with the conjugated verb in second position, including i
 
 ### The Fixed Position-2 Verb Anchor
 
-Sam plans his week in Lindenberg. German statements follow one iron rule: the conjugated verb stays locked in **Position 2** — no matter which Sentence Card moves to the front.
+Peter plans his week in Lindenberg. German statements follow one iron rule: the conjugated verb stays locked in **Position 2** — no matter which Sentence Card moves to the front.
 
-Picture: Sentence Cards for verb-second order: Sentence A shows Sam (Pos. 1), wohnt (Pos. 2 Verb), heute in Lindenberg (Rest). Sentence B shows Heute (Pos. 1), wohnt (Pos. 2 Verb), Sam (Subject), in Lindenberg (Rest). Caption: When time or place moves to Position 1, the subject slides directly behind the Verb Anchor.
+Picture: Sentence Cards for verb-second order: Sentence A shows Peter (Pos. 1), wohnt (Pos. 2 Verb), heute in Lindenberg (Rest). Sentence B shows Heute (Pos. 1), wohnt (Pos. 2 Verb), Peter (Subject), in Lindenberg (Rest). Caption: When time or place moves to Position 1, the subject slides directly behind the Verb Anchor.
 
 - Exercise `v2-einstieg` (below)
 
@@ -70,10 +70,10 @@ Swap Position 1 — Position 2 stays locked:
 - Task: Which German sentence is correct when *Am Montag* (On Monday) sits in Position 1?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
-  - ✓ Am Montag lernt Sam Deutsch. – Correct: Am Montag is one Sentence Card (Position 1), lernt stays in Position 2, and Sam follows right after.
-  - ✗ Am Montag Sam lernt Deutsch. – That follows English word order — in German it pushes lernt into Position 3, which is wrong.
-  - ✗ Am Montag Deutsch lernt Sam. – Only one Sentence Card may stand before the verb, not two (Am Montag + Deutsch).
-- Solution: Am Montag lernt Sam Deutsch.
+  - ✓ Am Montag lernt Peter Deutsch. – Correct: Am Montag is one Sentence Card (Position 1), lernt stays in Position 2, and Peter follows right after.
+  - ✗ Am Montag Peter lernt Deutsch. – That follows English word order — in German it pushes lernt into Position 3, which is wrong.
+  - ✗ Am Montag Deutsch lernt Peter. – Only one Sentence Card may stand before the verb, not two (Am Montag + Deutsch).
+- Solution: Am Montag lernt Peter Deutsch.
 - Explanation: Position 1 holds one whole phrase (e.g. Heute or Am Montag). The conjugated verb always comes immediately next.
 - Link: [../?via=tutor#v2-einstieg](../?via=tutor#v2-einstieg)
 
@@ -91,8 +91,8 @@ Swap Position 1 — Position 2 stays locked:
 - Answer format: write the whole answer in German
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation ignored
 - Items (start → solution):
-1. Sam reads a book today. → Start with: Heute → Heute liest Sam ein Buch.
-     - Heute Sam liest ein Buch.: Watch out: The verb liest must stay in Position 2 — Sam goes right after it.
+1. Peter reads a book today. → Start with: Heute → Heute liest Peter ein Buch.
+     - Heute Peter liest ein Buch.: Watch out: The verb liest must stay in Position 2 — Peter goes right after it.
 2. We eat rolls in Lindenberg. → Start with: In Lindenberg → In Lindenberg essen wir Brötchen.
      - In Lindenberg wir essen Brötchen.: In Lindenberg fills Position 1, so essen comes immediately in Position 2.
 - Explanation: After any time or place phrase at the start of a German sentence, the Verb Anchor comes immediately, never the subject.

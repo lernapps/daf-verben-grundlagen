@@ -41,9 +41,9 @@ Nennt die Adresse dieser Seite `bedarf=`, gilt jeder Abschnitt, den sie nennt, m
 
 sein (to be) und haben (to have) im Präsens konjugieren, um Personen, Zustände und Besitz zu beschreiben.
 
-### Sams erstes Zimmer in Lindenberg
+### Peters erstes Zimmer in Lindenberg
 
-Sam packt bei Familie Weber aus und stellt sich vor: *Ich bin Sam. Ich habe ein Fahrrad und ein helles Zimmer.*
+Peter packt bei Familie Weber aus und stellt sich vor: *Ich bin Peter. Ich habe ein Fahrrad und ein helles Zimmer.*
 
 - Aufgabe `sein-haben-einstieg` (unten)
 
@@ -70,7 +70,7 @@ Bei **haben** verschwindet das **b** in *du ha**st*** und *er/sie/es ha**t***. U
 
 ### Aufgabe sein-haben-einstieg
 
-- Aufgabe: Wie sagt Sam über seine Gastgeschwister Lukas und Mina: „They are nice and they have a dog“?
+- Aufgabe: Wie sagt Peter über seine Gastgeschwister Lukas und Mina: „They are nice and they have a dog“?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ Sie sind nett und sie haben einen Hund. – Richtig: Zu sie (Plural) gehören sind und haben.
@@ -101,8 +101,8 @@ Bei **haben** verschwindet das **b** in *du ha**st*** und *er/sie/es ha**t***. U
 - Antwortformat: die Lücken auf Deutsch füllen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung richtig mit Hinweis, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):
-1. Sam is 16 years old. (sein) → Sam ist sechzehn Jahre alt.
-     - sind: Sam ist eine Person (er), deshalb heißt es ist.
+1. Peter is 16 years old. (sein) → Peter ist sechzehn Jahre alt.
+     - sind: Peter ist eine Person (er), deshalb heißt es ist.
 2. Do you have a bike, Lukas? (haben) → Lukas, hast du ein Fahrrad?
      - habst: Bei du verliert haben das b: du hast.
 3. We are hungry. (haben — literal: We have hunger) → Wir haben Hunger.

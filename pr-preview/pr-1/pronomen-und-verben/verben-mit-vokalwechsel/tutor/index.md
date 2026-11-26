@@ -43,7 +43,7 @@ Häufige Verben mit Vokalwechsel (e → i/ie, a → ä) wie sprechen, lesen, fah
 
 ### Nachmittag in Lindenberg
 
-Nach der Schule fahren Lukas und Sam mit dem Fahrrad nach Hause. Nadia liest ein Buch, und Mina spricht schon gut Englisch.
+Nach der Schule fahren Lukas und Peter mit dem Fahrrad nach Hause. Nadia liest ein Buch, und Mina spricht schon gut Englisch.
 
 - Aufgabe `vokalwechsel-einstieg` (unten)
 
@@ -88,7 +88,7 @@ Da *les-* und *ess-* schon auf **s** enden, sind *du* und *er/sie/es* gleich: *d
 - Einträge (Vorgabe → Lösung):
 1. Lukas rides his bike to school. → Lukas fährt mit dem Fahrrad zur Schule.
 2. You all speak German very well! → Ihr sprecht sehr gut Deutsch!
-3. Do you read the newspaper, Sam? → Liest du die Zeitung, Sam?
+3. Do you read the newspaper, Peter? → Liest du die Zeitung, Peter?
 4. I always eat a roll in the morning. → Ich esse morgens immer ein Brötchen.
 - Erklärung: Nur du und er/sie/es wechseln den Vokal. Bei ich (ich esse) und ihr (ihr sprecht) bleibt der Vokal wie im Infinitiv.
 - So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
@@ -102,8 +102,8 @@ Da *les-* und *ess-* schon auf **s** enden, sind *du* und *er/sie/es* gleich: *d
 - Einträge (Vorgabe → Lösung):
 1. Mina speaks clearly. (sprechen) → Mina spricht deutlich.
      - sprecht: Bei sprechen wechselt e zu i in der 3. Person Singular: Mina spricht.
-2. Sam sleeps until seven o'clock. (schlafen) → Sam schläft bis sieben Uhr.
-     - schlaft: Bei schlafen wird a zu ä in der 3. Person Singular: Sam schläft.
+2. Peter sleeps until seven o'clock. (schlafen) → Peter schläft bis sieben Uhr.
+     - schlaft: Bei schlafen wird a zu ä in der 3. Person Singular: Peter schläft.
 3. We ride the train to Berlin. (fahren) → Wir fahren mit dem Zug nach Berlin.
      - fähren: Bei wir gibt es keinen Vokalwechsel: Wir fahren.
 - Erklärung: Du kannst jetzt Pronomen, sein/haben, regelmäßige Verben und Vokalwechsel sicher konjugieren. Im nächsten Kapitel setzt du sie mit den Satzkarten auf Position 2!

@@ -43,7 +43,7 @@ Die deutschen Subjektpronomen (ich, du, er, sie, es, wir, ihr, sie, Sie) bei Fam
 
 ### Ankunft bei Familie Weber
 
-Sam kommt als Austauschschüler nach Lindenberg. Am Bahnhof warten Frau Weber, Lukas (15) und Mina (12). Welches Pronomen passt für das erste Gespräch?
+Peter kommt als Austauschschüler nach Lindenberg. Am Bahnhof warten Frau Weber, Lukas (15) und Mina (12). Welches Pronomen passt für das erste Gespräch?
 
 - Aufgabe `pronomen-einstieg` (unten)
 
@@ -53,7 +53,7 @@ Das Personalpronomen im Nominativ steht auf der Subjektkarte: Es zeigt, wer hand
 
 Personalpronomen im Nominativ:
 - Pronomen | Bedeutung | Beispiel in Lindenberg
-- ich | I | Ich bin Sam.
+- ich | I | Ich bin Peter.
 - du | you (1 Person, vertraut) | Du bist Lukas.
 - er / sie / es | he / she / it | Er ist 15. Sie ist 12. Es ist kalt.
 - wir | we | Wir wohnen in Lindenberg.
@@ -73,7 +73,7 @@ Personalpronomen im Nominativ:
 
 ### Aufgabe pronomen-einstieg
 
-- Aufgabe: Sam spricht zuerst mit Frau Weber. Sie ist eine Erwachsene, die er noch nicht gut kennt. Welches Pronomen benutzt er?
+- Aufgabe: Peter spricht zuerst mit Frau Weber. Sie ist eine Erwachsene, die er noch nicht gut kennt. Welches Pronomen benutzt er?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ Sie (großgeschrieben) – Richtig: Mit Erwachsenen, die man nicht duzt, spricht man höflich mit Sie.
@@ -87,7 +87,7 @@ Personalpronomen im Nominativ:
 
 - Aufgabe: Ordne jeder Person oder Gruppe in Lindenberg das passende Subjektpronomen zu.
 - Antwortformat: jedem Eintrag links den passenden rechts zuordnen
-- Lösung: Mina (12) – sie (she); Lukas und ich (Sam) – wir; du und Mina (Sam spricht mit beiden) – ihr; Herr Braun (Sams Deutschlehrer) – Sie
+- Lösung: Mina (12) – sie (she); Lukas und ich (Peter) – wir; du und Mina (Peter spricht mit beiden) – ihr; Herr Braun (Peters Deutschlehrer) – Sie
 - Erklärung: Mina ist weiblich Singular (sie), Lukas + ich ergibt wir, zwei vertraute Personen sind ihr, und ein Lehrer wird mit Sie angesprochen.
 - Link: [../?via=tutor#pronomen-zuordnen](../?via=tutor#pronomen-zuordnen)
 
@@ -97,10 +97,10 @@ Personalpronomen im Nominativ:
 - Antwortformat: für jede Lücke ein Wort wählen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):
-1. Sam talks about Lukas: He is fifteen years old. → Er ist fünfzehn Jahre alt.
-2. Sam talks to Lukas and Mina: You all live in Lindenberg. → Ihr wohnt in Lindenberg.
-3. Sam talks about Frau Weber and Herr Weber: They are very friendly. → Sie sind sehr freundlich.
-4. Sam talks about himself and Lukas: We go to school. → Wir gehen zur Schule.
+1. Peter talks about Lukas: He is fifteen years old. → Er ist fünfzehn Jahre alt.
+2. Peter talks to Lukas and Mina: You all live in Lindenberg. → Ihr wohnt in Lindenberg.
+3. Peter talks about Frau Weber and Herr Weber: They are very friendly. → Sie sind sehr freundlich.
+4. Peter talks about himself and Lukas: We go to school. → Wir gehen zur Schule.
 - Erklärung: Prüfe immer, wer die Subjektkarte trägt: eine Person (er/sie/es), wir selbst (wir), mehrere vertraute Personen (ihr) oder andere Personen im Plural (sie).
 - So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
 - Link: [../?via=tutor#pronomen-waehlen](../?via=tutor#pronomen-waehlen)

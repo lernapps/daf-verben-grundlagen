@@ -43,9 +43,9 @@ Deutsche Aussagesätze mit dem konjugierten Verb auf Position 2 bauen — auch m
 
 ### Der feste Verb-Anker auf Position 2
 
-Sam plant seine Woche in Lindenberg. Im deutschen Aussagesatz gilt eine eiserne Regel: Das konjugierte Verb bleibt auf **Position 2** verankert — egal welche Satzkarte nach vorn rutscht.
+Peter plant seine Woche in Lindenberg. Im deutschen Aussagesatz gilt eine eiserne Regel: Das konjugierte Verb bleibt auf **Position 2** verankert — egal welche Satzkarte nach vorn rutscht.
 
-Bild: Satzkarten für Verb-Zweitstellung: Satz A zeigt Sam (Pos. 1), wohnt (Pos. 2 Verb), heute in Lindenberg (Rest). Satz B zeigt Heute (Pos. 1), wohnt (Pos. 2 Verb), Sam (Subjekt), in Lindenberg (Rest). Bildunterschrift: Wenn Zeit oder Ort auf Position 1 wandern, rutscht das Subjekt direkt hinter den Verb-Anker.
+Bild: Satzkarten für Verb-Zweitstellung: Satz A zeigt Peter (Pos. 1), wohnt (Pos. 2 Verb), heute in Lindenberg (Rest). Satz B zeigt Heute (Pos. 1), wohnt (Pos. 2 Verb), Peter (Subjekt), in Lindenberg (Rest). Bildunterschrift: Wenn Zeit oder Ort auf Position 1 wandern, rutscht das Subjekt direkt hinter den Verb-Anker.
 
 - Aufgabe `v2-einstieg` (unten)
 
@@ -70,10 +70,10 @@ Position 1 tauschen — Position 2 bleibt fest:
 - Aufgabe: Welcher Satz ist im Deutschen richtig, wenn *Am Montag* auf Position 1 steht?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
-  - ✓ Am Montag lernt Sam Deutsch. – Richtig: Am Montag ist eine Satzkarte (Position 1), lernt bleibt auf Position 2, Sam folgt direkt dahinter.
-  - ✗ Am Montag Sam lernt Deutsch. – Das wäre englische Wortstellung — im Deutschen stünde lernt hier falsch auf Position 3.
-  - ✗ Am Montag Deutsch lernt Sam. – Vor dem Verb darf nur eine einzige Satzkarte stehen, nicht zwei (Am Montag + Deutsch).
-- Lösung: Am Montag lernt Sam Deutsch.
+  - ✓ Am Montag lernt Peter Deutsch. – Richtig: Am Montag ist eine Satzkarte (Position 1), lernt bleibt auf Position 2, Peter folgt direkt dahinter.
+  - ✗ Am Montag Peter lernt Deutsch. – Das wäre englische Wortstellung — im Deutschen stünde lernt hier falsch auf Position 3.
+  - ✗ Am Montag Deutsch lernt Peter. – Vor dem Verb darf nur eine einzige Satzkarte stehen, nicht zwei (Am Montag + Deutsch).
+- Lösung: Am Montag lernt Peter Deutsch.
 - Erklärung: Position 1 ist ein Satzglied (z. B. ein Wort wie Heute oder eine Gruppe wie Am Montag). Danach kommt immer sofort das konjugierte Verb.
 - Link: [../?via=tutor#v2-einstieg](../?via=tutor#v2-einstieg)
 
@@ -91,8 +91,8 @@ Position 1 tauschen — Position 2 bleibt fest:
 - Antwortformat: die ganze Antwort auf Deutsch schreiben
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen egal
 - Einträge (Vorgabe → Lösung):
-1. Sam reads a book today. → Start with: Heute → Heute liest Sam ein Buch.
-     - Heute Sam liest ein Buch.: Achtung: Das Verb liest muss auf Position 2 bleiben — Sam kommt direkt dahinter.
+1. Peter reads a book today. → Start with: Heute → Heute liest Peter ein Buch.
+     - Heute Peter liest ein Buch.: Achtung: Das Verb liest muss auf Position 2 bleiben — Peter kommt direkt dahinter.
 2. We eat rolls in Lindenberg. → Start with: In Lindenberg → In Lindenberg essen wir Brötchen.
      - In Lindenberg wir essen Brötchen.: In Lindenberg ist Position 1, deshalb kommt essen sofort auf Position 2.
 - Erklärung: Nach jeder Zeit- oder Ortsangabe am Satzanfang kommt im Deutschen sofort der Verb-Anker, nie das Subjekt.

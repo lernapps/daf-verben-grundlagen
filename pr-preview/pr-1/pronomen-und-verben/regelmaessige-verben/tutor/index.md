@@ -43,7 +43,7 @@ Regelmäßige deutsche Verben wie wohnen, lernen, spielen, arbeiten und heißen 
 
 ### Erster Schultag am Gymnasium
 
-Am Montag geht Sam mit Lukas ans Gymnasium in Lindenberg. Sie treffen Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*
+Am Montag geht Peter mit Lukas ans Gymnasium in Lindenberg. Sie treffen Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*
 
 - Aufgabe `regelmaessig-einstieg` (unten)
 
@@ -63,7 +63,7 @@ Regelmäßige Konjugation am Beispiel wohnen:
 Endet der Stamm auf **-t** oder **-d** (*arbeit-en*, *find-en*), kommt ein **-e-** vor *-st* und *-t*: *du arbeit**e**st*, *er arbeit**e**t*, *ihr arbeit**e**t*. Endet der Stamm auf **-s, -ß, -z** (*heiß-en*), nimmt *du* nur **-t**: *du heiß**t***.
 
 Vokabeln (Deutsch – Englisch): Häufige regelmäßige Verben in Lindenberg
-- wohnen – to live (reside). Beispiel: Sam wohnt bei Familie Weber. – Sam lives with the Weber family.
+- wohnen – to live (reside). Beispiel: Peter wohnt bei Familie Weber. – Peter lives with the Weber family.
 - lernen – to learn, to study. Beispiel: Wir lernen Deutsch. – We are learning German.
 - arbeiten – to work. Beispiel: Frau Weber arbeitet im Büro. – Frau Weber works in an office.
 - heißen – to be called. Beispiel: Wie heißt du? – What is your name?

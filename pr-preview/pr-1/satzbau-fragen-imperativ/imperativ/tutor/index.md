@@ -100,11 +100,11 @@ Nimm die *du*-Form und streiche **-st** und *du*: *du kommst → Komm!* Der Wech
 - Antwortformat: die Lücken auf Deutsch füllen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung richtig mit Hinweis, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):
-1. Frau Weber to Sam (du): Eat a roll! (essen) → Iss ein Brötchen, Sam!
+1. Frau Weber to Peter (du): Eat a roll! (essen) → Iss ein Brötchen, Peter!
      - Ess: Bei essen (e → i) bleibt das i im du-Imperativ: Iss!
 2. Herr Braun to the class (ihr): Ask Nadia! (fragen) → Fragt bitte Nadia!
      - Fragen: Der ihr-Imperativ endet wie ihr fragt auf -t: Fragt!
-3. Sam to a neighbor (Sie): Please wait a moment! (warten) → Warten Sie bitte einen Moment!
+3. Peter to a neighbor (Sie): Please wait a moment! (warten) → Warten Sie bitte einen Moment!
      - Warten: Beim höflichen Imperativ steht Sie immer hinter dem Verb: Warten Sie!
 - Erklärung: Stark! Du beherrschst jetzt Position 2 (Aussagen, W-Fragen) und Position 1 (Ja-/Nein-Fragen, Imperativ). Im letzten Kapitel erweitern wir die Satzkarten um die rechte Klammer und Position 0.
 - So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.

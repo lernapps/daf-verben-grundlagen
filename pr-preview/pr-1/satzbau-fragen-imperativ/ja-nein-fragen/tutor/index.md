@@ -67,12 +67,12 @@ Stelle einfach das konjugierte Verb an Position 1 und das Subjekt auf Position 2
 
 ### Aufgabe doch-einstieg
 
-- Aufgabe: Lukas fragt negativ: *„Spielst du nicht gern Fußball?“* — Sam spielt aber **sehr gern** Fußball! Wie antwortet er?
+- Aufgabe: Lukas fragt negativ: *„Spielst du nicht gern Fußball?“* — Peter spielt aber **sehr gern** Fußball! Wie antwortet er?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ Doch, ich spiele sehr gern Fußball! – Richtig: Auf eine negative Frage antwortet man mit doch, wenn man widersprechen und „doch, es stimmt!“ sagen will.
   - ✗ Ja, ich spiele sehr gern Fußball! – Nach einer Frage mit nicht oder kein wirkt ja unklar — dafür gibt es im Deutschen das Wort doch.
-  - ✗ Nein, ich spiele sehr gern Fußball! – Nein bestätigt die Verneinung (also dass Sam nicht gern Fußball spielt).
+  - ✗ Nein, ich spiele sehr gern Fußball! – Nein bestätigt die Verneinung (also dass Peter nicht gern Fußball spielt).
 - Lösung: Doch, ich spiele sehr gern Fußball!
 - Erklärung: Bei positiven Fragen reichen ja und nein. Enthält die Frage nicht oder kein, widersprichst du mit doch.
 - Link: [../?via=tutor#doch-einstieg](../?via=tutor#doch-einstieg)

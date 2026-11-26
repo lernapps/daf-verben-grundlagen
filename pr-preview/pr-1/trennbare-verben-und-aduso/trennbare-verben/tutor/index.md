@@ -41,18 +41,18 @@ Nennt die Adresse dieser Seite `bedarf=`, gilt jeder Abschnitt, den sie nennt, m
 
 Trennbare Verben wie aufstehen, einkaufen und anrufen im Hauptsatz richtig teilen: Verb auf Position 2, Vorsilbe ans Satzende.
 
-### Sams Tagesablauf in Lindenberg
+### Peters Tagesablauf in Lindenberg
 
 Viele alltägliche Verben im Deutschen bestehen aus zwei Teilen: einer betonten Vorsilbe (**auf-**, **ein-**, **an-**, **mit-**) und dem Grundverb. Im Hauptsatz spalten sie sich zur **Satzklammer**.
 
-Bild: Satzklammer für aufstehen: Sam (Pos. 1), steht (Pos. 2 Verb), um sieben Uhr (Mittelfeld), auf (Ende Präfix). Eine Klammer verbindet steht und auf. Bildunterschrift: Das konjugierte Grundverb bleibt auf Position 2; die Vorsilbe schließt rechts die Satzklammer.
+Bild: Satzklammer für aufstehen: Peter (Pos. 1), steht (Pos. 2 Verb), um sieben Uhr (Mittelfeld), auf (Ende Präfix). Eine Klammer verbindet steht und auf. Bildunterschrift: Das konjugierte Grundverb bleibt auf Position 2; die Vorsilbe schließt rechts die Satzklammer.
 
 - Aufgabe `trennbar-einstieg` (unten)
 
 ### Häufige trennbare Verben
 
 Vokabeln (Deutsch – Englisch): Trennbare Verben für den Alltag in Lindenberg
-- aufstehen – to get up. Beispiel: Sam steht um sieben Uhr auf. – Sam gets up at seven o'clock.
+- aufstehen – to get up. Beispiel: Peter steht um sieben Uhr auf. – Peter gets up at seven o'clock.
 - einkaufen – to go shopping. Beispiel: Wir kaufen Brötchen ein. – We are buying rolls.
 - anrufen – to call (by phone). Beispiel: Ich rufe meine Eltern an. – I call my parents.
 - anfangen – to begin, to start. Beispiel: Die Schule fängt um acht Uhr an. – School starts at eight o'clock.. Hinweis: Vokalwechsel a → ä: Der Unterricht fängt um acht Uhr an.
@@ -85,8 +85,8 @@ Typische trennbare Vorsilben sind **ab-, an-, auf-, aus-, ein-, fern-, mit-, vor
 
 - Aufgabe: Baue die Satzklammer mit *anrufen* (to call).
 - Antwortformat: die Einträge in die richtige Reihenfolge bringen (die App zeigt sie gemischt)
-- Lösung: 1. Am Abend, 2. ruft, 3. Sam, 4. seine Eltern, 5. an.
-- Erklärung: Am Abend (Pos. 1) + ruft (Pos. 2 Verb) + Sam seine Eltern (Mittelfeld) + an (rechte Klammer).
+- Lösung: 1. Am Abend, 2. ruft, 3. Peter, 4. seine Eltern, 5. an.
+- Erklärung: Am Abend (Pos. 1) + ruft (Pos. 2 Verb) + Peter seine Eltern (Mittelfeld) + an (rechte Klammer).
 - Link: [../?via=tutor#trennbar-ordnen](../?via=tutor#trennbar-ordnen)
 
 ### Aufgabe trennbar-luecken
@@ -95,8 +95,8 @@ Typische trennbare Vorsilben sind **ab-, an-, auf-, aus-, ein-, fern-, mit-, vor
 - Antwortformat: die ganze Antwort auf Deutsch schreiben
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen egal
 - Einträge (Vorgabe → Lösung):
-1. Sam gets up early. (aufstehen · früh) → Sam steht früh auf.
-     - Sam aufsteht früh.: Teile aufstehen im Hauptsatz: steht auf Position 2, auf ans Ende.
+1. Peter gets up early. (aufstehen · früh) → Peter steht früh auf.
+     - Peter aufsteht früh.: Teile aufstehen im Hauptsatz: steht auf Position 2, auf ans Ende.
 2. Class starts at eight o'clock. (anfangen · Der Unterricht · um acht Uhr) → Der Unterricht fängt um acht Uhr an.
      - Der Unterricht fangt um acht Uhr an.: Denke an den Vokalwechsel a → ä bei anfangen: fängt … an.
 3. Are you coming along today? (mitkommen · du · heute) → Kommst du heute mit?

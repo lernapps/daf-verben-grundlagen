@@ -67,12 +67,12 @@ Simply put the conjugated verb in Position 1 and the subject in Position 2: *Woh
 
 ### Exercise doch-einstieg
 
-- Task: Lukas asks a negative question: *'Spielst du nicht gern Fußball?'* (Don't you like playing soccer?) — Sam **does** love soccer! How does he reply?
+- Task: Lukas asks a negative question: *'Spielst du nicht gern Fußball?'* (Don't you like playing soccer?) — Peter **does** love soccer! How does he reply?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ Doch, ich spiele sehr gern Fußball! – Correct: To contradict a negative question and say 'Yes, I do!', German uses doch.
   - ✗ Ja, ich spiele sehr gern Fußball! – After a question with nicht or kein, ja sounds ambiguous — German uses doch instead.
-  - ✗ Nein, ich spiele sehr gern Fußball! – Nein confirms the negative (meaning Sam does not like soccer).
+  - ✗ Nein, ich spiele sehr gern Fußball! – Nein confirms the negative (meaning Peter does not like soccer).
 - Solution: Doch, ich spiele sehr gern Fußball!
 - Explanation: Positive questions take ja or nein. If the question contains nicht or kein, use doch to say 'yes, actually!'.
 - Link: [../?via=tutor#doch-einstieg](../?via=tutor#doch-einstieg)

@@ -41,9 +41,9 @@ If the address of this page names `bedarf=`, each section it names holds, severa
 
 Conjugate sein (to be) and haben (to have) in the present tense to describe people, states, and possessions.
 
-### Sam's New Room in Lindenberg
+### Peter's New Room in Lindenberg
 
-Sam unpacks at the Weber home and introduces himself: *Ich bin Sam. Ich habe ein Fahrrad und ein helles Zimmer.*
+Peter unpacks at the Weber home and introduces himself: *Ich bin Peter. Ich habe ein Fahrrad und ein helles Zimmer.*
 
 - Exercise `sein-haben-einstieg` (below)
 
@@ -70,7 +70,7 @@ In **haben**, the **b** drops in *du ha**st*** and *er/sie/es ha**t***. Also, *w
 
 ### Exercise sein-haben-einstieg
 
-- Task: How does Sam say about his host siblings Lukas and Mina: 'They are nice and they have a dog'?
+- Task: How does Peter say about his host siblings Lukas and Mina: 'They are nice and they have a dog'?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ Sie sind nett und sie haben einen Hund. – Correct: Plural sie takes sind and haben.
@@ -101,8 +101,8 @@ In **haben**, the **b** drops in *du ha**st*** and *er/sie/es ha**t***. Also, *w
 - Answer format: fill in the gaps in German
 - How the app counts mistakes of form: capital letters right with a hint, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):
-1. Sam is 16 years old. (sein) → Sam ist sechzehn Jahre alt.
-     - sind: Sam is one person (er), so use ist.
+1. Peter is 16 years old. (sein) → Peter ist sechzehn Jahre alt.
+     - sind: Peter is one person (er), so use ist.
 2. Do you have a bike, Lukas? (haben) → Lukas, hast du ein Fahrrad?
      - habst: With du, haben drops the b: du hast.
 3. We are hungry. (haben — literal: We have hunger) → Wir haben Hunger.

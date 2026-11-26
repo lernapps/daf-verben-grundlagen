@@ -100,11 +100,11 @@ Take the *du*-form and drop **-st** and *du*: *du kommst → Komm!* Keep **e →
 - Answer format: fill in the gaps in German
 - How the app counts mistakes of form: capital letters right with a hint, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):
-1. Frau Weber to Sam (du): Eat a roll! (essen) → Iss ein Brötchen, Sam!
+1. Frau Weber to Peter (du): Eat a roll! (essen) → Iss ein Brötchen, Peter!
      - Ess: With essen (e → i), keep the i in the du-imperative: Iss!
 2. Herr Braun to the class (ihr): Ask Nadia! (fragen) → Fragt bitte Nadia!
      - Fragen: The ihr-imperative takes the -t ending of ihr fragt: Fragt!
-3. Sam to a neighbor (Sie): Please wait a moment! (warten) → Warten Sie bitte einen Moment!
+3. Peter to a neighbor (Sie): Please wait a moment! (warten) → Warten Sie bitte einen Moment!
      - Warten: In the formal imperative, always include Sie right after the verb: Warten Sie!
 - Explanation: Well done! You now master Position 2 (statements, W-questions) and Position 1 (yes/no questions, imperatives). In the final chapter, we add the right bracket and Position 0.
 - How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
