@@ -10,8 +10,8 @@ blocks:
   - type: section
     id: einstieg
     title:
-      de: Sams Tagesablauf in Lindenberg
-      en: Sam's Daily Routine in Lindenberg
+      de: Peters Tagesablauf in Lindenberg
+      en: Peter's Daily Routine in Lindenberg
     blocks:
       - type: text
         text:
@@ -24,8 +24,8 @@ blocks:
           en: own diagram
         licence: CC0-1.0
         alt:
-          de: "Satzklammer für aufstehen: Sam (Pos. 1), steht (Pos. 2 Verb), um sieben Uhr (Mittelfeld), auf (Ende Präfix). Eine Klammer verbindet steht und auf."
-          en: "Sentence bracket for aufstehen: Sam (Pos. 1), steht (Pos. 2 Verb), um sieben Uhr (middle field), auf (End Prefix). A bracket links steht and auf."
+          de: "Satzklammer für aufstehen: Peter (Pos. 1), steht (Pos. 2 Verb), um sieben Uhr (Mittelfeld), auf (Ende Präfix). Eine Klammer verbindet steht und auf."
+          en: "Sentence bracket for aufstehen: Peter (Pos. 1), steht (Pos. 2 Verb), um sieben Uhr (middle field), auf (End Prefix). A bracket links steht and auf."
         caption:
           de: "Das konjugierte Grundverb bleibt auf Position 2; die Vorsilbe schließt rechts die Satzklammer."
           en: "The conjugated base verb stays in Position 2; the prefix closes the sentence bracket at the very end."
@@ -73,7 +73,7 @@ blocks:
         entries:
           - target: aufstehen
             source: to get up
-            example: { target: "Sam steht um sieben Uhr auf.", source: "Sam gets up at seven o'clock." }
+            example: { target: "Peter steht um sieben Uhr auf.", source: "Peter gets up at seven o'clock." }
           - target: einkaufen
             source: to go shopping
             example: { target: "Wir kaufen Brötchen ein.", source: "We are buying rolls." }
@@ -120,15 +120,15 @@ blocks:
             en: Am Abend
           - de: ruft
             en: ruft
-          - de: Sam
-            en: Sam
+          - de: Peter
+            en: Peter
           - de: seine Eltern
             en: seine Eltern
           - de: an.
             en: an.
         explanation:
-          de: "Am Abend (Pos. 1) + ruft (Pos. 2 Verb) + Sam seine Eltern (Mittelfeld) + an (rechte Klammer)."
-          en: "Am Abend (Pos. 1) + ruft (Pos. 2 verb) + Sam seine Eltern (middle field) + an (right bracket)."
+          de: "Am Abend (Pos. 1) + ruft (Pos. 2 Verb) + Peter seine Eltern (Mittelfeld) + an (rechte Klammer)."
+          en: "Am Abend (Pos. 1) + ruft (Pos. 2 verb) + Peter seine Eltern (middle field) + an (right bracket)."
       - type: language-task
         id: trennbar-luecken
         languages: { source: en, target: de }
@@ -138,10 +138,10 @@ blocks:
           de: "Schreibe jeden Satz mit dem trennbaren Verb im Präsens. Denke an Position 2 und das Satzende!"
           en: "Write each sentence in German using the separable verb in the present tense. Remember Position 2 and the sentence end!"
         items:
-          - source: "Sam gets up early. (aufstehen · früh)"
-            target: "Sam steht früh auf."
+          - source: "Peter gets up early. (aufstehen · früh)"
+            target: "Peter steht früh auf."
             mistakes:
-              - answer: "Sam aufsteht früh."
+              - answer: "Peter aufsteht früh."
                 message:
                   de: "Teile aufstehen im Hauptsatz: steht auf Position 2, auf ans Ende."
                   en: "Split aufstehen in a main clause: steht in Position 2, auf at the end."

@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Sam schreibt seinen Eltern eine Nachricht über seine erste Woche in Lindenberg. Mit fünf kleinen Bindewörtern (**aber, denn, und, sondern, oder** — kurz **ADUSO**) verbindet er zwei Hauptsätze, ohne die Wortstellung zu verändern."
-          en: "Sam writes a message home about his first week in Lindenberg. With five small connecting words (**aber, denn, und, sondern, oder** — short **ADUSO**), he links two main clauses without changing word order."
+          de: "Peter schreibt seinen Eltern eine Nachricht über seine erste Woche in Lindenberg. Mit fünf kleinen Bindewörtern (**aber, denn, und, sondern, oder** — kurz **ADUSO**) verbindet er zwei Hauptsätze, ohne die Wortstellung zu verändern."
+          en: "Peter writes a message home about his first week in Lindenberg. With five small connecting words (**aber, denn, und, sondern, oder** — short **ADUSO**), he links two main clauses without changing word order."
       - type: figure
         image: images/sentence-cards-aduso.svg
         source:
@@ -24,34 +24,34 @@ blocks:
           en: own diagram
         licence: CC0-1.0
         alt:
-          de: "Position-0-Brücke ADUSO: Satz 1 Sam ist müde, dann Pos. 0 aber, dann Pos. 1 er, Pos. 2 lernt, Rest weiter."
-          en: "Position-0 bridge ADUSO: Clause 1 Sam ist müde, then Pos. 0 aber, then Pos. 1 er, Pos. 2 lernt, Rest weiter."
+          de: "Position-0-Brücke ADUSO: Satz 1 Peter ist müde, dann Pos. 0 aber, dann Pos. 1 er, Pos. 2 lernt, Rest weiter."
+          en: "Position-0 bridge ADUSO: Clause 1 Peter ist müde, then Pos. 0 aber, then Pos. 1 er, Pos. 2 lernt, Rest weiter."
         caption:
           de: "ADUSO-Konjunktionen stehen auf Position 0 — danach startet ganz normal Position 1 + Position 2."
           en: "ADUSO conjunctions sit in Position 0 — after them, Position 1 + Position 2 start fresh as normal."
       - type: single-choice
         id: aduso-einstieg
         text:
-          de: "Wie verbindet Sam diese beiden Sätze richtig mit *denn* (because): *Sam lernt viel. Er wohnt jetzt in Lindenberg.*"
-          en: "How does Sam connect these two sentences correctly with *denn* (because): *Sam lernt viel. Er wohnt jetzt in Lindenberg.*"
+          de: "Wie verbindet Peter diese beiden Sätze richtig mit *denn* (because): *Peter lernt viel. Er wohnt jetzt in Lindenberg.*"
+          en: "How does Peter connect these two sentences correctly with *denn* (because): *Peter lernt viel. Er wohnt jetzt in Lindenberg.*"
         options:
           - text:
-              de: "Sam lernt viel, denn er wohnt jetzt in Lindenberg."
-              en: "Sam lernt viel, denn er wohnt jetzt in Lindenberg."
+              de: "Peter lernt viel, denn er wohnt jetzt in Lindenberg."
+              en: "Peter lernt viel, denn er wohnt jetzt in Lindenberg."
             correct: true
             info:
               de: "Richtig: denn steht auf Position 0, also bleibt er auf Position 1 und wohnt auf Position 2."
               en: "Correct: denn stands in Position 0, so er stays in Position 1 and wohnt stays in Position 2."
           - text:
-              de: "Sam lernt viel, denn wohnt er jetzt in Lindenberg."
-              en: "Sam lernt viel, denn wohnt er jetzt in Lindenberg."
+              de: "Peter lernt viel, denn wohnt er jetzt in Lindenberg."
+              en: "Peter lernt viel, denn wohnt er jetzt in Lindenberg."
             correct: false
             info:
               de: "denn zählt nicht als Position 1 — hier gibt es keine Inversion!"
               en: "denn does not count as Position 1 — there is no subject-verb inversion!"
           - text:
-              de: "Sam lernt viel, denn er jetzt in Lindenberg wohnt."
-              en: "Sam lernt viel, denn er jetzt in Lindenberg wohnt."
+              de: "Peter lernt viel, denn er jetzt in Lindenberg wohnt."
+              en: "Peter lernt viel, denn er jetzt in Lindenberg wohnt."
             correct: false
             info:
               de: "Verben am Satzende gibt es erst bei weil (Nebensatz), nicht bei denn."
@@ -99,8 +99,8 @@ blocks:
               en: "**S** · sondern"
             - de: but rather (nach nicht/kein, mit Komma)
               en: but rather (after nicht/kein, with comma)
-            - de: Sam kommt nicht aus London, **sondern** er kommt aus Boston.
-              en: Sam kommt nicht aus London, **sondern** er kommt aus Boston.
+            - de: Peter kommt nicht aus London, **sondern** er kommt aus Boston.
+              en: Peter kommt nicht aus London, **sondern** er kommt aus Boston.
           - - de: "**O** · oder"
               en: "**O** · oder"
             - de: or (Alternative, kein Komma nötig)
@@ -130,8 +130,8 @@ blocks:
           de: Wähle die passende Position-0-Konjunktion für jeden Satz.
           en: Choose the right Position-0 conjunction for each sentence.
         items:
-          - source: "Sam does not live in Berlin, but rather he lives in Lindenberg."
-            target: "Sam wohnt nicht in Berlin, [sondern] er wohnt in Lindenberg."
+          - source: "Peter does not live in Berlin, but rather he lives in Lindenberg."
+            target: "Peter wohnt nicht in Berlin, [sondern] er wohnt in Lindenberg."
             distractors: [[aber, denn]]
           - source: "We take the bus, because it is raining today."
             target: "Wir nehmen den Bus, [denn] es regnet heute."
@@ -161,10 +161,10 @@ blocks:
                 message:
                   de: "und steht auf Position 0 — danach kommt zuerst das Subjekt (Lukas) auf Position 1 und dann das Verb (liest) auf Position 2."
                   en: "und sits in Position 0 — follow it with the subject (Lukas) in Position 1 and the verb (liest) in Position 2."
-          - source: "Sam is tired, because he gets up early. (denn)"
-            target: "Sam ist müde, denn er steht früh auf."
+          - source: "Peter is tired, because he gets up early. (denn)"
+            target: "Peter ist müde, denn er steht früh auf."
             mistakes:
-              - answer: "Sam ist müde, denn steht er früh auf."
+              - answer: "Peter ist müde, denn steht er früh auf."
                 message:
                   de: "Nach denn (Pos. 0) bleibt die normale Wortstellung: er (Pos. 1) + steht (Pos. 2) … auf."
                   en: "After denn (Pos. 0), keep normal word order: er (Pos. 1) + steht (Pos. 2) … auf."

@@ -10,13 +10,13 @@ blocks:
   - type: section
     id: einstieg
     title:
-      de: Sam fragt sich durch Lindenberg
-      en: Sam Asks His Way Around Lindenberg
+      de: Peter fragt sich durch Lindenberg
+      en: Peter Asks His Way Around Lindenberg
     blocks:
       - type: text
         text:
-          de: "In den ersten Tagen hat Sam viele Fragen an Nadia und Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*"
-          en: "In his first days Sam has many questions for Nadia and Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*"
+          de: "In den ersten Tagen hat Peter viele Fragen an Nadia und Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*"
+          en: "In his first days Peter has many questions for Nadia and Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*"
       - type: figure
         image: images/sentence-cards-questions.svg
         source:
@@ -125,8 +125,8 @@ blocks:
           de: Wähle das passende Fragewort für jede Frage.
           en: Choose the right question word for each question.
         items:
-          - source: "Where are you from, Sam? — From Boston."
-            target: "[Woher] kommst du, Sam?"
+          - source: "Where are you from, Peter? — From Boston."
+            target: "[Woher] kommst du, Peter?"
             distractors: [[Wo, Wohin]]
           - source: "Where are you going now? — To the bakery."
             target: "[Wohin] gehst du jetzt?"

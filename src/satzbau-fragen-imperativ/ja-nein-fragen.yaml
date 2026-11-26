@@ -20,8 +20,8 @@ blocks:
       - type: single-choice
         id: doch-einstieg
         text:
-          de: "Lukas fragt negativ: *„Spielst du nicht gern Fußball?“* — Sam spielt aber **sehr gern** Fußball! Wie antwortet er?"
-          en: "Lukas asks a negative question: *'Spielst du nicht gern Fußball?'* (Don't you like playing soccer?) — Sam **does** love soccer! How does he reply?"
+          de: "Lukas fragt negativ: *„Spielst du nicht gern Fußball?“* — Peter spielt aber **sehr gern** Fußball! Wie antwortet er?"
+          en: "Lukas asks a negative question: *'Spielst du nicht gern Fußball?'* (Don't you like playing soccer?) — Peter **does** love soccer! How does he reply?"
         options:
           - text:
               de: "Doch, ich spiele sehr gern Fußball!"
@@ -42,8 +42,8 @@ blocks:
               en: "Nein, ich spiele sehr gern Fußball!"
             correct: false
             info:
-              de: "Nein bestätigt die Verneinung (also dass Sam nicht gern Fußball spielt)."
-              en: "Nein confirms the negative (meaning Sam does not like soccer)."
+              de: "Nein bestätigt die Verneinung (also dass Peter nicht gern Fußball spielt)."
+              en: "Nein confirms the negative (meaning Peter does not like soccer)."
         explanation:
           de: "Bei positiven Fragen reichen ja und nein. Enthält die Frage nicht oder kein, widersprichst du mit doch."
           en: "Positive questions take ja or nein. If the question contains nicht or kein, use doch to say 'yes, actually!'."

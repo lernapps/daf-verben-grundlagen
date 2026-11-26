@@ -10,18 +10,18 @@ blocks:
   - type: section
     id: einstieg
     title:
-      de: Sams erstes Zimmer in Lindenberg
-      en: Sam's New Room in Lindenberg
+      de: Peters erstes Zimmer in Lindenberg
+      en: Peter's New Room in Lindenberg
     blocks:
       - type: text
         text:
-          de: "Sam packt bei Familie Weber aus und stellt sich vor: *Ich bin Sam. Ich habe ein Fahrrad und ein helles Zimmer.*"
-          en: "Sam unpacks at the Weber home and introduces himself: *Ich bin Sam. Ich habe ein Fahrrad und ein helles Zimmer.*"
+          de: "Peter packt bei Familie Weber aus und stellt sich vor: *Ich bin Peter. Ich habe ein Fahrrad und ein helles Zimmer.*"
+          en: "Peter unpacks at the Weber home and introduces himself: *Ich bin Peter. Ich habe ein Fahrrad und ein helles Zimmer.*"
       - type: single-choice
         id: sein-haben-einstieg
         text:
-          de: "Wie sagt Sam über seine Gastgeschwister Lukas und Mina: „They are nice and they have a dog“?"
-          en: "How does Sam say about his host siblings Lukas and Mina: 'They are nice and they have a dog'?"
+          de: "Wie sagt Peter über seine Gastgeschwister Lukas und Mina: „They are nice and they have a dog“?"
+          en: "How does Peter say about his host siblings Lukas and Mina: 'They are nice and they have a dog'?"
         options:
           - text:
               de: "Sie sind nett und sie haben einen Hund."
@@ -147,13 +147,13 @@ blocks:
           de: Setze die passende Form von sein oder haben in die Sätze aus Lindenberg ein.
           en: Fill in the right form of sein or haben in these sentences from Lindenberg.
         items:
-          - source: "Sam is 16 years old. (sein)"
-            target: "Sam [ist] sechzehn Jahre alt."
+          - source: "Peter is 16 years old. (sein)"
+            target: "Peter [ist] sechzehn Jahre alt."
             mistakes:
               - answer: sind
                 message:
-                  de: "Sam ist eine Person (er), deshalb heißt es ist."
-                  en: "Sam is one person (er), so use ist."
+                  de: "Peter ist eine Person (er), deshalb heißt es ist."
+                  en: "Peter is one person (er), so use ist."
           - source: "Do you have a bike, Lukas? (haben)"
             target: "Lukas, [hast] du ein Fahrrad?"
             mistakes:

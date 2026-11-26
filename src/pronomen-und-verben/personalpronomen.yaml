@@ -15,13 +15,13 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Sam kommt als Austauschschüler nach Lindenberg. Am Bahnhof warten Frau Weber, Lukas (15) und Mina (12). Welches Pronomen passt für das erste Gespräch?"
-          en: "Sam arrives in Lindenberg as an exchange student. Frau Weber, Lukas (15), and Mina (12) wait at the station. Which pronoun fits the first greeting?"
+          de: "Peter kommt als Austauschschüler nach Lindenberg. Am Bahnhof warten Frau Weber, Lukas (15) und Mina (12). Welches Pronomen passt für das erste Gespräch?"
+          en: "Peter arrives in Lindenberg as an exchange student. Frau Weber, Lukas (15), and Mina (12) wait at the station. Which pronoun fits the first greeting?"
       - type: single-choice
         id: pronomen-einstieg
         text:
-          de: "Sam spricht zuerst mit Frau Weber. Sie ist eine Erwachsene, die er noch nicht gut kennt. Welches Pronomen benutzt er?"
-          en: "Sam speaks to Frau Weber first. She is an adult he does not know well yet. Which pronoun does he use?"
+          de: "Peter spricht zuerst mit Frau Weber. Sie ist eine Erwachsene, die er noch nicht gut kennt. Welches Pronomen benutzt er?"
+          en: "Peter speaks to Frau Weber first. She is an adult he does not know well yet. Which pronoun does he use?"
         options:
           - text:
               de: "Sie (großgeschrieben)"
@@ -73,8 +73,8 @@ blocks:
               en: ich
             - de: I
               en: I
-            - de: Ich bin Sam.
-              en: Ich bin Sam.
+            - de: Ich bin Peter.
+              en: Ich bin Peter.
           - - de: du
               en: du
             - de: you (1 Person, vertraut)
@@ -139,20 +139,20 @@ blocks:
               de: sie (she)
               en: sie (she)
           - left:
-              de: Lukas und ich (Sam)
-              en: Lukas and I (Sam)
+              de: Lukas und ich (Peter)
+              en: Lukas and I (Peter)
             right:
               de: wir
               en: wir
           - left:
-              de: "du und Mina (Sam spricht mit beiden)"
-              en: "Lukas and Mina (Sam talks to both)"
+              de: "du und Mina (Peter spricht mit beiden)"
+              en: "Lukas and Mina (Peter talks to both)"
             right:
               de: ihr
               en: ihr
           - left:
-              de: "Herr Braun (Sams Deutschlehrer)"
-              en: "Herr Braun (Sam's teacher, direct address)"
+              de: "Herr Braun (Peters Deutschlehrer)"
+              en: "Herr Braun (Peter's teacher, direct address)"
             right:
               de: Sie
               en: Sie
@@ -167,16 +167,16 @@ blocks:
           de: Wähle für jeden Satz das passende Personalpronomen.
           en: Choose the right personal pronoun for each sentence.
         items:
-          - source: "Sam talks about Lukas: He is fifteen years old."
+          - source: "Peter talks about Lukas: He is fifteen years old."
             target: "[Er] ist fünfzehn Jahre alt."
             distractors: [[Sie, Es]]
-          - source: "Sam talks to Lukas and Mina: You all live in Lindenberg."
+          - source: "Peter talks to Lukas and Mina: You all live in Lindenberg."
             target: "[Ihr] wohnt in Lindenberg."
             distractors: [[Wir, Du]]
-          - source: "Sam talks about Frau Weber and Herr Weber: They are very friendly."
+          - source: "Peter talks about Frau Weber and Herr Weber: They are very friendly."
             target: "[Sie] sind sehr freundlich."
             distractors: [[Er, Ihr]]
-          - source: "Sam talks about himself and Lukas: We go to school."
+          - source: "Peter talks about himself and Lukas: We go to school."
             target: "[Wir] gehen zur Schule."
             distractors: [[Ihr, Sie]]
         explanation:

@@ -148,8 +148,8 @@ blocks:
           de: Bilde den passenden Imperativ für du, ihr oder Sie.
           en: Form the right imperative for du, ihr, or Sie.
         items:
-          - source: "Frau Weber to Sam (du): Eat a roll! (essen)"
-            target: "[Iss] ein Brötchen, Sam!"
+          - source: "Frau Weber to Peter (du): Eat a roll! (essen)"
+            target: "[Iss] ein Brötchen, Peter!"
             mistakes:
               - answer: Ess
                 message:
@@ -162,7 +162,7 @@ blocks:
                 message:
                   de: "Der ihr-Imperativ endet wie ihr fragt auf -t: Fragt!"
                   en: "The ihr-imperative takes the -t ending of ihr fragt: Fragt!"
-          - source: "Sam to a neighbor (Sie): Please wait a moment! (warten)"
+          - source: "Peter to a neighbor (Sie): Please wait a moment! (warten)"
             target: "[Warten Sie] bitte einen Moment!"
             mistakes:
               - answer: Warten

@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Am Montag geht Sam mit Lukas ans Gymnasium in Lindenberg. Sie treffen Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*"
-          en: "On Monday Sam goes to the Gymnasium in Lindenberg with Lukas. They meet Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*"
+          de: "Am Montag geht Peter mit Lukas ans Gymnasium in Lindenberg. Sie treffen Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*"
+          en: "On Monday Peter goes to the Gymnasium in Lindenberg with Lukas. They meet Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*"
       - type: single-choice
         id: regelmaessig-einstieg
         text:
@@ -118,7 +118,7 @@ blocks:
         entries:
           - target: wohnen
             source: to live (reside)
-            example: { target: "Sam wohnt bei Familie Weber.", source: "Sam lives with the Weber family." }
+            example: { target: "Peter wohnt bei Familie Weber.", source: "Peter lives with the Weber family." }
           - target: lernen
             source: to learn, to study
             example: { target: "Wir lernen Deutsch.", source: "We are learning German." }

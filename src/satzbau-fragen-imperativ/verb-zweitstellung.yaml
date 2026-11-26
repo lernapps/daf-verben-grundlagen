@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Sam plant seine Woche in Lindenberg. Im deutschen Aussagesatz gilt eine eiserne Regel: Das konjugierte Verb bleibt auf **Position 2** verankert — egal welche Satzkarte nach vorn rutscht."
-          en: "Sam plans his week in Lindenberg. German statements follow one iron rule: the conjugated verb stays locked in **Position 2** — no matter which Sentence Card moves to the front."
+          de: "Peter plant seine Woche in Lindenberg. Im deutschen Aussagesatz gilt eine eiserne Regel: Das konjugierte Verb bleibt auf **Position 2** verankert — egal welche Satzkarte nach vorn rutscht."
+          en: "Peter plans his week in Lindenberg. German statements follow one iron rule: the conjugated verb stays locked in **Position 2** — no matter which Sentence Card moves to the front."
       - type: figure
         image: images/sentence-cards-v2.svg
         source:
@@ -24,8 +24,8 @@ blocks:
           en: own diagram
         licence: CC0-1.0
         alt:
-          de: "Satzkarten für Verb-Zweitstellung: Satz A zeigt Sam (Pos. 1), wohnt (Pos. 2 Verb), heute in Lindenberg (Rest). Satz B zeigt Heute (Pos. 1), wohnt (Pos. 2 Verb), Sam (Subjekt), in Lindenberg (Rest)."
-          en: "Sentence Cards for verb-second order: Sentence A shows Sam (Pos. 1), wohnt (Pos. 2 Verb), heute in Lindenberg (Rest). Sentence B shows Heute (Pos. 1), wohnt (Pos. 2 Verb), Sam (Subject), in Lindenberg (Rest)."
+          de: "Satzkarten für Verb-Zweitstellung: Satz A zeigt Peter (Pos. 1), wohnt (Pos. 2 Verb), heute in Lindenberg (Rest). Satz B zeigt Heute (Pos. 1), wohnt (Pos. 2 Verb), Peter (Subjekt), in Lindenberg (Rest)."
+          en: "Sentence Cards for verb-second order: Sentence A shows Peter (Pos. 1), wohnt (Pos. 2 Verb), heute in Lindenberg (Rest). Sentence B shows Heute (Pos. 1), wohnt (Pos. 2 Verb), Peter (Subject), in Lindenberg (Rest)."
         caption:
           de: "Wenn Zeit oder Ort auf Position 1 wandern, rutscht das Subjekt direkt hinter den Verb-Anker."
           en: "When time or place moves to Position 1, the subject slides directly behind the Verb Anchor."
@@ -36,22 +36,22 @@ blocks:
           en: "Which German sentence is correct when *Am Montag* (On Monday) sits in Position 1?"
         options:
           - text:
-              de: "Am Montag lernt Sam Deutsch."
-              en: "Am Montag lernt Sam Deutsch."
+              de: "Am Montag lernt Peter Deutsch."
+              en: "Am Montag lernt Peter Deutsch."
             correct: true
             info:
-              de: "Richtig: Am Montag ist eine Satzkarte (Position 1), lernt bleibt auf Position 2, Sam folgt direkt dahinter."
-              en: "Correct: Am Montag is one Sentence Card (Position 1), lernt stays in Position 2, and Sam follows right after."
+              de: "Richtig: Am Montag ist eine Satzkarte (Position 1), lernt bleibt auf Position 2, Peter folgt direkt dahinter."
+              en: "Correct: Am Montag is one Sentence Card (Position 1), lernt stays in Position 2, and Peter follows right after."
           - text:
-              de: "Am Montag Sam lernt Deutsch."
-              en: "Am Montag Sam lernt Deutsch."
+              de: "Am Montag Peter lernt Deutsch."
+              en: "Am Montag Peter lernt Deutsch."
             correct: false
             info:
               de: "Das wäre englische Wortstellung — im Deutschen stünde lernt hier falsch auf Position 3."
               en: "That follows English word order — in German it pushes lernt into Position 3, which is wrong."
           - text:
-              de: "Am Montag Deutsch lernt Sam."
-              en: "Am Montag Deutsch lernt Sam."
+              de: "Am Montag Deutsch lernt Peter."
+              en: "Am Montag Deutsch lernt Peter."
             correct: false
             info:
               de: "Vor dem Verb darf nur eine einzige Satzkarte stehen, nicht zwei (Am Montag + Deutsch)."
@@ -134,13 +134,13 @@ blocks:
           de: Schreibe jeden Satz so um, dass das angegebene Wort auf Position 1 steht. Achte auf Position 2!
           en: Rewrite each sentence starting with the given phrase in Position 1. Keep the verb in Position 2!
         items:
-          - source: "Sam reads a book today. → Start with: Heute"
-            target: "Heute liest Sam ein Buch."
+          - source: "Peter reads a book today. → Start with: Heute"
+            target: "Heute liest Peter ein Buch."
             mistakes:
-              - answer: "Heute Sam liest ein Buch."
+              - answer: "Heute Peter liest ein Buch."
                 message:
-                  de: "Achtung: Das Verb liest muss auf Position 2 bleiben — Sam kommt direkt dahinter."
-                  en: "Watch out: The verb liest must stay in Position 2 — Sam goes right after it."
+                  de: "Achtung: Das Verb liest muss auf Position 2 bleiben — Peter kommt direkt dahinter."
+                  en: "Watch out: The verb liest must stay in Position 2 — Peter goes right after it."
           - source: "We eat rolls in Lindenberg. → Start with: In Lindenberg"
             target: "In Lindenberg essen wir Brötchen."
             mistakes:

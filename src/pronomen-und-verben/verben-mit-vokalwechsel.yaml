@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Nach der Schule fahren Lukas und Sam mit dem Fahrrad nach Hause. Nadia liest ein Buch, und Mina spricht schon gut Englisch."
-          en: "After school Lukas and Sam ride their bikes home. Nadia reads a book, and Mina already speaks good English."
+          de: "Nach der Schule fahren Lukas und Peter mit dem Fahrrad nach Hause. Nadia liest ein Buch, und Mina spricht schon gut Englisch."
+          en: "After school Lukas and Peter ride their bikes home. Nadia reads a book, and Mina already speaks good English."
       - type: single-choice
         id: vokalwechsel-einstieg
         text:
@@ -130,8 +130,8 @@ blocks:
           - source: "You all speak German very well!"
             target: "Ihr [sprecht] sehr gut Deutsch!"
             distractors: [[spricht, sprichst]]
-          - source: "Do you read the newspaper, Sam?"
-            target: "[Liest] du die Zeitung, Sam?"
+          - source: "Do you read the newspaper, Peter?"
+            target: "[Liest] du die Zeitung, Peter?"
             distractors: [[Lest, Liesst]]
           - source: "I always eat a roll in the morning."
             target: "Ich [esse] morgens immer ein Brötchen."
@@ -155,13 +155,13 @@ blocks:
                 message:
                   de: "Bei sprechen wechselt e zu i in der 3. Person Singular: Mina spricht."
                   en: "In sprechen, e changes to i in 3rd person singular: Mina spricht."
-          - source: "Sam sleeps until seven o'clock. (schlafen)"
-            target: "Sam [schläft] bis sieben Uhr."
+          - source: "Peter sleeps until seven o'clock. (schlafen)"
+            target: "Peter [schläft] bis sieben Uhr."
             mistakes:
               - answer: schlaft
                 message:
-                  de: "Bei schlafen wird a zu ä in der 3. Person Singular: Sam schläft."
-                  en: "In schlafen, a changes to ä in 3rd person singular: Sam schläft."
+                  de: "Bei schlafen wird a zu ä in der 3. Person Singular: Peter schläft."
+                  en: "In schlafen, a changes to ä in 3rd person singular: Peter schläft."
           - source: "We ride the train to Berlin. (fahren)"
             target: "Wir [fahren] mit dem Zug nach Berlin."
             mistakes:
