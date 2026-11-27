@@ -43,7 +43,7 @@ sein (to be) und haben (to have) im Präsens konjugieren, um Personen, Zustände
 
 ### Peters erstes Zimmer in Lindenberg
 
-Peter packt bei Familie Weber aus und stellt sich vor: *Ich bin Peter. Ich habe ein Fahrrad und ein helles Zimmer.*
+Peter packt in seinem neuen Zimmer in Lindenberg aus und erzählt Lukas und Mina: *Ich bin Peter. Ich habe ein Fahrrad und ein helles Zimmer.*
 
 - Aufgabe `sein-haben-einstieg` (unten)
 
@@ -68,9 +68,11 @@ Bei **haben** verschwindet das **b** in *du ha**st*** und *er/sie/es ha**t***. U
 
 - Aufgabe `sein-haben-saetze` (unten)
 
+- Aufgabe `sein-haben-schreiben` (unten)
+
 ### Aufgabe sein-haben-einstieg
 
-- Aufgabe: Wie sagt Peter über seine Gastgeschwister Lukas und Mina: „They are nice and they have a dog“?
+- Aufgabe: Wie sagt Peter über seine neuen Freunde Lukas und Mina: „They are nice and they have a dog“?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ Sie sind nett und sie haben einen Hund. – Richtig: Zu sie (Plural) gehören sind und haben.
@@ -101,7 +103,7 @@ Bei **haben** verschwindet das **b** in *du ha**st*** und *er/sie/es ha**t***. U
 - Antwortformat: die Lücken auf Deutsch füllen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung richtig mit Hinweis, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):
-1. Peter is 16 years old. (sein) → Peter ist sechzehn Jahre alt.
+1. Peter is 12 years old. (sein) → Peter ist zwölf Jahre alt.
      - sind: Peter ist eine Person (er), deshalb heißt es ist.
 2. Do you have a bike, Lukas? (haben) → Lukas, hast du ein Fahrrad?
      - habst: Bei du verliert haben das b: du hast.
@@ -112,3 +114,17 @@ Bei **haben** verschwindet das **b** in *du ha**st*** und *er/sie/es ha**t***. U
 - Erklärung: Jedes Verb richtet sich genau nach dem Subjekt. Im Deutschen nutzt man außerdem „Hunger haben“ und „Durst haben“ mit haben.
 - So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
 - Link: [../?via=tutor#sein-haben-saetze](../?via=tutor#sein-haben-saetze)
+
+### Aufgabe sein-haben-schreiben
+
+- Aufgabe: Schreibe zwei kurze Sätze über Peters Alltag auf Deutsch.
+- Antwortformat: die ganze Antwort auf Deutsch schreiben
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen egal
+- Einträge (Vorgabe → Lösung):
+1. Mina has a ball. → Mina hat einen Ball.
+     - Mina habt einen Ball.: Mina ist eine Person (sie), also heißt es hat.
+2. We are in Year 6. → Wir sind in Klasse 6.
+     - Wir seid in Klasse 6.: Zu wir gehört sind: Wir sind in Klasse 6.
+- Erklärung: Du kannst sein und haben jetzt in allen Personen sicher einsetzen — als Nächstes kommen die regelmäßigen Verben.
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#sein-haben-schreiben](../?via=tutor#sein-haben-schreiben)

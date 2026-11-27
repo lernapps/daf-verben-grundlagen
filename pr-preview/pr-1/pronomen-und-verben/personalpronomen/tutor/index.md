@@ -43,7 +43,7 @@ Die deutschen Subjektpronomen (ich, du, er, sie, es, wir, ihr, sie, Sie) bei Fam
 
 ### Ankunft bei Familie Weber
 
-Peter kommt als Austauschschüler nach Lindenberg. Am Bahnhof warten Frau Weber, Lukas (15) und Mina (12). Welches Pronomen passt für das erste Gespräch?
+Peter (12) zieht mit seinen Eltern für ein Jahr nach Lindenberg. Am Bahnhof warten Freunde seiner Eltern: Frau Weber, Lukas (12) und Mina (9). Welches Pronomen passt für das erste Gespräch?
 
 - Aufgabe `pronomen-einstieg` (unten)
 
@@ -55,7 +55,7 @@ Personalpronomen im Nominativ:
 - Pronomen | Bedeutung | Beispiel in Lindenberg
 - ich | I | Ich bin Peter.
 - du | you (1 Person, vertraut) | Du bist Lukas.
-- er / sie / es | he / she / it | Er ist 15. Sie ist 12. Es ist kalt.
+- er / sie / es | he / she / it | Er ist 12. Sie ist 9. Es ist kalt.
 - wir | we | Wir wohnen in Lindenberg.
 - ihr | you all (vertraut) | Ihr spielt Fußball.
 - sie | they | Sie kommen aus Lindenberg.
@@ -70,6 +70,8 @@ Personalpronomen im Nominativ:
 - Aufgabe `pronomen-zuordnen` (unten)
 
 - Aufgabe `pronomen-waehlen` (unten)
+
+- Aufgabe `pronomen-luecken` (unten)
 
 ### Aufgabe pronomen-einstieg
 
@@ -87,7 +89,7 @@ Personalpronomen im Nominativ:
 
 - Aufgabe: Ordne jeder Person oder Gruppe in Lindenberg das passende Subjektpronomen zu.
 - Antwortformat: jedem Eintrag links den passenden rechts zuordnen
-- Lösung: Mina (12) – sie (she); Lukas und ich (Peter) – wir; du und Mina (Peter spricht mit beiden) – ihr; Herr Braun (Peters Deutschlehrer) – Sie
+- Lösung: Mina (9) – sie (she); Lukas und ich (Peter) – wir; Lukas und Mina (Peter spricht mit beiden) – ihr; Herr Braun (Peters Klassenlehrer) – Sie
 - Erklärung: Mina ist weiblich Singular (sie), Lukas + ich ergibt wir, zwei vertraute Personen sind ihr, und ein Lehrer wird mit Sie angesprochen.
 - Link: [../?via=tutor#pronomen-zuordnen](../?via=tutor#pronomen-zuordnen)
 
@@ -97,10 +99,26 @@ Personalpronomen im Nominativ:
 - Antwortformat: für jede Lücke ein Wort wählen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):
-1. Peter talks about Lukas: He is fifteen years old. → Er ist fünfzehn Jahre alt.
+1. Peter talks about Lukas: He is twelve years old. → Er ist zwölf Jahre alt.
 2. Peter talks to Lukas and Mina: You all live in Lindenberg. → Ihr wohnt in Lindenberg.
 3. Peter talks about Frau Weber and Herr Weber: They are very friendly. → Sie sind sehr freundlich.
 4. Peter talks about himself and Lukas: We go to school. → Wir gehen zur Schule.
 - Erklärung: Prüfe immer, wer die Subjektkarte trägt: eine Person (er/sie/es), wir selbst (wir), mehrere vertraute Personen (ihr) oder andere Personen im Plural (sie).
 - So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
 - Link: [../?via=tutor#pronomen-waehlen](../?via=tutor#pronomen-waehlen)
+
+### Aufgabe pronomen-luecken
+
+- Aufgabe: Schreibe das passende Personalpronomen in die Lücke.
+- Antwortformat: die Lücken auf Deutsch füllen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung richtig mit Hinweis, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
+- Einträge (Vorgabe → Lösung):
+1. Peter talks about Nadia: She plays soccer in the park. → Sie spielt im Park Fußball.
+     - Er: Nadia ist ein Mädchen, deshalb heißt das Pronomen Sie.
+2. Peter talks to Lukas and Nadia: Are you all coming to the park? → Kommt ihr mit in den Park?
+     - du: Es sind zwei Freunde (Lukas und Nadia), also ihr.
+3. Peter talks politely to Herr Braun: Are you our class teacher? → Sind Sie unser Klassenlehrer?
+     - du: Lehrer spricht man höflich mit großem Sie an.
+- Erklärung: Du kannst jetzt alle deutschen Personalpronomen sicher auswählen und schreiben — als Nächstes verbindest du sie mit sein und haben.
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#pronomen-luecken](../?via=tutor#pronomen-luecken)

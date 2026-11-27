@@ -49,9 +49,9 @@ Picture: Sentence Cards for verb-second order: Sentence A shows Peter (Pos. 1), 
 
 - Exercise `v2-einstieg` (below)
 
-### Subject-Verb Inversion in Brief
+### What Happens When Something Else Goes First?
 
-- **Verb-second order (V2)**: In every German statement, the conjugated verb stands in second position. If something other than the subject (such as time or place) fills Position 1, the subject moves right after the verb (inversion).
+- **Verb-second order (V2)**: In every German statement, the conjugated verb stands in Position 2. If a time or place card moves to Position 1, the subject jumps right behind the verb.
 
 Swap Position 1 — Position 2 stays locked:
 - Position 1 | Position 2 (Verb) | Rest of sentence
@@ -60,6 +60,8 @@ Swap Position 1 — Position 2 stays locked:
 - Im Sportverein | **spielt** | Mina heute.
 
 ### Practice
+
+- Exercise `v2-pruefen` (below)
 
 - Exercise `v2-ordnen` (below)
 
@@ -76,6 +78,18 @@ Swap Position 1 — Position 2 stays locked:
 - Solution: Am Montag lernt Peter Deutsch.
 - Explanation: Position 1 holds one whole phrase (e.g. Heute or Am Montag). The conjugated verb always comes immediately next.
 - Link: [../?via=tutor#v2-einstieg](../?via=tutor#v2-einstieg)
+
+### Exercise v2-pruefen
+
+- Task: Check the Sentence Cards: in which sentences is the conjugated verb properly in Position 2?
+- Answer format: choose all right answers
+- Choices (✓ right, ✗ wrong, with the app's message):
+  - ✓ Am Dienstag spielt Lukas Fußball im Park. – Correct: Am Dienstag (Pos. 1) + spielt (Pos. 2) + Lukas (subject).
+  - ✗ Nach der Schule Peter fährt mit dem Fahrrad. – Incorrect: fährt is pushed to Position 3. Correct: Nach der Schule fährt Peter mit dem Fahrrad.
+  - ✓ Im Park treffen wir Nadia und Mina. – Correct: Im Park (Pos. 1) + treffen (Pos. 2) + wir (subject).
+- Solution: Am Dienstag spielt Lukas Fußball im Park.; Im Park treffen wir Nadia und Mina.
+- Explanation: Always count Sentence Cards: no matter how many words fill Position 1 (e.g. Nach der Schule), the verb comes immediately next.
+- Link: [../?via=tutor#v2-pruefen](../?via=tutor#v2-pruefen)
 
 ### Exercise v2-ordnen
 

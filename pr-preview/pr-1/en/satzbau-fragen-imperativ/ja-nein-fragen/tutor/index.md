@@ -65,6 +65,8 @@ Simply put the conjugated verb in Position 1 and the subject in Position 2: *Woh
 
 - Exercise `ja-nein-luecken` (below)
 
+- Exercise `ja-nein-schreiben` (below)
+
 ### Exercise doch-einstieg
 
 - Task: Lukas asks a negative question: *'Spielst du nicht gern Fußball?'* (Don't you like playing soccer?) — Peter **does** love soccer! How does he reply?
@@ -100,3 +102,17 @@ Simply put the conjugated verb in Position 1 and the subject in Position 2: *Woh
 - Explanation: Verb in Position 1 builds every yes/no question; doch is your tool for contradicting negative questions.
 - How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
 - Link: [../?via=tutor#ja-nein-luecken](../?via=tutor#ja-nein-luecken)
+
+### Exercise ja-nein-schreiben
+
+- Task: Write two yes/no questions in German. Put the verb in Position 1!
+- Answer format: write the whole answer in German
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation ignored
+- Items (start → solution):
+1. Do you live in Lindenberg? (du) → Wohnst du in Lindenberg?
+     - Du wohnst in Lindenberg?: In a yes/no question, put the verb in Position 1: Wohnst du in Lindenberg?
+2. Do you play table tennis? (du) → Spielst du Tischtennis?
+     - Du spielst Tischtennis?: Put the verb Spielst in Position 1: Spielst du Tischtennis?
+- Explanation: Great! You can now build yes/no questions with the verb in Position 1 and answer with ja, nein, or doch.
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#ja-nein-schreiben](../?via=tutor#ja-nein-schreiben)

@@ -41,13 +41,15 @@ Nennt die Adresse dieser Seite `bedarf=`, gilt jeder Abschnitt, den sie nennt, m
 
 Regelmäßige deutsche Verben wie wohnen, lernen, spielen, arbeiten und heißen im Präsens konjugieren.
 
-### Erster Schultag am Gymnasium
+### Erster Schultag in Klasse 6
 
-Am Montag geht Peter mit Lukas ans Gymnasium in Lindenberg. Sie treffen Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*
+Am Montag geht Peter mit Lukas in die 6. Klasse in Lindenberg. Sie treffen Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*
 
 - Aufgabe `regelmaessig-einstieg` (unten)
 
 ### Die Endungen: -e, -st, -t, -en
+
+Bild: Verb-Baukasten für machen: ich mache, du machst, er/sie/es macht, wir machen, ihr macht, sie/Sie machen. Die Endungen -e, -st, -t, -en, -t, -en sind farbig hervorgehoben. Bildunterschrift: Der Stamm (mach-) bleibt gleich — nur die Endung wechselt je nach Person.
 
 Regelmäßige Konjugation am Beispiel wohnen:
 - Pronomen | Endung | wohnen
@@ -63,12 +65,14 @@ Regelmäßige Konjugation am Beispiel wohnen:
 Endet der Stamm auf **-t** oder **-d** (*arbeit-en*, *find-en*), kommt ein **-e-** vor *-st* und *-t*: *du arbeit**e**st*, *er arbeit**e**t*, *ihr arbeit**e**t*. Endet der Stamm auf **-s, -ß, -z** (*heiß-en*), nimmt *du* nur **-t**: *du heiß**t***.
 
 Vokabeln (Deutsch – Englisch): Häufige regelmäßige Verben in Lindenberg
-- wohnen – to live (reside). Beispiel: Peter wohnt bei Familie Weber. – Peter lives with the Weber family.
+- wohnen – to live (reside). Beispiel: Peter wohnt jetzt in Lindenberg. – Peter now lives in Lindenberg.
 - lernen – to learn, to study. Beispiel: Wir lernen Deutsch. – We are learning German.
 - arbeiten – to work. Beispiel: Frau Weber arbeitet im Büro. – Frau Weber works in an office.
 - heißen – to be called. Beispiel: Wie heißt du? – What is your name?
 
 ### Übung
+
+- Aufgabe `regelmaessig-zuordnen` (unten)
 
 - Aufgabe `regelmaessig-luecken` (unten)
 
@@ -85,6 +89,14 @@ Vokabeln (Deutsch – Englisch): Häufige regelmäßige Verben in Lindenberg
 - Lösung: du lernst
 - Erklärung: Entferne -en vom Infinitiv, um den Verbstamm zu finden (lernen → lern-). Hänge dann die Personalendung an.
 - Link: [../?via=tutor#regelmaessig-einstieg](../?via=tutor#regelmaessig-einstieg)
+
+### Aufgabe regelmaessig-zuordnen
+
+- Aufgabe: Ordne jedem Pronomen die passende Form von *spielen* oder *arbeiten* zu.
+- Antwortformat: jedem Eintrag links den passenden rechts zuordnen
+- Lösung: ich – spiele; du – spielst; er / sie / es – arbeitet; wir / sie / Sie – spielen
+- Erklärung: ich nimmt -e, du nimmt -st, er/sie/es nimmt -t (mit Extra-e nach -t: arbeitet), und wir sowie sie/Sie nutzen -en.
+- Link: [../?via=tutor#regelmaessig-zuordnen](../?via=tutor#regelmaessig-zuordnen)
 
 ### Aufgabe regelmaessig-luecken
 

@@ -64,6 +64,8 @@ Take the *du*-form and drop **-st** and *du*: *du kommst → Komm!* Keep **e →
 
 ### Practice
 
+- Exercise `imperativ-zuordnen` (below)
+
 - Exercise `imperativ-wahl` (below)
 
 - Exercise `imperativ-luecken` (below)
@@ -79,6 +81,14 @@ Take the *du*-form and drop **-st** and *du*: *du kommst → Komm!* Keep **e →
 - Solution: several people informally (ihr)
 - Explanation: In German the verb form immediately shows whether you address one peer (du), a group (ihr), or someone formally (Sie).
 - Link: [../?via=tutor#imperativ-einstieg](../?via=tutor#imperativ-einstieg)
+
+### Exercise imperativ-zuordnen
+
+- Task: Match each imperative form to the right person.
+- Answer format: match each item on the left with one on the right
+- Solution: Komm bitte mit! – du (1 friend); Kommt bitte mit! – ihr (several friends); Kommen Sie bitte mit! – Sie (formal); Sei bitte leise! – du (irregular form of sein)
+- Explanation: Komm (du), Kommt (ihr), Kommen Sie (formal), and Sei (special du-form of sein).
+- Link: [../?via=tutor#imperativ-zuordnen](../?via=tutor#imperativ-zuordnen)
 
 ### Exercise imperativ-wahl
 

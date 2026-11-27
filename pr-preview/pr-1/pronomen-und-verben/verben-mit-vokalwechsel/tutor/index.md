@@ -49,6 +49,8 @@ Nach der Schule fahren Lukas und Peter mit dem Fahrrad nach Hause. Nadia liest e
 
 ### Die drei Muster: e → i, e → ie, a → ä
 
+Bild: Übersicht zum Vokalwechsel: Links kein Wechsel bei ich, wir, ihr und sie/Sie (helfen, laufen). Rechts Vokalwechsel nur bei du und er/sie/es: e zu i (hilfst, hilft), e zu ie (siehst, sieht), a zu ä (läufst, läuft). Bildunterschrift: Nur im gelben Feld (du und er/sie/es) wechselt der Vokal — alle anderen Formen bleiben unverändert.
+
 Typische Verben mit Vokalwechsel im Präsens:
 - Muster & Infinitiv | ich / wir / ihr | du / er, sie, es
 - e → i: sprechen | spreche / sprechen / sprecht | spr**i**chst / spr**i**cht
@@ -67,6 +69,8 @@ Da *les-* und *ess-* schon auf **s** enden, sind *du* und *er/sie/es* gleich: *d
 - Aufgabe `vokalwechsel-wahl` (unten)
 
 - Aufgabe `vokalwechsel-luecken` (unten)
+
+- Aufgabe `vokalwechsel-schreiben` (unten)
 
 ### Aufgabe vokalwechsel-einstieg
 
@@ -88,7 +92,7 @@ Da *les-* und *ess-* schon auf **s** enden, sind *du* und *er/sie/es* gleich: *d
 - Einträge (Vorgabe → Lösung):
 1. Lukas rides his bike to school. → Lukas fährt mit dem Fahrrad zur Schule.
 2. You all speak German very well! → Ihr sprecht sehr gut Deutsch!
-3. Do you read the newspaper, Peter? → Liest du die Zeitung, Peter?
+3. Do you read the comic, Peter? → Liest du den Comic, Peter?
 4. I always eat a roll in the morning. → Ich esse morgens immer ein Brötchen.
 - Erklärung: Nur du und er/sie/es wechseln den Vokal. Bei ich (ich esse) und ihr (ihr sprecht) bleibt der Vokal wie im Infinitiv.
 - So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
@@ -106,6 +110,20 @@ Da *les-* und *ess-* schon auf **s** enden, sind *du* und *er/sie/es* gleich: *d
      - schlaft: Bei schlafen wird a zu ä in der 3. Person Singular: Peter schläft.
 3. We ride the train to Berlin. (fahren) → Wir fahren mit dem Zug nach Berlin.
      - fähren: Bei wir gibt es keinen Vokalwechsel: Wir fahren.
-- Erklärung: Du kannst jetzt Pronomen, sein/haben, regelmäßige Verben und Vokalwechsel sicher konjugieren. Im nächsten Kapitel setzt du sie mit den Satzkarten auf Position 2!
+- Erklärung: Prüfe zuerst das Subjekt: Nur bei du und er/sie/es wechselt der Vokal.
 - So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
 - Link: [../?via=tutor#vokalwechsel-luecken](../?via=tutor#vokalwechsel-luecken)
+
+### Aufgabe vokalwechsel-schreiben
+
+- Aufgabe: Schreibe diese kurzen Sätze mit Vokalwechsel auf Deutsch.
+- Antwortformat: die ganze Antwort auf Deutsch schreiben
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen egal
+- Einträge (Vorgabe → Lösung):
+1. Mina reads a comic. → Mina liest einen Comic.
+     - Mina lest einen Comic.: Bei lesen wechselt e zu ie: Mina liest.
+2. Lukas eats an apple. → Lukas isst einen Apfel.
+     - Lukas esst einen Apfel.: Bei essen wechselt e zu i: Lukas isst.
+- Erklärung: Du kannst jetzt Pronomen, sein/haben, regelmäßige Verben und Vokalwechsel sicher konjugieren. Im nächsten Kapitel setzt du sie mit den Satzkarten auf Position 2!
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#vokalwechsel-schreiben](../?via=tutor#vokalwechsel-schreiben)

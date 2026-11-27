@@ -43,7 +43,7 @@ Conjugate sein (to be) and haben (to have) in the present tense to describe peop
 
 ### Peter's New Room in Lindenberg
 
-Peter unpacks at the Weber home and introduces himself: *Ich bin Peter. Ich habe ein Fahrrad und ein helles Zimmer.*
+Peter unpacks in his new room in Lindenberg and tells Lukas and Mina: *Ich bin Peter. Ich habe ein Fahrrad und ein helles Zimmer.*
 
 - Exercise `sein-haben-einstieg` (below)
 
@@ -68,9 +68,11 @@ In **haben**, the **b** drops in *du ha**st*** and *er/sie/es ha**t***. Also, *w
 
 - Exercise `sein-haben-saetze` (below)
 
+- Exercise `sein-haben-schreiben` (below)
+
 ### Exercise sein-haben-einstieg
 
-- Task: How does Peter say about his host siblings Lukas and Mina: 'They are nice and they have a dog'?
+- Task: How does Peter say about his new friends Lukas and Mina: 'They are nice and they have a dog'?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ Sie sind nett und sie haben einen Hund. – Correct: Plural sie takes sind and haben.
@@ -101,7 +103,7 @@ In **haben**, the **b** drops in *du ha**st*** and *er/sie/es ha**t***. Also, *w
 - Answer format: fill in the gaps in German
 - How the app counts mistakes of form: capital letters right with a hint, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):
-1. Peter is 16 years old. (sein) → Peter ist sechzehn Jahre alt.
+1. Peter is 12 years old. (sein) → Peter ist zwölf Jahre alt.
      - sind: Peter is one person (er), so use ist.
 2. Do you have a bike, Lukas? (haben) → Lukas, hast du ein Fahrrad?
      - habst: With du, haben drops the b: du hast.
@@ -112,3 +114,17 @@ In **haben**, the **b** drops in *du ha**st*** and *er/sie/es ha**t***. Also, *w
 - Explanation: Every verb matches its subject. Notice also that German uses haben for 'Hunger haben' (to be hungry) and 'Durst haben' (to be thirsty).
 - How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
 - Link: [../?via=tutor#sein-haben-saetze](../?via=tutor#sein-haben-saetze)
+
+### Exercise sein-haben-schreiben
+
+- Task: Write two short sentences about Peter's day in German.
+- Answer format: write the whole answer in German
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation ignored
+- Items (start → solution):
+1. Mina has a ball. → Mina hat einen Ball.
+     - Mina habt einen Ball.: Mina is one person (sie), so use hat.
+2. We are in Year 6. → Wir sind in Klasse 6.
+     - Wir seid in Klasse 6.: With wir, use sind: Wir sind in Klasse 6.
+- Explanation: You can now use sein and haben confidently in every person — next come regular verbs.
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#sein-haben-schreiben](../?via=tutor#sein-haben-schreiben)

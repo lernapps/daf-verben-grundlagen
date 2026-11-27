@@ -49,9 +49,9 @@ Bild: Satzkarten für Verb-Zweitstellung: Satz A zeigt Peter (Pos. 1), wohnt (Po
 
 - Aufgabe `v2-einstieg` (unten)
 
-### Subjekt-Verb-Inversion kurz erklärt
+### Was passiert, wenn etwas anderes vorn steht?
 
-- **Verb-Zweitstellung (V2)**: In jedem deutschen Aussagesatz steht das konjugierte Verb an zweiter Stelle. Steht auf Position 1 nicht das Subjekt (sondern z. B. Zeit oder Ort), rückt das Subjekt direkt hinter das Verb (Inversion).
+- **Verb-Zweitstellung (V2)**: In jedem deutschen Aussagesatz steht das konjugierte Verb auf Position 2. Wandert eine Zeit- oder Ortskarte nach vorn auf Position 1, springt das Subjekt direkt hinter das Verb.
 
 Position 1 tauschen — Position 2 bleibt fest:
 - Position 1 | Position 2 (Verb) | Rest des Satzes
@@ -60,6 +60,8 @@ Position 1 tauschen — Position 2 bleibt fest:
 - Im Sportverein | **spielt** | Mina heute.
 
 ### Übung
+
+- Aufgabe `v2-pruefen` (unten)
 
 - Aufgabe `v2-ordnen` (unten)
 
@@ -76,6 +78,18 @@ Position 1 tauschen — Position 2 bleibt fest:
 - Lösung: Am Montag lernt Peter Deutsch.
 - Erklärung: Position 1 ist ein Satzglied (z. B. ein Wort wie Heute oder eine Gruppe wie Am Montag). Danach kommt immer sofort das konjugierte Verb.
 - Link: [../?via=tutor#v2-einstieg](../?via=tutor#v2-einstieg)
+
+### Aufgabe v2-pruefen
+
+- Aufgabe: Prüfe die Satzkarten: In welchen Sätzen steht das konjugierte Verb richtig auf Position 2?
+- Antwortformat: alle richtigen Antworten wählen
+- Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
+  - ✓ Am Dienstag spielt Lukas Fußball im Park. – Richtig: Am Dienstag (Pos. 1) + spielt (Pos. 2) + Lukas (Subjekt).
+  - ✗ Nach der Schule Peter fährt mit dem Fahrrad. – Falsch: Hier steht fährt auf Position 3. Richtig: Nach der Schule fährt Peter mit dem Fahrrad.
+  - ✓ Im Park treffen wir Nadia und Mina. – Richtig: Im Park (Pos. 1) + treffen (Pos. 2) + wir (Subjekt).
+- Lösung: Am Dienstag spielt Lukas Fußball im Park.; Im Park treffen wir Nadia und Mina.
+- Erklärung: Zähle immer die Satzkarten: Egal wie viele Wörter auf Position 1 stehen (z. B. Nach der Schule), danach kommt sofort das Verb.
+- Link: [../?via=tutor#v2-pruefen](../?via=tutor#v2-pruefen)
 
 ### Aufgabe v2-ordnen
 

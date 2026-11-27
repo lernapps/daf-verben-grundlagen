@@ -43,9 +43,9 @@ W-Fragen mit wer, was, wo, woher, wohin, wann und wie bilden — mit dem Verb au
 
 ### Peter fragt sich durch Lindenberg
 
-In den ersten Tagen hat Peter viele Fragen an Nadia und Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*
+In den ersten Tagen hat Peter viele Fragen an Nadia und Herrn Braun: *Wo ist der Sportplatz? Wann beginnt der Unterricht? Wer ist das?*
 
-Bild: Satzkarten für Fragen: W-Frage zeigt Woher (Pos. 1 W-Wort), kommst (Pos. 2 Verb), du? (Subjekt). Ja-/Nein-Frage zeigt Spielst (Pos. 1 Verb), du (Subjekt), gern Fußball? (Rest). Bildunterschrift: Bei W-Fragen besetzt das Fragewort Position 1 — das Verb bleibt fest auf Position 2.
+Bild: Satzkarten für Fragen: W-Frage zeigt Wie (Pos. 1 W-Wort), heißt (Pos. 2 Verb), du? (Subjekt). Ja-/Nein-Frage zeigt Trinkst (Pos. 1 Verb), du (Subjekt), gern Kakao? (Rest). Bildunterschrift: Bei W-Fragen besetzt das Fragewort Position 1 — das Verb bleibt fest auf Position 2.
 
 - Aufgabe `w-woerter-zuordnen` (unten)
 
@@ -66,6 +66,8 @@ Nach dem Namen fragt man auf Deutsch mit **Wie**: *Wie heißt du?* (wörtlich: *
 ### Übung
 
 - Aufgabe `w-fragen-waehlen` (unten)
+
+- Aufgabe `w-fragen-ordnen` (unten)
 
 - Aufgabe `w-fragen-schreiben` (unten)
 
@@ -90,6 +92,14 @@ Nach dem Namen fragt man auf Deutsch mit **Wie**: *Wie heißt du?* (wörtlich: *
 - Erklärung: wo fragt nach dem Ort, woher nach der Herkunft (aus …), wohin nach dem Ziel, und wann nach der Zeit.
 - So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
 - Link: [../?via=tutor#w-fragen-waehlen](../?via=tutor#w-fragen-waehlen)
+
+### Aufgabe w-fragen-ordnen
+
+- Aufgabe: Bringe die Satzkarten in die richtige Reihenfolge für eine W-Frage.
+- Antwortformat: die Einträge in die richtige Reihenfolge bringen (die App zeigt sie gemischt)
+- Lösung: 1. Wann, 2. beginnt, 3. die Schule, 4. in Lindenberg?
+- Erklärung: Wann (Pos. 1) + beginnt (Pos. 2 Verb) + die Schule (Subjekt) + in Lindenberg?
+- Link: [../?via=tutor#w-fragen-ordnen](../?via=tutor#w-fragen-ordnen)
 
 ### Aufgabe w-fragen-schreiben
 

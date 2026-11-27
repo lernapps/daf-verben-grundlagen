@@ -49,6 +49,8 @@ After school Lukas and Peter ride their bikes home. Nadia reads a book, and Mina
 
 ### The Three Patterns: e → i, e → ie, a → ä
 
+Picture: Stem-change spotlight: Left shows no vowel change for ich, wir, ihr, sie/Sie (helfen, laufen). Right shows vowel change only for du and er/sie/es: e to i (hilfst, hilft), e to ie (siehst, sieht), a to ä (läufst, läuft). Caption: Only the highlighted box (du and er/sie/es) changes its vowel — all other forms stay unchanged.
+
 Common stem-changing verbs in the present tense:
 - Pattern & Infinitive | ich / wir / ihr | du / er, sie, es
 - e → i: sprechen (speak) | spreche / sprechen / sprecht | spr**i**chst / spr**i**cht
@@ -67,6 +69,8 @@ Because *les-* and *ess-* already end in **s**, the *du* and *er/sie/es* forms a
 - Exercise `vokalwechsel-wahl` (below)
 
 - Exercise `vokalwechsel-luecken` (below)
+
+- Exercise `vokalwechsel-schreiben` (below)
 
 ### Exercise vokalwechsel-einstieg
 
@@ -88,7 +92,7 @@ Because *les-* and *ess-* already end in **s**, the *du* and *er/sie/es* forms a
 - Items (start → solution):
 1. Lukas rides his bike to school. → Lukas fährt mit dem Fahrrad zur Schule.
 2. You all speak German very well! → Ihr sprecht sehr gut Deutsch!
-3. Do you read the newspaper, Peter? → Liest du die Zeitung, Peter?
+3. Do you read the comic, Peter? → Liest du den Comic, Peter?
 4. I always eat a roll in the morning. → Ich esse morgens immer ein Brötchen.
 - Explanation: Only du and er/sie/es change the vowel. ich (ich esse) and ihr (ihr sprecht) keep the infinitive vowel.
 - How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
@@ -106,6 +110,20 @@ Because *les-* and *ess-* already end in **s**, the *du* and *er/sie/es* forms a
      - schlaft: In schlafen, a changes to ä in 3rd person singular: Peter schläft.
 3. We ride the train to Berlin. (fahren) → Wir fahren mit dem Zug nach Berlin.
      - fähren: There is no vowel change with wir: Wir fahren.
-- Explanation: You can now conjugate pronouns, sein/haben, regular verbs, and stem-changing verbs. In the next chapter, you lock them onto Position 2 with the Sentence Cards!
+- Explanation: Always check the subject first: only du and er/sie/es change the vowel.
 - How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
 - Link: [../?via=tutor#vokalwechsel-luecken](../?via=tutor#vokalwechsel-luecken)
+
+### Exercise vokalwechsel-schreiben
+
+- Task: Write these short stem-changing sentences in German.
+- Answer format: write the whole answer in German
+- How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation ignored
+- Items (start → solution):
+1. Mina reads a comic. → Mina liest einen Comic.
+     - Mina lest einen Comic.: In lesen, e changes to ie: Mina liest.
+2. Lukas eats an apple. → Lukas isst einen Apfel.
+     - Lukas esst einen Apfel.: In essen, e changes to i: Lukas isst.
+- Explanation: You can now conjugate pronouns, sein/haben, regular verbs, and stem-changing verbs. In the next chapter, you lock them onto Position 2 with the Sentence Cards!
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#vokalwechsel-schreiben](../?via=tutor#vokalwechsel-schreiben)

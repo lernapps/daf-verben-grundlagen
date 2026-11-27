@@ -43,7 +43,7 @@ Use German nominative subject pronouns (ich, du, er, sie, es, wir, ihr, sie, Sie
 
 ### Arriving at the Weber Home
 
-Peter arrives in Lindenberg as an exchange student. Frau Weber, Lukas (15), and Mina (12) wait at the station. Which pronoun fits the first greeting?
+Peter (12) moves to Lindenberg with his parents for a year. Family friends wait at the station: Frau Weber, Lukas (12), and Mina (9). Which pronoun fits the first greeting?
 
 - Exercise `pronomen-einstieg` (below)
 
@@ -55,7 +55,7 @@ Nominative personal pronouns:
 - Pronoun | Meaning | Example in Lindenberg
 - ich | I | Ich bin Peter.
 - du | you (singular, informal) | Du bist Lukas.
-- er / sie / es | he / she / it | Er ist 15. Sie ist 12. Es ist kalt.
+- er / sie / es | he / she / it | Er ist 12. Sie ist 9. Es ist kalt.
 - wir | we | Wir wohnen in Lindenberg.
 - ihr | you all (plural, informal) | Ihr spielt Fußball.
 - sie | they | Sie kommen aus Lindenberg.
@@ -70,6 +70,8 @@ Nominative personal pronouns:
 - Exercise `pronomen-zuordnen` (below)
 
 - Exercise `pronomen-waehlen` (below)
+
+- Exercise `pronomen-luecken` (below)
 
 ### Exercise pronomen-einstieg
 
@@ -87,7 +89,7 @@ Nominative personal pronouns:
 
 - Task: Match each person or group in Lindenberg to the right subject pronoun.
 - Answer format: match each item on the left with one on the right
-- Solution: Mina (12) – sie (she); Lukas and I (Peter) – wir; Lukas and Mina (Peter talks to both) – ihr; Herr Braun (Peter's teacher, direct address) – Sie
+- Solution: Mina (9) – sie (she); Lukas and I (Peter) – wir; Lukas and Mina (Peter talks to both) – ihr; Herr Braun (Peter's class teacher, direct address) – Sie
 - Explanation: Mina is feminine singular (sie), Lukas + I is wir, two peers addressed together are ihr, and a teacher is addressed formally as Sie.
 - Link: [../?via=tutor#pronomen-zuordnen](../?via=tutor#pronomen-zuordnen)
 
@@ -97,10 +99,26 @@ Nominative personal pronouns:
 - Answer format: choose a word for each gap
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):
-1. Peter talks about Lukas: He is fifteen years old. → Er ist fünfzehn Jahre alt.
+1. Peter talks about Lukas: He is twelve years old. → Er ist zwölf Jahre alt.
 2. Peter talks to Lukas and Mina: You all live in Lindenberg. → Ihr wohnt in Lindenberg.
 3. Peter talks about Frau Weber and Herr Weber: They are very friendly. → Sie sind sehr freundlich.
 4. Peter talks about himself and Lukas: We go to school. → Wir gehen zur Schule.
 - Explanation: Always check who is on the Subject Card: one person (er/sie/es), yourself plus others (wir), peers addressed directly (ihr), or other people in the plural (sie).
 - How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
 - Link: [../?via=tutor#pronomen-waehlen](../?via=tutor#pronomen-waehlen)
+
+### Exercise pronomen-luecken
+
+- Task: Type the right personal pronoun in each gap.
+- Answer format: fill in the gaps in German
+- How the app counts mistakes of form: capital letters right with a hint, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
+- Items (start → solution):
+1. Peter talks about Nadia: She plays soccer in the park. → Sie spielt im Park Fußball.
+     - Er: Nadia is a girl, so use Sie (she).
+2. Peter talks to Lukas and Nadia: Are you all coming to the park? → Kommt ihr mit in den Park?
+     - du: There are two friends (Lukas and Nadia), so use ihr.
+3. Peter talks politely to Herr Braun: Are you our class teacher? → Sind Sie unser Klassenlehrer?
+     - du: Address a teacher formally with capitalized Sie.
+- Explanation: You can now choose and write all German subject pronouns — next you pair them with sein and haben.
+- How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
+- Link: [../?via=tutor#pronomen-luecken](../?via=tutor#pronomen-luecken)

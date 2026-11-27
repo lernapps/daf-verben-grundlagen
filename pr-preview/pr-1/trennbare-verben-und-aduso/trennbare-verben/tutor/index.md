@@ -45,7 +45,7 @@ Trennbare Verben wie aufstehen, einkaufen und anrufen im Hauptsatz richtig teile
 
 Viele alltägliche Verben im Deutschen bestehen aus zwei Teilen: einer betonten Vorsilbe (**auf-**, **ein-**, **an-**, **mit-**) und dem Grundverb. Im Hauptsatz spalten sie sich zur **Satzklammer**.
 
-Bild: Satzklammer für aufstehen: Peter (Pos. 1), steht (Pos. 2 Verb), um sieben Uhr (Mittelfeld), auf (Ende Präfix). Eine Klammer verbindet steht und auf. Bildunterschrift: Das konjugierte Grundverb bleibt auf Position 2; die Vorsilbe schließt rechts die Satzklammer.
+Bild: Satzklammer für aufstehen: Peter (Pos. 1), steht (Pos. 2 Verb), um 7 Uhr (Mitte), auf (Ende). Eine Klammer verbindet steht und auf. Bildunterschrift: Das konjugierte Grundverb bleibt auf Position 2; die Vorsilbe schließt rechts die Satzklammer.
 
 - Aufgabe `trennbar-einstieg` (unten)
 
@@ -54,7 +54,7 @@ Bild: Satzklammer für aufstehen: Peter (Pos. 1), steht (Pos. 2 Verb), um sieben
 Vokabeln (Deutsch – Englisch): Trennbare Verben für den Alltag in Lindenberg
 - aufstehen – to get up. Beispiel: Peter steht um sieben Uhr auf. – Peter gets up at seven o'clock.
 - einkaufen – to go shopping. Beispiel: Wir kaufen Brötchen ein. – We are buying rolls.
-- anrufen – to call (by phone). Beispiel: Ich rufe meine Eltern an. – I call my parents.
+- anrufen – to call (by phone). Beispiel: Ich rufe meine Oma an. – I call my grandma.
 - anfangen – to begin, to start. Beispiel: Die Schule fängt um acht Uhr an. – School starts at eight o'clock.. Hinweis: Vokalwechsel a → ä: Der Unterricht fängt um acht Uhr an.
 - mitkommen – to come along. Beispiel: Kommst du ins Kino mit? – Are you coming along to the cinema?
 - fernsehen – to watch TV. Beispiel: Mina sieht abends selten fern. – Mina rarely watches TV in the evening.. Hinweis: Vokalwechsel e → ie: Mina sieht abends fern.
@@ -64,6 +64,8 @@ Vokabeln (Deutsch – Englisch): Trennbare Verben für den Alltag in Lindenberg
 Typische trennbare Vorsilben sind **ab-, an-, auf-, aus-, ein-, fern-, mit-, vor-, zu-, zurück-**. Beim Sprechen liegt die Betonung immer auf der Vorsilbe (*AUFstehen*, *EINkaufen*).
 
 ### Übung
+
+- Aufgabe `trennbar-waehlen` (unten)
 
 - Aufgabe `trennbar-ordnen` (unten)
 
@@ -81,12 +83,25 @@ Typische trennbare Vorsilben sind **ab-, an-, auf-, aus-, ein-, fern-, mit-, vor
 - Erklärung: Die rechte Klammer (die Vorsilbe) wartet immer ganz am Ende — auch in Fragen (*Kaufst du heute ein?*) und im Imperativ (*Ruf mich an!*).
 - Link: [../?via=tutor#trennbar-einstieg](../?via=tutor#trennbar-einstieg)
 
+### Aufgabe trennbar-waehlen
+
+- Aufgabe: Wähle die passende Vorsilbe für das Satzende.
+- Antwortformat: für jede Lücke ein Wort wählen
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
+- Einträge (Vorgabe → Lösung):
+1. Mina watches TV in the evening. (fernsehen) → Mina sieht abends fern.
+2. Lukas calls Nadia after school. (anrufen) → Lukas ruft nach der Schule Nadia an.
+3. We go shopping on Saturday. (einkaufen) → Wir kaufen am Samstag ein.
+- Erklärung: Die betonte Vorsilbe (fern, an, ein) wandert immer ganz ans Ende des Satzes.
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#trennbar-waehlen](../?via=tutor#trennbar-waehlen)
+
 ### Aufgabe trennbar-ordnen
 
 - Aufgabe: Baue die Satzklammer mit *anrufen* (to call).
 - Antwortformat: die Einträge in die richtige Reihenfolge bringen (die App zeigt sie gemischt)
-- Lösung: 1. Am Abend, 2. ruft, 3. Peter, 4. seine Eltern, 5. an.
-- Erklärung: Am Abend (Pos. 1) + ruft (Pos. 2 Verb) + Peter seine Eltern (Mittelfeld) + an (rechte Klammer).
+- Lösung: 1. Am Abend, 2. ruft, 3. Peter, 4. seine Oma, 5. an.
+- Erklärung: Am Abend (Pos. 1) + ruft (Pos. 2 Verb) + Peter seine Oma (Mitte) + an (Vorsilbe am Ende).
 - Link: [../?via=tutor#trennbar-ordnen](../?via=tutor#trennbar-ordnen)
 
 ### Aufgabe trennbar-luecken
@@ -95,8 +110,8 @@ Typische trennbare Vorsilben sind **ab-, an-, auf-, aus-, ein-, fern-, mit-, vor
 - Antwortformat: die ganze Antwort auf Deutsch schreiben
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen egal
 - Einträge (Vorgabe → Lösung):
-1. Peter gets up early. (aufstehen · früh) → Peter steht früh auf.
-     - Peter aufsteht früh.: Teile aufstehen im Hauptsatz: steht auf Position 2, auf ans Ende.
+1. Lukas gets up early. (aufstehen · früh) → Lukas steht früh auf.
+     - Lukas aufsteht früh.: Teile aufstehen im Hauptsatz: steht auf Position 2, auf ans Ende.
 2. Class starts at eight o'clock. (anfangen · Der Unterricht · um acht Uhr) → Der Unterricht fängt um acht Uhr an.
      - Der Unterricht fangt um acht Uhr an.: Denke an den Vokalwechsel a → ä bei anfangen: fängt … an.
 3. Are you coming along today? (mitkommen · du · heute) → Kommst du heute mit?

@@ -41,13 +41,15 @@ If the address of this page names `bedarf=`, each section it names holds, severa
 
 Conjugate regular German verbs such as wohnen, lernen, spielen, arbeiten, and heißen in the present tense.
 
-### First School Day at the Gymnasium
+### First School Day in Year 6
 
-On Monday Peter goes to the Gymnasium in Lindenberg with Lukas. They meet Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*
+On Monday Peter starts Year 6 in Lindenberg with Lukas. They meet Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*
 
 - Exercise `regelmaessig-einstieg` (below)
 
 ### The Endings: -e, -st, -t, -en
+
+Picture: Verb builder for machen: ich mache, du machst, er/sie/es macht, wir machen, ihr macht, sie/Sie machen, with endings -e, -st, -t, -en, -t, -en highlighted. Caption: The stem (mach-) stays the same — only the ending changes for each person.
 
 Regular conjugation with wohnen (to live):
 - Pronoun | Ending | wohnen
@@ -63,12 +65,14 @@ Regular conjugation with wohnen (to live):
 If the stem ends in **-t** or **-d** (*arbeit-en*, *find-en*), add an extra **-e-** before *-st* and *-t*: *du arbeit**e**st*, *er arbeit**e**t*, *ihr arbeit**e**t*. If the stem ends in **-s, -ß, -z** (*heiß-en*), *du* adds only **-t**: *du heiß**t***.
 
 Vocabulary (German – English): Common regular verbs in Lindenberg
-- wohnen – to live (reside). Example: Peter wohnt bei Familie Weber. – Peter lives with the Weber family.
+- wohnen – to live (reside). Example: Peter wohnt jetzt in Lindenberg. – Peter now lives in Lindenberg.
 - lernen – to learn, to study. Example: Wir lernen Deutsch. – We are learning German.
 - arbeiten – to work. Example: Frau Weber arbeitet im Büro. – Frau Weber works in an office.
 - heißen – to be called. Example: Wie heißt du? – What is your name?
 
 ### Practice
+
+- Exercise `regelmaessig-zuordnen` (below)
 
 - Exercise `regelmaessig-luecken` (below)
 
@@ -85,6 +89,14 @@ Vocabulary (German – English): Common regular verbs in Lindenberg
 - Solution: du lernst
 - Explanation: Remove -en from the infinitive to find the verb stem (lernen → lern-), then add the personal ending.
 - Link: [../?via=tutor#regelmaessig-einstieg](../?via=tutor#regelmaessig-einstieg)
+
+### Exercise regelmaessig-zuordnen
+
+- Task: Match each pronoun to the right form of *spielen* or *arbeiten*.
+- Answer format: match each item on the left with one on the right
+- Solution: ich – spiele; du – spielst; er / sie / es – arbeitet; wir / sie / Sie – spielen
+- Explanation: ich takes -e, du takes -st, er/sie/es takes -t (with extra -e- after -t: arbeitet), and wir and sie/Sie take -en.
+- Link: [../?via=tutor#regelmaessig-zuordnen](../?via=tutor#regelmaessig-zuordnen)
 
 ### Exercise regelmaessig-luecken
 

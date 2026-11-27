@@ -43,7 +43,7 @@ Connect main clauses with und, oder, aber, denn, and sondern without changing Po
 
 ### The Position-0 Bridge Between Two Clauses
 
-Peter writes a message home about his first week in Lindenberg. With five small connecting words (**aber, denn, und, sondern, oder** — short **ADUSO**), he links two main clauses without changing word order.
+Peter writes his grandma a message about his first week in Lindenberg. With five small connecting words (**aber, denn, und, sondern, oder** — short **ADUSO**), he links two sentences without changing word order.
 
 Picture: Position-0 bridge ADUSO: Clause 1 Peter ist müde, then Pos. 0 aber, then Pos. 1 er, Pos. 2 lernt, Rest weiter. Caption: ADUSO conjunctions sit in Position 0 — after them, Position 1 + Position 2 start fresh as normal.
 
@@ -67,6 +67,8 @@ Use **sondern** only when the first clause has a negation (*nicht* / *kein*) and
 
 - Exercise `aduso-waehlen` (below)
 
+- Exercise `aduso-ordnen` (below)
+
 - Exercise `aduso-verbinden` (below)
 
 ### Exercise aduso-einstieg
@@ -75,7 +77,7 @@ Use **sondern** only when the first clause has a negation (*nicht* / *kein*) and
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ Peter lernt viel, denn er wohnt jetzt in Lindenberg. – Correct: denn stands in Position 0, so er stays in Position 1 and wohnt stays in Position 2.
-  - ✗ Peter lernt viel, denn wohnt er jetzt in Lindenberg. – denn does not count as Position 1 — there is no subject-verb inversion!
+  - ✗ Peter lernt viel, denn wohnt er jetzt in Lindenberg. – denn does not count as Position 1 — the subject simply stays before the verb!
   - ✗ Peter lernt viel, denn er jetzt in Lindenberg wohnt. – Verb-final word order happens with weil (subordinate clause), not with denn.
 - Solution: Peter lernt viel, denn er wohnt jetzt in Lindenberg.
 - Explanation: Remember the acronym ADUSO: aber, denn, und, sondern, oder. All five sit in Position 0 and leave Position 1 and Position 2 untouched.
@@ -94,6 +96,14 @@ Use **sondern** only when the first clause has a negation (*nicht* / *kein*) and
 - Explanation: sondern corrects a negation (not A, but rather B), denn gives a reason, aber expresses contrast, and oder offers a choice.
 - How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
 - Link: [../?via=tutor#aduso-waehlen](../?via=tutor#aduso-waehlen)
+
+### Exercise aduso-ordnen
+
+- Task: Put the Sentence Cards with *denn* (Position 0) in the right order.
+- Answer format: put the items in the right order (the app shows them shuffled)
+- Solution: 1. Peter bleibt zu Hause,, 2. denn, 3. es, 4. regnet, 5. stark.
+- Explanation: denn sits in Position 0, followed normally by es (Pos. 1) + regnet (Pos. 2) + stark.
+- Link: [../?via=tutor#aduso-ordnen](../?via=tutor#aduso-ordnen)
 
 ### Exercise aduso-verbinden
 

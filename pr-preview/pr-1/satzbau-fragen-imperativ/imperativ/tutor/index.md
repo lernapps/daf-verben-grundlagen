@@ -64,6 +64,8 @@ Nimm die *du*-Form und streiche **-st** und *du*: *du kommst → Komm!* Der Wech
 
 ### Übung
 
+- Aufgabe `imperativ-zuordnen` (unten)
+
 - Aufgabe `imperativ-wahl` (unten)
 
 - Aufgabe `imperativ-luecken` (unten)
@@ -79,6 +81,14 @@ Nimm die *du*-Form und streiche **-st** und *du*: *du kommst → Komm!* Der Wech
 - Lösung: mehrere vertraute Personen (ihr)
 - Erklärung: Im Deutschen zeigt die Verbform sofort, ob du eine Person (du), mehrere (ihr) oder jemanden höflich (Sie) ansprichst.
 - Link: [../?via=tutor#imperativ-einstieg](../?via=tutor#imperativ-einstieg)
+
+### Aufgabe imperativ-zuordnen
+
+- Aufgabe: Ordne jede Imperativ-Form der passenden Person zu.
+- Antwortformat: jedem Eintrag links den passenden rechts zuordnen
+- Lösung: Komm bitte mit! – du (1 Freund); Kommt bitte mit! – ihr (mehrere Freunde); Kommen Sie bitte mit! – Sie (höflich); Sei bitte leise! – du (Sonderform von sein)
+- Erklärung: Komm (du), Kommt (ihr), Kommen Sie (höflich) und Sei (Sonderform von sein für du).
+- Link: [../?via=tutor#imperativ-zuordnen](../?via=tutor#imperativ-zuordnen)
 
 ### Aufgabe imperativ-wahl
 

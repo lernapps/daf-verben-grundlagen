@@ -43,7 +43,7 @@ Zwei Hauptsätze mit und, oder, aber, denn und sondern verbinden — die Verb-Zw
 
 ### Die Position-0-Brücke zwischen zwei Sätzen
 
-Peter schreibt seinen Eltern eine Nachricht über seine erste Woche in Lindenberg. Mit fünf kleinen Bindewörtern (**aber, denn, und, sondern, oder** — kurz **ADUSO**) verbindet er zwei Hauptsätze, ohne die Wortstellung zu verändern.
+Peter schreibt seiner Oma eine Nachricht über seine erste Woche in Lindenberg. Mit fünf kleinen Bindewörtern (**aber, denn, und, sondern, oder** — kurz **ADUSO**) verbindet er zwei Sätze, ohne die Wortstellung zu verändern.
 
 Bild: Position-0-Brücke ADUSO: Satz 1 Peter ist müde, dann Pos. 0 aber, dann Pos. 1 er, Pos. 2 lernt, Rest weiter. Bildunterschrift: ADUSO-Konjunktionen stehen auf Position 0 — danach startet ganz normal Position 1 + Position 2.
 
@@ -67,6 +67,8 @@ Benutze **sondern** nur, wenn der erste Satz eine Verneinung (*nicht* / *kein*) 
 
 - Aufgabe `aduso-waehlen` (unten)
 
+- Aufgabe `aduso-ordnen` (unten)
+
 - Aufgabe `aduso-verbinden` (unten)
 
 ### Aufgabe aduso-einstieg
@@ -75,7 +77,7 @@ Benutze **sondern** nur, wenn der erste Satz eine Verneinung (*nicht* / *kein*) 
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ Peter lernt viel, denn er wohnt jetzt in Lindenberg. – Richtig: denn steht auf Position 0, also bleibt er auf Position 1 und wohnt auf Position 2.
-  - ✗ Peter lernt viel, denn wohnt er jetzt in Lindenberg. – denn zählt nicht als Position 1 — hier gibt es keine Inversion!
+  - ✗ Peter lernt viel, denn wohnt er jetzt in Lindenberg. – denn zählt nicht als Position 1 — das Subjekt bleibt einfach vor dem Verb!
   - ✗ Peter lernt viel, denn er jetzt in Lindenberg wohnt. – Verben am Satzende gibt es erst bei weil (Nebensatz), nicht bei denn.
 - Lösung: Peter lernt viel, denn er wohnt jetzt in Lindenberg.
 - Erklärung: Merke das Kürzel ADUSO: aber, denn, und, sondern, oder. Alle fünf besetzen Position 0 und lassen Position 1 und Position 2 unberührt.
@@ -94,6 +96,14 @@ Benutze **sondern** nur, wenn der erste Satz eine Verneinung (*nicht* / *kein*) 
 - Erklärung: sondern korrigiert eine Verneinung (nicht A, sondern B), denn nennt einen Grund, aber zeigt einen Gegensatz, und oder bietet eine Wahl.
 - So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
 - Link: [../?via=tutor#aduso-waehlen](../?via=tutor#aduso-waehlen)
+
+### Aufgabe aduso-ordnen
+
+- Aufgabe: Bringe die Satzkarten mit *denn* (Position 0) in die richtige Reihenfolge.
+- Antwortformat: die Einträge in die richtige Reihenfolge bringen (die App zeigt sie gemischt)
+- Lösung: 1. Peter bleibt zu Hause,, 2. denn, 3. es, 4. regnet, 5. stark.
+- Erklärung: denn steht auf Position 0, danach folgt ganz normal es (Pos. 1) + regnet (Pos. 2) + stark.
+- Link: [../?via=tutor#aduso-ordnen](../?via=tutor#aduso-ordnen)
 
 ### Aufgabe aduso-verbinden
 

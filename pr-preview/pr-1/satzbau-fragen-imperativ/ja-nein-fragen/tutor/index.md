@@ -65,6 +65,8 @@ Stelle einfach das konjugierte Verb an Position 1 und das Subjekt auf Position 2
 
 - Aufgabe `ja-nein-luecken` (unten)
 
+- Aufgabe `ja-nein-schreiben` (unten)
+
 ### Aufgabe doch-einstieg
 
 - Aufgabe: Lukas fragt negativ: *„Spielst du nicht gern Fußball?“* — Peter spielt aber **sehr gern** Fußball! Wie antwortet er?
@@ -100,3 +102,17 @@ Stelle einfach das konjugierte Verb an Position 1 und das Subjekt auf Position 2
 - Erklärung: Verb auf Position 1 bildet jede Ja-/Nein-Frage; doch ist dein Werkzeug, um negative Fragen positiv zu beantworten.
 - So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
 - Link: [../?via=tutor#ja-nein-luecken](../?via=tutor#ja-nein-luecken)
+
+### Aufgabe ja-nein-schreiben
+
+- Aufgabe: Schreibe zwei Ja-/Nein-Fragen auf Deutsch. Setze das Verb auf Position 1!
+- Antwortformat: die ganze Antwort auf Deutsch schreiben
+- Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen egal
+- Einträge (Vorgabe → Lösung):
+1. Do you live in Lindenberg? (du) → Wohnst du in Lindenberg?
+     - Du wohnst in Lindenberg?: In einer Ja-/Nein-Frage steht das Verb auf Position 1: Wohnst du in Lindenberg?
+2. Do you play table tennis? (du) → Spielst du Tischtennis?
+     - Du spielst Tischtennis?: Stelle das Verb Spielst an Position 1: Spielst du Tischtennis?
+- Erklärung: Super! Du kannst jetzt Ja-/Nein-Fragen mit Verb auf Position 1 bilden und mit ja, nein oder doch antworten.
+- So hilfst du: Die App prüft Wort für Wort gegen die Lösungen oben und nennt Fehler der Form (zum Beispiel Akzente) mit den Wörtern des Kindes. Sag nicht die Lösung vor: Frag nach der Regel (Endung, Geschlecht, Zeitform) oder nach einem ähnlichen Satz der Seite. Hält die App eine Fassung des Kindes für falsch, die du für richtig hältst, sag es dem Kind: Die App kennt nur die Fassungen oben.
+- Link: [../?via=tutor#ja-nein-schreiben](../?via=tutor#ja-nein-schreiben)

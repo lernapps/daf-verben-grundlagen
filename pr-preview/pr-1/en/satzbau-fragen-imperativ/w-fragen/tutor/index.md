@@ -43,9 +43,9 @@ Ask and answer W-questions with wer, was, wo, woher, wohin, wann, and wie — ke
 
 ### Peter Asks His Way Around Lindenberg
 
-In his first days Peter has many questions for Nadia and Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*
+In his first days Peter has many questions for Nadia and Herr Braun: *Wo ist der Sportplatz? Wann beginnt der Unterricht? Wer ist das?*
 
-Picture: Sentence Cards for questions: W-question shows Woher (Pos. 1 W-word), kommst (Pos. 2 Verb), du? (Subject). Yes/No question shows Spielst (Pos. 1 Verb), du (Subject), gern Fußball? (Rest). Caption: In W-questions the question word fills Position 1 — the verb stays locked in Position 2.
+Picture: Sentence Cards for questions: W-question shows Wie (Pos. 1 W-word), heißt (Pos. 2 Verb), du? (Subject). Yes/No question shows Trinkst (Pos. 1 Verb), du (Subject), gern Kakao? (Rest). Caption: In W-questions the question word fills Position 1 — the verb stays locked in Position 2.
 
 - Exercise `w-woerter-zuordnen` (below)
 
@@ -66,6 +66,8 @@ To ask someone's name in German, use **Wie**: *Wie heißt du?* (literally *How a
 ### Practice
 
 - Exercise `w-fragen-waehlen` (below)
+
+- Exercise `w-fragen-ordnen` (below)
 
 - Exercise `w-fragen-schreiben` (below)
 
@@ -90,6 +92,14 @@ To ask someone's name in German, use **Wie**: *Wie heißt du?* (literally *How a
 - Explanation: wo asks for a location, woher for origin (from), wohin for destination (to), and wann for time.
 - How to help: the app checks word by word against the solutions above and names mistakes of form (e.g. accents) with the child's words. Do not give the solution: ask about the rule (ending, gender, tense) or about a similar sentence of the page. If the app takes a version of the child's as wrong that you think is right, tell the child: the app knows only the versions above.
 - Link: [../?via=tutor#w-fragen-waehlen](../?via=tutor#w-fragen-waehlen)
+
+### Exercise w-fragen-ordnen
+
+- Task: Put the Sentence Cards in the right order for a W-question.
+- Answer format: put the items in the right order (the app shows them shuffled)
+- Solution: 1. Wann, 2. beginnt, 3. die Schule, 4. in Lindenberg?
+- Explanation: Wann (Pos. 1) + beginnt (Pos. 2 verb) + die Schule (subject) + in Lindenberg?
+- Link: [../?via=tutor#w-fragen-ordnen](../?via=tutor#w-fragen-ordnen)
 
 ### Exercise w-fragen-schreiben
 
