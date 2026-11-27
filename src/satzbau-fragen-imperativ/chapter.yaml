@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Verb-Zweitstellung, Fragen und Imperativ
+  en: Verb-Second Order, Questions and Imperative
+summary:
+  de: "Mit den Satzkarten und dem festen Verb-Anker auf Position 2 baust du Aussagen, W-Fragen, Ja-/Nein-Fragen und einfache Aufforderungen im Imperativ."
+  en: "Using the Sentence Cards and the fixed Position-2 Verb Anchor, you build statements, W-questions, yes/no questions, and simple instructions in the imperative."
+pages:
+  - verb-zweitstellung
+  - w-fragen
+  - ja-nein-fragen
+  - imperativ
+selfAssessment:
+  pages:
+    - exercises:
+        - /satzbau-fragen-imperativ/verb-zweitstellung/#v2-ordnen
+        - /satzbau-fragen-imperativ/verb-zweitstellung/#v2-umstellen
+        - /satzbau-fragen-imperativ/w-fragen/#w-fragen-waehlen
+    - exercises:
+        - /satzbau-fragen-imperativ/ja-nein-fragen/#ja-nein-ordnen
+        - /satzbau-fragen-imperativ/ja-nein-fragen/#ja-nein-luecken
+        - /satzbau-fragen-imperativ/imperativ/#imperativ-luecken

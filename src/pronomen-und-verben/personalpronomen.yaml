@@ -1,0 +1,217 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Personalpronomen im Nominativ
+  en: Personal Pronouns (Nominative)
+description:
+  de: "Die deutschen Subjektpronomen (ich, du, er, sie, es, wir, ihr, sie, Sie) bei Familie Weber in Lindenberg sicher verwenden."
+  en: "Use German nominative subject pronouns (ich, du, er, sie, es, wir, ihr, sie, Sie) with the Weber family in Lindenberg."
+competencies: [personalpronomen-nominativ]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: Ankunft bei Familie Weber
+      en: Arriving at the Weber Home
+    blocks:
+      - type: text
+        text:
+          de: "Peter (12) zieht mit seinen Eltern für ein Jahr nach Lindenberg. Am Bahnhof warten Freunde seiner Eltern: Frau Weber, Lukas (12) und Mina (9). Welches Pronomen passt für das erste Gespräch?"
+          en: "Peter (12) moves to Lindenberg with his parents for a year. Family friends wait at the station: Frau Weber, Lukas (12), and Mina (9). Which pronoun fits the first greeting?"
+      - type: single-choice
+        id: pronomen-einstieg
+        text:
+          de: "Peter spricht zuerst mit Frau Weber. Sie ist eine Erwachsene, die er noch nicht gut kennt. Welches Pronomen benutzt er?"
+          en: "Peter speaks to Frau Weber first. She is an adult he does not know well yet. Which pronoun does he use?"
+        options:
+          - text:
+              de: "Sie (großgeschrieben)"
+              en: "Sie (capitalized)"
+            correct: true
+            info:
+              de: "Richtig: Mit Erwachsenen, die man nicht duzt, spricht man höflich mit Sie."
+              en: "Correct: With adults you address formally, German uses capitalized Sie."
+          - text:
+              de: du
+              en: du
+            correct: false
+            info:
+              de: "du benutzt man für Gleichaltrige, Kinder, Freunde und Familie — wie Lukas und Mina."
+              en: "du is informal singular, used for peers, children, friends, and family — like Lukas and Mina."
+          - text:
+              de: ihr
+              en: ihr
+            correct: false
+            info:
+              de: "ihr spricht zwei oder mehr vertraute Personen gleichzeitig an."
+              en: "ihr addresses two or more people informally (like 'you all')."
+        explanation:
+          de: "Im Deutschen unterscheidet man zwischen vertrautem du / ihr und höflichem Sie (immer großgeschrieben, für eine oder mehrere Personen)."
+          en: "German distinguishes informal you (du singular, ihr plural) from formal you (Sie, always capitalized, for one or more people)."
+  - type: section
+    id: regel
+    title:
+      de: Die Subjektkarte im Überblick
+      en: The Subject Card at a Glance
+    blocks:
+      - type: text
+        text:
+          de: "Das Personalpronomen im Nominativ steht auf der Subjektkarte: Es zeigt, wer handelt. Achte auf die drei Bedeutungen von sie / Sie."
+          en: "A nominative personal pronoun sits on the Subject Card: it tells you who does the action. Watch the three uses of sie / Sie."
+      - type: table
+        caption:
+          de: Personalpronomen im Nominativ
+          en: Nominative personal pronouns
+        header:
+          - de: Pronomen
+            en: Pronoun
+          - de: Bedeutung
+            en: Meaning
+          - de: Beispiel in Lindenberg
+            en: Example in Lindenberg
+        rows:
+          - - de: ich
+              en: ich
+            - de: I
+              en: I
+            - de: Ich bin Peter.
+              en: Ich bin Peter.
+          - - de: du
+              en: du
+            - de: you (1 Person, vertraut)
+              en: you (singular, informal)
+            - de: Du bist Lukas.
+              en: Du bist Lukas.
+          - - de: er / sie / es
+              en: er / sie / es
+            - de: he / she / it
+              en: he / she / it
+            - de: Er ist 12. Sie ist 9. Es ist kalt.
+              en: Er ist 12. Sie ist 9. Es ist kalt.
+          - - de: wir
+              en: wir
+            - de: we
+              en: we
+            - de: Wir wohnen in Lindenberg.
+              en: Wir wohnen in Lindenberg.
+          - - de: ihr
+              en: ihr
+            - de: you all (vertraut)
+              en: you all (plural, informal)
+            - de: Ihr spielt Fußball.
+              en: Ihr spielt Fußball.
+          - - de: sie
+              en: sie
+            - de: they
+              en: they
+            - de: Sie kommen aus Lindenberg.
+              en: Sie kommen aus Lindenberg.
+          - - de: Sie
+              en: Sie
+            - de: you (höflich, Sg. & Pl.)
+              en: you (formal, sg. & pl.)
+            - de: Sind Sie Frau Weber?
+              en: Sind Sie Frau Weber?
+      - type: note
+        title:
+          de: "Merke: sie, sie, Sie"
+          en: "Watch out: sie, sie, Sie"
+        blocks:
+          - type: text
+            text:
+              de: "**sie** bedeutet *she* oder *they* — die Verbendung zeigt, was gemeint ist. **Sie** (groß) ist immer höflich (*you*)."
+              en: "**sie** means *she* or *they* — the verb ending tells you which one. Capitalized **Sie** is always formal *you*."
+  - type: section
+    id: uebung
+    title:
+      de: Übung
+      en: Practice
+    blocks:
+      - type: matching
+        id: pronomen-zuordnen
+        text:
+          de: Ordne jeder Person oder Gruppe in Lindenberg das passende Subjektpronomen zu.
+          en: Match each person or group in Lindenberg to the right subject pronoun.
+        pairs:
+          - left:
+              de: Mina (9)
+              en: Mina (9)
+            right:
+              de: sie (she)
+              en: sie (she)
+          - left:
+              de: Lukas und ich (Peter)
+              en: Lukas and I (Peter)
+            right:
+              de: wir
+              en: wir
+          - left:
+              de: "Lukas und Mina (Peter spricht mit beiden)"
+              en: "Lukas and Mina (Peter talks to both)"
+            right:
+              de: ihr
+              en: ihr
+          - left:
+              de: "Herr Braun (Peters Klassenlehrer)"
+              en: "Herr Braun (Peter's class teacher, direct address)"
+            right:
+              de: Sie
+              en: Sie
+        explanation:
+          de: "Mina ist weiblich Singular (sie), Lukas + ich ergibt wir, zwei vertraute Personen sind ihr, und ein Lehrer wird mit Sie angesprochen."
+          en: "Mina is feminine singular (sie), Lukas + I is wir, two peers addressed together are ihr, and a teacher is addressed formally as Sie."
+      - type: language-task
+        id: pronomen-waehlen
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: Wähle für jeden Satz das passende Personalpronomen.
+          en: Choose the right personal pronoun for each sentence.
+        items:
+          - source: "Peter talks about Lukas: He is twelve years old."
+            target: "[Er] ist zwölf Jahre alt."
+            distractors: [[Sie, Es]]
+          - source: "Peter talks to Lukas and Mina: You all live in Lindenberg."
+            target: "[Ihr] wohnt in Lindenberg."
+            distractors: [[Wir, Du]]
+          - source: "Peter talks about Frau Weber and Herr Weber: They are very friendly."
+            target: "[Sie] sind sehr freundlich."
+            distractors: [[Er, Ihr]]
+          - source: "Peter talks about himself and Lukas: We go to school."
+            target: "[Wir] gehen zur Schule."
+            distractors: [[Ihr, Sie]]
+        explanation:
+          de: "Prüfe immer, wer die Subjektkarte trägt: eine Person (er/sie/es), wir selbst (wir), mehrere vertraute Personen (ihr) oder andere Personen im Plural (sie)."
+          en: "Always check who is on the Subject Card: one person (er/sie/es), yourself plus others (wir), peers addressed directly (ihr), or other people in the plural (sie)."
+      - type: language-task
+        id: pronomen-luecken
+        languages: { source: en, target: de }
+        mode: gap
+        form: { case: hint }
+        task:
+          de: Schreibe das passende Personalpronomen in die Lücke.
+          en: Type the right personal pronoun in each gap.
+        items:
+          - source: "Peter talks about Nadia: She plays soccer in the park."
+            target: "[Sie] spielt im Park Fußball."
+            mistakes:
+              - answer: Er
+                message:
+                  de: "Nadia ist ein Mädchen, deshalb heißt das Pronomen Sie."
+                  en: "Nadia is a girl, so use Sie (she)."
+          - source: "Peter talks to Lukas and Nadia: Are you all coming to the park?"
+            target: "Kommt [ihr] mit in den Park?"
+            mistakes:
+              - answer: du
+                message:
+                  de: "Es sind zwei Freunde (Lukas und Nadia), also ihr."
+                  en: "There are two friends (Lukas and Nadia), so use ihr."
+          - source: "Peter talks politely to Herr Braun: Are you our class teacher?"
+            target: "Sind [Sie] unser Klassenlehrer?"
+            mistakes:
+              - answer: du
+                message:
+                  de: "Lehrer spricht man höflich mit großem Sie an."
+                  en: "Address a teacher formally with capitalized Sie."
+        explanation:
+          de: "Du kannst jetzt alle deutschen Personalpronomen sicher auswählen und schreiben — als Nächstes verbindest du sie mit sein und haben."
+          en: "You can now choose and write all German subject pronouns — next you pair them with sein and haben."

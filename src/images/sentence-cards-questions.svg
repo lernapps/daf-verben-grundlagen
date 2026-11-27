@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 212" role="img" aria-label="Satzkarten für Fragen: W-Frage Wie heißt du mit Verb auf Position 2, Ja-Nein-Frage Trinkst du gern Kakao mit Verb auf Position 1">
+  <rect width="340" height="212" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="14" y="24" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#0f172a">W-Frage · Verb auf Position 2</text>
+
+  <rect x="14" y="34" width="102" height="52" rx="8" fill="#ede9fe" stroke="#6d28d9" stroke-width="1.5"/>
+  <text x="65" y="53" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="700" fill="#4c1d95">POS. 1 · W-WORT</text>
+  <text x="65" y="74" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#0f172a">Wie</text>
+
+  <rect x="122" y="34" width="98" height="52" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="2.5"/>
+  <text x="171" y="53" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="700" fill="#78350f">POS. 2 · VERB</text>
+  <text x="171" y="74" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#0f172a">heißt</text>
+
+  <rect x="226" y="34" width="100" height="52" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="276" y="53" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="700" fill="#1e3a8a">SUBJEKT</text>
+  <text x="276" y="74" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#0f172a">du?</text>
+
+  <text x="14" y="112" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#0f172a">Ja-/Nein-Frage · Verb auf Position 1</text>
+
+  <rect x="14" y="122" width="96" height="52" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="2.5"/>
+  <text x="62" y="141" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="700" fill="#78350f">POS. 1 · VERB</text>
+  <text x="62" y="162" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#0f172a">Trinkst</text>
+
+  <rect x="116" y="122" width="68" height="52" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="150" y="141" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="700" fill="#1e3a8a">SUBJEKT</text>
+  <text x="150" y="162" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#0f172a">du</text>
+
+  <rect x="190" y="122" width="136" height="52" rx="8" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+  <text x="258" y="141" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="700" fill="#14532d">REST</text>
+  <text x="258" y="162" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" fill="#0f172a">gern Kakao?</text>
+</svg>

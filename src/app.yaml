@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+format: 2
+strand: daf/grammatik
+title:
+  de: Präsens und erste Sätze
+  en: Present Tense and First Sentences
+intro:
+  de: "Peter (12) zieht mit seinen Eltern für ein Jahr nach Lindenberg und geht dort in die 6. Klasse. Mit beweglichen Satzkarten und dem festen Verb-Anker auf Position 2 lernst du, deutsche Verben im Präsens zu konjugieren und Aussagen, Fragen, Aufforderungen und verbundene Sätze zu bauen."
+  en: "Peter (12) moves to Lindenberg with his parents for a year and joins Year 6. Using movable Sentence Cards and a fixed Position-2 Verb Anchor, you learn to conjugate German verbs in the present tense and build statements, questions, imperatives, and connected sentences."
+languages: [de, en]
+chapters:
+  - pronomen-und-verben
+  - satzbau-fragen-imperativ
+  - trennbare-verben-und-aduso

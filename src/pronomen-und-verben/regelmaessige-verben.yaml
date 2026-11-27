@@ -1,0 +1,247 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Regelmäßige Verben im Präsens
+  en: Regular Verbs in the Present Tense
+description:
+  de: "Regelmäßige deutsche Verben wie wohnen, lernen, spielen, arbeiten und heißen im Präsens konjugieren."
+  en: "Conjugate regular German verbs such as wohnen, lernen, spielen, arbeiten, and heißen in the present tense."
+competencies: [praesens-regelmaessig]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: Erster Schultag in Klasse 6
+      en: First School Day in Year 6
+    blocks:
+      - type: text
+        text:
+          de: "Am Montag geht Peter mit Lukas in die 6. Klasse in Lindenberg. Sie treffen Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*"
+          en: "On Monday Peter starts Year 6 in Lindenberg with Lukas. They meet Nadia: *Ich wohne hier, ich lerne Deutsch und wir spielen zusammen Tischtennis.*"
+      - type: single-choice
+        id: regelmaessig-einstieg
+        text:
+          de: "Der Infinitiv ist *lernen* (Stamm: *lern-*). Wie lautet die Form für *du*?"
+          en: "The infinitive is *lernen* (stem: *lern-*). What is the form for *du*?"
+        options:
+          - text:
+              de: du lernst
+              en: du lernst
+            correct: true
+            info:
+              de: "Richtig: Stamm lern- plus Endung -st für du."
+              en: "Correct: stem lern- plus ending -st for du."
+          - text:
+              de: du lernt
+              en: du lernt
+            correct: false
+            info:
+              de: "-t ist die Endung für er/sie/es und ihr, nicht für du."
+              en: "-t is the ending for er/sie/es and ihr, not for du."
+          - text:
+              de: du lerne
+              en: du lerne
+            correct: false
+            info:
+              de: "-e ist die Endung für ich."
+              en: "-e is the ending for ich."
+        explanation:
+          de: "Entferne -en vom Infinitiv, um den Verbstamm zu finden (lernen → lern-). Hänge dann die Personalendung an."
+          en: "Remove -en from the infinitive to find the verb stem (lernen → lern-), then add the personal ending."
+  - type: section
+    id: regel
+    title:
+      de: "Die Endungen: -e, -st, -t, -en"
+      en: "The Endings: -e, -st, -t, -en"
+    blocks:
+      - type: figure
+        image: images/verb-endings-cards.svg
+        source:
+          de: Eigene Zeichnung
+          en: Own drawing
+        licence: CC0-1.0
+        alt:
+          de: "Verb-Baukasten für machen: ich mache, du machst, er/sie/es macht, wir machen, ihr macht, sie/Sie machen. Die Endungen -e, -st, -t, -en, -t, -en sind farbig hervorgehoben."
+          en: "Verb builder for machen: ich mache, du machst, er/sie/es macht, wir machen, ihr macht, sie/Sie machen, with endings -e, -st, -t, -en, -t, -en highlighted."
+        caption:
+          de: "Der Stamm (mach-) bleibt gleich — nur die Endung wechselt je nach Person."
+          en: "The stem (mach-) stays the same — only the ending changes for each person."
+      - type: table
+        caption:
+          de: "Regelmäßige Konjugation am Beispiel wohnen"
+          en: "Regular conjugation with wohnen (to live)"
+        header:
+          - de: Pronomen
+            en: Pronoun
+          - de: Endung
+            en: Ending
+          - de: wohnen
+            en: wohnen
+        rows:
+          - - de: ich
+              en: ich
+            - de: "-e"
+              en: "-e"
+            - de: wohn**e**
+              en: wohn**e**
+          - - de: du
+              en: du
+            - de: "-st"
+              en: "-st"
+            - de: wohn**st**
+              en: wohn**st**
+          - - de: er / sie / es
+              en: er / sie / es
+            - de: "-t"
+              en: "-t"
+            - de: wohn**t**
+              en: wohn**t**
+          - - de: wir
+              en: wir
+            - de: "-en"
+              en: "-en"
+            - de: wohn**en**
+              en: wohn**en**
+          - - de: ihr
+              en: ihr
+            - de: "-t"
+              en: "-t"
+            - de: wohn**t**
+              en: wohn**t**
+          - - de: sie / Sie
+              en: sie / Sie
+            - de: "-en"
+              en: "-en"
+            - de: wohn**en**
+              en: wohn**en**
+      - type: note
+        title:
+          de: "Zwei kleine Schreibhilfen"
+          en: "Two Small Spelling Helpers"
+        blocks:
+          - type: text
+            text:
+              de: "Endet der Stamm auf **-t** oder **-d** (*arbeit-en*, *find-en*), kommt ein **-e-** vor *-st* und *-t*: *du arbeit**e**st*, *er arbeit**e**t*, *ihr arbeit**e**t*. Endet der Stamm auf **-s, -ß, -z** (*heiß-en*), nimmt *du* nur **-t**: *du heiß**t***."
+              en: "If the stem ends in **-t** or **-d** (*arbeit-en*, *find-en*), add an extra **-e-** before *-st* and *-t*: *du arbeit**e**st*, *er arbeit**e**t*, *ihr arbeit**e**t*. If the stem ends in **-s, -ß, -z** (*heiß-en*), *du* adds only **-t**: *du heiß**t***."
+      - type: vocabulary
+        caption:
+          de: Häufige regelmäßige Verben in Lindenberg
+          en: Common regular verbs in Lindenberg
+        languages: { source: en, target: de }
+        entries:
+          - target: wohnen
+            source: to live (reside)
+            example: { target: "Peter wohnt jetzt in Lindenberg.", source: "Peter now lives in Lindenberg." }
+          - target: lernen
+            source: to learn, to study
+            example: { target: "Wir lernen Deutsch.", source: "We are learning German." }
+          - target: arbeiten
+            source: to work
+            example: { target: "Frau Weber arbeitet im Büro.", source: "Frau Weber works in an office." }
+          - target: heißen
+            source: to be called
+            example: { target: "Wie heißt du?", source: "What is your name?" }
+  - type: section
+    id: uebung
+    title:
+      de: Übung
+      en: Practice
+    blocks:
+      - type: matching
+        id: regelmaessig-zuordnen
+        text:
+          de: Ordne jedem Pronomen die passende Form von *spielen* oder *arbeiten* zu.
+          en: Match each pronoun to the right form of *spielen* or *arbeiten*.
+        pairs:
+          - left:
+              de: ich
+              en: ich
+            right:
+              de: spiele
+              en: spiele
+          - left:
+              de: du
+              en: du
+            right:
+              de: spielst
+              en: spielst
+          - left:
+              de: er / sie / es
+              en: er / sie / es
+            right:
+              de: arbeitet
+              en: arbeitet
+          - left:
+              de: wir / sie / Sie
+              en: wir / sie / Sie
+            right:
+              de: spielen
+              en: spielen
+        explanation:
+          de: "ich nimmt -e, du nimmt -st, er/sie/es nimmt -t (mit Extra-e nach -t: arbeitet), und wir sowie sie/Sie nutzen -en."
+          en: "ich takes -e, du takes -st, er/sie/es takes -t (with extra -e- after -t: arbeitet), and wir and sie/Sie take -en."
+      - type: language-task
+        id: regelmaessig-luecken
+        languages: { source: en, target: de }
+        mode: gap
+        form: { case: hint }
+        task:
+          de: Konjugiere die Verben in Klammern im Präsens.
+          en: Conjugate the verbs in parentheses in the present tense.
+        items:
+          - source: "Nadia plays basketball. (spielen)"
+            target: "Nadia [spielt] Basketball."
+            mistakes:
+              - answer: spielen
+                message:
+                  de: "Nadia ist 3. Person Singular (sie): Stamm spiel- + -t."
+                  en: "Nadia is 3rd person singular (sie): stem spiel- + -t."
+          - source: "You work a lot, Herr Weber! (arbeiten)"
+            target: "Herr Weber, Sie [arbeiten] viel!"
+            mistakes:
+              - answer: arbeitet
+                message:
+                  de: "Das höfliche Sie nutzt immer die Endung -en: Sie arbeiten."
+                  en: "Formal Sie always takes -en: Sie arbeiten."
+          - source: "What is your name? (heißen, du)"
+            target: "Wie [heißt] du?"
+            mistakes:
+              - answer: heißst
+                message:
+                  de: "Nach -ß fällt das s der Endung weg: du heißt."
+                  en: "After -ß, the s of -st is dropped: du heißt."
+          - source: "He works in Lindenberg. (arbeiten)"
+            target: "Er [arbeitet] in Lindenberg."
+            mistakes:
+              - answer: arbeitt
+                message:
+                  de: "Nach Stamm auf -t kommt ein Extra-e: er arbeitet."
+                  en: "After a stem ending in -t, insert an extra -e-: er arbeitet."
+        explanation:
+          de: "Mit dem Schema -e, -st, -t, -en, -t, -en (plus Extra-e nach -t/-d und -t nach -s/-ß/-z) konjugierst du fast alle regelmäßigen Verben."
+          en: "With the pattern -e, -st, -t, -en, -t, -en (plus extra -e- after -t/-d and -t after -s/-ß/-z), you can conjugate almost all regular verbs."
+      - type: language-task
+        id: regelmaessig-schreiben
+        languages: { source: en, target: de }
+        mode: write
+        form: { punctuation: ok }
+        task:
+          de: Übersetze die kurzen Sätze ins Deutsche.
+          en: Translate these short sentences into German.
+        items:
+          - source: "I live in Lindenberg."
+            target: "Ich wohne in Lindenberg."
+            mistakes:
+              - answer: "Ich wohnen in Lindenberg."
+                message:
+                  de: "Zu ich gehört die Endung -e: Ich wohne."
+                  en: "With ich, use the ending -e: Ich wohne."
+          - source: "We learn German."
+            target: "Wir lernen Deutsch."
+            mistakes:
+              - answer: "Wir lernt Deutsch."
+                message:
+                  de: "Zu wir gehört die Endung -en: Wir lernen."
+                  en: "With wir, use the ending -en: Wir lernen."
+        explanation:
+          de: "Im Deutschen gibt es kein extra „am learning“ — das Präsens deckt „I learn“ und „I am learning“ ab."
+          en: "German has no separate '-ing' tense — the present tense covers both 'I learn' and 'I am learning'."

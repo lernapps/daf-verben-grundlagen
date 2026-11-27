@@ -1,0 +1,176 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Ja-/Nein-Fragen und doch
+  en: Yes/No Questions and doch
+description:
+  de: "Ja-/Nein-Fragen mit dem Verb auf Position 1 stellen und mit ja, nein oder doch richtig antworten."
+  en: "Form yes/no questions with the conjugated verb in Position 1 and answer with ja, nein, or doch."
+competencies: [ja-nein-fragen]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: Beim Abendessen bei Familie Weber
+      en: At the Weber Dinner Table
+    blocks:
+      - type: text
+        text:
+          de: "Für eine Ja-/Nein-Frage gibt es kein Fragewort. Deshalb springt der Verb-Anker direkt auf **Position 1**: *Trinkst du Tee?*"
+          en: "A yes/no question has no question word. So the Verb Anchor jumps straight into **Position 1**: *Trinkst du Tee?*"
+      - type: single-choice
+        id: doch-einstieg
+        text:
+          de: "Lukas fragt negativ: *„Spielst du nicht gern Fußball?“* — Peter spielt aber **sehr gern** Fußball! Wie antwortet er?"
+          en: "Lukas asks a negative question: *'Spielst du nicht gern Fußball?'* (Don't you like playing soccer?) — Peter **does** love soccer! How does he reply?"
+        options:
+          - text:
+              de: "Doch, ich spiele sehr gern Fußball!"
+              en: "Doch, ich spiele sehr gern Fußball!"
+            correct: true
+            info:
+              de: "Richtig: Auf eine negative Frage antwortet man mit doch, wenn man widersprechen und „doch, es stimmt!“ sagen will."
+              en: "Correct: To contradict a negative question and say 'Yes, I do!', German uses doch."
+          - text:
+              de: "Ja, ich spiele sehr gern Fußball!"
+              en: "Ja, ich spiele sehr gern Fußball!"
+            correct: false
+            info:
+              de: "Nach einer Frage mit nicht oder kein wirkt ja unklar — dafür gibt es im Deutschen das Wort doch."
+              en: "After a question with nicht or kein, ja sounds ambiguous — German uses doch instead."
+          - text:
+              de: "Nein, ich spiele sehr gern Fußball!"
+              en: "Nein, ich spiele sehr gern Fußball!"
+            correct: false
+            info:
+              de: "Nein bestätigt die Verneinung (also dass Peter nicht gern Fußball spielt)."
+              en: "Nein confirms the negative (meaning Peter does not like soccer)."
+        explanation:
+          de: "Bei positiven Fragen reichen ja und nein. Enthält die Frage nicht oder kein, widersprichst du mit doch."
+          en: "Positive questions take ja or nein. If the question contains nicht or kein, use doch to say 'yes, actually!'."
+  - type: section
+    id: regel
+    title:
+      de: Verb auf Position 1 — Antworten mit ja, nein, doch
+      en: Verb in Position 1 — Answering with ja, nein, doch
+    blocks:
+      - type: table
+        caption:
+          de: "Von der Aussage zur Ja-/Nein-Frage"
+          en: "From statement to yes/no question"
+        header:
+          - de: Aussage (Pos. 2)
+            en: Statement (Pos. 2)
+          - de: Ja-/Nein-Frage (Pos. 1)
+            en: Yes/No question (Pos. 1)
+          - de: Antwort
+            en: Answer
+        rows:
+          - - de: Du **lernst** Deutsch.
+              en: Du **lernst** Deutsch.
+            - de: "**Lernst** du Deutsch?"
+              en: "**Lernst** du Deutsch?"
+            - de: Ja, ich lerne Deutsch. / Nein, nicht heute.
+              en: Ja, ich lerne Deutsch. / Nein, nicht heute.
+          - - de: Ihr **habt** Zeit.
+              en: Ihr **habt** Zeit.
+            - de: "**Habt** ihr Zeit?"
+              en: "**Habt** ihr Zeit?"
+            - de: Ja, wir haben Zeit. / Nein, leider nicht.
+              en: Ja, wir haben Zeit. / Nein, leider nicht.
+          - - de: Du **kommst** nicht mit.
+              en: Du **kommst** nicht mit.
+            - de: "**Kommst** du nicht mit?"
+              en: "**Kommst** du nicht mit?"
+            - de: "**Doch**, ich komme mit! / Nein, ich bleibe hier."
+              en: "**Doch**, ich komme mit! / Nein, ich bleibe hier."
+      - type: note
+        title:
+          de: "Kein „Do you …?“ im Deutschen"
+          en: "No 'Do you …?' in German"
+        blocks:
+          - type: text
+            text:
+              de: "Stelle einfach das konjugierte Verb an Position 1 und das Subjekt auf Position 2: *Wohnst du hier?* — niemals *Tust du hier wohnen?*"
+              en: "Simply put the conjugated verb in Position 1 and the subject in Position 2: *Wohnst du hier?* — never add a helper like *do*."
+  - type: section
+    id: uebung
+    title:
+      de: Übung
+      en: Practice
+    blocks:
+      - type: ordering
+        id: ja-nein-ordnen
+        text:
+          de: Baue aus den Satzkarten eine Ja-/Nein-Frage an Frau Weber.
+          en: Build a yes/no question for Frau Weber from these Sentence Cards.
+        items:
+          - de: Arbeiten
+            en: Arbeiten
+          - de: Sie
+            en: Sie
+          - de: heute
+            en: heute
+          - de: im Büro?
+            en: im Büro?
+        explanation:
+          de: "In der Ja-/Nein-Frage steht das Verb (Arbeiten) auf Position 1, direkt gefolgt vom Subjekt (Sie)."
+          en: "In a yes/no question, the verb (Arbeiten) takes Position 1, followed directly by the subject (Sie)."
+      - type: language-task
+        id: ja-nein-luecken
+        languages: { source: en, target: de }
+        mode: gap
+        form: { case: hint }
+        task:
+          de: Ergänze das Verb auf Position 1 oder das passende Antwortwort (ja, nein, doch).
+          en: Fill in the Position-1 verb or the right answer word (ja, nein, doch).
+        items:
+          - source: "Do you speak English, Mina? (sprechen)"
+            target: "[Sprichst] du Englisch, Mina?"
+            mistakes:
+              - answer: Sprechst
+                message:
+                  de: "Denke an den Vokalwechsel e → i bei du: Sprichst du Englisch?"
+                  en: "Remember the e → i vowel change for du: Sprichst du Englisch?"
+          - source: "Do you have a brother? — Yes, Lukas is my brother."
+            target: "Hast du einen Bruder? — [Ja], Lukas ist mein Bruder."
+            mistakes:
+              - answer: Doch
+                message:
+                  de: "Die Frage ist positiv (ohne nicht/kein), also antwortet man mit Ja."
+                  en: "The question is positive (no nicht/kein), so answer with Ja."
+          - source: "Don't you have a bike? — Yes, I do! It's in the garage."
+            target: "Hast du kein Fahrrad? — [Doch], es steht in der Garage."
+            mistakes:
+              - answer: Ja
+                message:
+                  de: "Die Frage enthält kein — um zu widersprechen, benutzt man Doch."
+                  en: "The question contains kein — to contradict it, use Doch."
+        explanation:
+          de: "Verb auf Position 1 bildet jede Ja-/Nein-Frage; doch ist dein Werkzeug, um negative Fragen positiv zu beantworten."
+          en: "Verb in Position 1 builds every yes/no question; doch is your tool for contradicting negative questions."
+      - type: language-task
+        id: ja-nein-schreiben
+        languages: { source: en, target: de }
+        mode: write
+        form: { punctuation: ok }
+        task:
+          de: Schreibe zwei Ja-/Nein-Fragen auf Deutsch. Setze das Verb auf Position 1!
+          en: Write two yes/no questions in German. Put the verb in Position 1!
+        items:
+          - source: "Do you live in Lindenberg? (du)"
+            target: "Wohnst du in Lindenberg?"
+            mistakes:
+              - answer: "Du wohnst in Lindenberg?"
+                message:
+                  de: "In einer Ja-/Nein-Frage steht das Verb auf Position 1: Wohnst du in Lindenberg?"
+                  en: "In a yes/no question, put the verb in Position 1: Wohnst du in Lindenberg?"
+          - source: "Do you play table tennis? (du)"
+            target: "Spielst du Tischtennis?"
+            mistakes:
+              - answer: "Du spielst Tischtennis?"
+                message:
+                  de: "Stelle das Verb Spielst an Position 1: Spielst du Tischtennis?"
+                  en: "Put the verb Spielst in Position 1: Spielst du Tischtennis?"
+        explanation:
+          de: "Super! Du kannst jetzt Ja-/Nein-Fragen mit Verb auf Position 1 bilden und mit ja, nein oder doch antworten."
+          en: "Great! You can now build yes/no questions with the verb in Position 1 and answer with ja, nein, or doch."

@@ -1,0 +1,192 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Position-0-Konjunktionen (ADUSO)
+  en: Coordinating Conjunctions (Position 0)
+description:
+  de: "Zwei Hauptsätze mit und, oder, aber, denn und sondern verbinden — die Verb-Zweitstellung bleibt unverändert."
+  en: "Connect main clauses with und, oder, aber, denn, and sondern without changing Position-2 word order."
+competencies: [konjunktionen-aduso]
+blocks:
+  - type: section
+    id: einstieg
+    title:
+      de: Die Position-0-Brücke zwischen zwei Sätzen
+      en: The Position-0 Bridge Between Two Clauses
+    blocks:
+      - type: text
+        text:
+          de: "Peter schreibt seiner Oma eine Nachricht über seine erste Woche in Lindenberg. Mit fünf kleinen Bindewörtern (**aber, denn, und, sondern, oder** — kurz **ADUSO**) verbindet er zwei Sätze, ohne die Wortstellung zu verändern."
+          en: "Peter writes his grandma a message about his first week in Lindenberg. With five small connecting words (**aber, denn, und, sondern, oder** — short **ADUSO**), he links two sentences without changing word order."
+      - type: figure
+        image: images/sentence-cards-aduso.svg
+        source:
+          de: Eigene Zeichnung
+          en: Own drawing
+        licence: CC0-1.0
+        alt:
+          de: "Position-0-Brücke ADUSO: Satz 1 Peter ist müde, dann Pos. 0 aber, dann Pos. 1 er, Pos. 2 lernt, Rest weiter."
+          en: "Position-0 bridge ADUSO: Clause 1 Peter ist müde, then Pos. 0 aber, then Pos. 1 er, Pos. 2 lernt, Rest weiter."
+        caption:
+          de: "ADUSO-Konjunktionen stehen auf Position 0 — danach startet ganz normal Position 1 + Position 2."
+          en: "ADUSO conjunctions sit in Position 0 — after them, Position 1 + Position 2 start fresh as normal."
+      - type: single-choice
+        id: aduso-einstieg
+        text:
+          de: "Wie verbindet Peter diese beiden Sätze richtig mit *denn* (because): *Peter lernt viel. Er wohnt jetzt in Lindenberg.*"
+          en: "How does Peter connect these two sentences correctly with *denn* (because): *Peter lernt viel. Er wohnt jetzt in Lindenberg.*"
+        options:
+          - text:
+              de: "Peter lernt viel, denn er wohnt jetzt in Lindenberg."
+              en: "Peter lernt viel, denn er wohnt jetzt in Lindenberg."
+            correct: true
+            info:
+              de: "Richtig: denn steht auf Position 0, also bleibt er auf Position 1 und wohnt auf Position 2."
+              en: "Correct: denn stands in Position 0, so er stays in Position 1 and wohnt stays in Position 2."
+          - text:
+              de: "Peter lernt viel, denn wohnt er jetzt in Lindenberg."
+              en: "Peter lernt viel, denn wohnt er jetzt in Lindenberg."
+            correct: false
+            info:
+              de: "denn zählt nicht als Position 1 — das Subjekt bleibt einfach vor dem Verb!"
+              en: "denn does not count as Position 1 — the subject simply stays before the verb!"
+          - text:
+              de: "Peter lernt viel, denn er jetzt in Lindenberg wohnt."
+              en: "Peter lernt viel, denn er jetzt in Lindenberg wohnt."
+            correct: false
+            info:
+              de: "Verben am Satzende gibt es erst bei weil (Nebensatz), nicht bei denn."
+              en: "Verb-final word order happens with weil (subordinate clause), not with denn."
+        explanation:
+          de: "Merke das Kürzel ADUSO: aber, denn, und, sondern, oder. Alle fünf besetzen Position 0 und lassen Position 1 und Position 2 unberührt."
+          en: "Remember the acronym ADUSO: aber, denn, und, sondern, oder. All five sit in Position 0 and leave Position 1 and Position 2 untouched."
+  - type: section
+    id: regel
+    title:
+      de: Die fünf ADUSO-Konjunktionen im Überblick
+      en: The Five ADUSO Conjunctions at a Glance
+    blocks:
+      - type: table
+        caption:
+          de: "Bedeutung und Komma bei ADUSO"
+          en: "Meaning and comma rules for ADUSO"
+        header:
+          - de: Wort (Pos. 0)
+            en: Word (Pos. 0)
+          - de: Bedeutung & Komma
+            en: Meaning & Comma
+          - de: Beispiel
+            en: Example
+        rows:
+          - - de: "**A** · aber"
+              en: "**A** · aber"
+            - de: but (Gegensatz, mit Komma)
+              en: but (contrast, with comma)
+            - de: Deutsch ist schwer, **aber** es macht Spaß.
+              en: Deutsch ist schwer, **aber** es macht Spaß.
+          - - de: "**D** · denn"
+              en: "**D** · denn"
+            - de: because (Grund, mit Komma)
+              en: because (reason, with comma)
+            - de: Ich bleibe hier, **denn** ich bin müde.
+              en: Ich bleibe hier, **denn** ich bin müde.
+          - - de: "**U** · und"
+              en: "**U** · und"
+            - de: and (Aufzählung, kein Komma nötig)
+              en: and (addition, no comma needed)
+            - de: Lukas liest **und** Mina spielt Fußball.
+              en: Lukas liest **und** Mina spielt Fußball.
+          - - de: "**S** · sondern"
+              en: "**S** · sondern"
+            - de: but rather (nach nicht/kein, mit Komma)
+              en: but rather (after nicht/kein, with comma)
+            - de: Peter kommt nicht aus London, **sondern** er kommt aus Boston.
+              en: Peter kommt nicht aus London, **sondern** er kommt aus Boston.
+          - - de: "**O** · oder"
+              en: "**O** · oder"
+            - de: or (Alternative, kein Komma nötig)
+              en: or (choice, no comma needed)
+            - de: Trinkst du Tee **oder** möchtest du Wasser?
+              en: Trinkst du Tee **oder** möchtest du Wasser?
+      - type: note
+        title:
+          de: "aber oder sondern?"
+          en: "aber vs. sondern"
+        blocks:
+          - type: text
+            text:
+              de: "Benutze **sondern** nur, wenn der erste Satz eine Verneinung (*nicht* / *kein*) hat und der zweite sie direkt korrigiert (*nicht A, sondern B*). Sonst nimmst du **aber**."
+              en: "Use **sondern** only when the first clause has a negation (*nicht* / *kein*) and the second directly corrects it (*not A, but rather B*). Otherwise use **aber**."
+  - type: section
+    id: uebung
+    title:
+      de: Übung
+      en: Practice
+    blocks:
+      - type: language-task
+        id: aduso-waehlen
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: Wähle die passende Position-0-Konjunktion für jeden Satz.
+          en: Choose the right Position-0 conjunction for each sentence.
+        items:
+          - source: "Peter does not live in Berlin, but rather he lives in Lindenberg."
+            target: "Peter wohnt nicht in Berlin, [sondern] er wohnt in Lindenberg."
+            distractors: [[aber, denn]]
+          - source: "We take the bus, because it is raining today."
+            target: "Wir nehmen den Bus, [denn] es regnet heute."
+            distractors: [[oder, sondern]]
+          - source: "The room is small, but it is very bright."
+            target: "Das Zimmer ist klein, [aber] es ist sehr hell."
+            distractors: [[sondern, oder]]
+          - source: "Are we going to the cinema or are we staying at home?"
+            target: "Gehen wir ins Kino [oder] bleiben wir zu Hause?"
+            distractors: [[denn, sondern]]
+        explanation:
+          de: "sondern korrigiert eine Verneinung (nicht A, sondern B), denn nennt einen Grund, aber zeigt einen Gegensatz, und oder bietet eine Wahl."
+          en: "sondern corrects a negation (not A, but rather B), denn gives a reason, aber expresses contrast, and oder offers a choice."
+      - type: ordering
+        id: aduso-ordnen
+        text:
+          de: Bringe die Satzkarten mit *denn* (Position 0) in die richtige Reihenfolge.
+          en: Put the Sentence Cards with *denn* (Position 0) in the right order.
+        items:
+          - de: Peter bleibt zu Hause,
+            en: Peter bleibt zu Hause,
+          - de: denn
+            en: denn
+          - de: es
+            en: es
+          - de: regnet
+            en: regnet
+          - de: stark.
+            en: stark.
+        explanation:
+          de: "denn steht auf Position 0, danach folgt ganz normal es (Pos. 1) + regnet (Pos. 2) + stark."
+          en: "denn sits in Position 0, followed normally by es (Pos. 1) + regnet (Pos. 2) + stark."
+      - type: language-task
+        id: aduso-verbinden
+        languages: { source: en, target: de }
+        mode: write
+        form: { punctuation: ok }
+        task:
+          de: Verbinde die Sätze auf Deutsch mit dem angegebenen ADUSO-Wort. Achte auf Position 2!
+          en: Connect the sentences in German with the given ADUSO word. Keep Position-2 word order!
+        items:
+          - source: "Mina plays soccer and Lukas reads a book. (und)"
+            target: "Mina spielt Fußball und Lukas liest ein Buch."
+            mistakes:
+              - answer: "Mina spielt Fußball und liest Lukas ein Buch."
+                message:
+                  de: "und steht auf Position 0 — danach kommt zuerst das Subjekt (Lukas) auf Position 1 und dann das Verb (liest) auf Position 2."
+                  en: "und sits in Position 0 — follow it with the subject (Lukas) in Position 1 and the verb (liest) in Position 2."
+          - source: "Peter is tired, because he gets up early. (denn)"
+            target: "Peter ist müde, denn er steht früh auf."
+            mistakes:
+              - answer: "Peter ist müde, denn steht er früh auf."
+                message:
+                  de: "Nach denn (Pos. 0) bleibt die normale Wortstellung: er (Pos. 1) + steht (Pos. 2) … auf."
+                  en: "After denn (Pos. 0), keep normal word order: er (Pos. 1) + steht (Pos. 2) … auf."
+        explanation:
+          de: "Geschafft! Du hast das ganze A1-Fundament für Verben und Hauptsätze aufgebaut: Konjugation, Verb-Zweitstellung, Fragen, Imperativ, Satzklammer und ADUSO-Brücken."
+          en: "You made it! You now have the complete A1 foundation for German verbs and main clauses: conjugation, verb-second order, questions, imperatives, sentence brackets, and ADUSO bridges."
