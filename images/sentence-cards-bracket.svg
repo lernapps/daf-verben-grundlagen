@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 162" role="img" aria-label="Satzklammer für aufstehen: Peter steht um 7 Uhr auf, Klammer verbindet steht auf Position 2 mit auf am Satzende">
+  <rect width="340" height="162" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="14" y="24" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#0f172a">Satzklammer · aufstehen → steht … auf</text>
+
+  <rect x="14" y="38" width="60" height="54" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="44" y="57" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="700" fill="#1e3a8a">POS. 1</text>
+  <text x="44" y="79" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" fill="#0f172a">Peter</text>
+
+  <rect x="80" y="38" width="76" height="54" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="2.5"/>
+  <text x="118" y="57" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="700" fill="#78350f">POS. 2 · VERB</text>
+  <text x="118" y="79" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" fill="#0f172a">steht</text>
+
+  <rect x="162" y="38" width="90" height="54" rx="8" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+  <text x="207" y="57" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="700" fill="#14532d">MITTE</text>
+  <text x="207" y="79" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" fill="#0f172a">um 7 Uhr</text>
+
+  <rect x="258" y="38" width="68" height="54" rx="8" fill="#ede9fe" stroke="#6d28d9" stroke-width="2.5"/>
+  <text x="292" y="57" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="700" fill="#4c1d95">ENDE</text>
+  <text x="292" y="79" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" fill="#0f172a">auf.</text>
+
+  <path d="M 118 96 L 118 112 L 292 112 L 292 96" fill="none" stroke="#6d28d9" stroke-width="2" stroke-dasharray="5 3"/>
+  <text x="205" y="128" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="700" fill="#4c1d95">Verb + Vorsilbe = Klammer</text>
+</svg>

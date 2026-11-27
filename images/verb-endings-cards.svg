@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 202" role="img" aria-label="Verb-Baukasten für machen: Stamm mach- plus Personalendungen -e, -st, -t, -en, -t, -en">
+  <rect width="340" height="202" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="14" y="24" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" fill="#0f172a">Verb-Baukasten · machen (mach- + Endung)</text>
+
+  <rect x="14" y="36" width="152" height="40" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="24" y="61" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#1e3a8a">ich</text>
+  <rect x="92" y="43" width="66" height="26" rx="6" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+  <text x="125" y="61" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#0f172a">mach<tspan fill="#9f1239">e</tspan></text>
+
+  <rect x="14" y="84" width="152" height="40" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="24" y="109" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#1e3a8a">du</text>
+  <rect x="92" y="91" width="66" height="26" rx="6" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+  <text x="125" y="109" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#0f172a">mach<tspan fill="#9f1239">st</tspan></text>
+
+  <rect x="14" y="132" width="152" height="40" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="24" y="157" font-family="system-ui, -apple-system, sans-serif" font-size="11.5" font-weight="700" fill="#1e3a8a">er/sie/es</text>
+  <rect x="92" y="139" width="66" height="26" rx="6" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+  <text x="125" y="157" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#0f172a">mach<tspan fill="#9f1239">t</tspan></text>
+
+  <rect x="174" y="36" width="152" height="40" rx="8" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+  <text x="184" y="61" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#14532d">wir</text>
+  <rect x="252" y="43" width="66" height="26" rx="6" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+  <text x="285" y="61" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#0f172a">mach<tspan fill="#9f1239">en</tspan></text>
+
+  <rect x="174" y="84" width="152" height="40" rx="8" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+  <text x="184" y="109" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#14532d">ihr</text>
+  <rect x="252" y="91" width="66" height="26" rx="6" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+  <text x="285" y="109" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#0f172a">mach<tspan fill="#9f1239">t</tspan></text>
+
+  <rect x="174" y="132" width="152" height="40" rx="8" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+  <text x="184" y="157" font-family="system-ui, -apple-system, sans-serif" font-size="11.5" font-weight="700" fill="#14532d">sie / Sie</text>
+  <rect x="252" y="139" width="66" height="26" rx="6" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+  <text x="285" y="157" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#0f172a">mach<tspan fill="#9f1239">en</tspan></text>
+</svg>
