@@ -3,10 +3,20 @@ title:
   de: Pronomen und Verben im Präsens
   en: Pronouns and Present-Tense Verbs
 summary:
-  de: "Peter lernt seine Gastfamilie Weber in Lindenberg kennen. Du ordnest Personalpronomen zu und konjugierst sein, haben, regelmäßige Verben und Verben mit Vokalwechsel."
-  en: "Peter meets his host family Weber in Lindenberg. You match subject pronouns and conjugate sein, haben, regular verbs, and stem-changing verbs."
+  de: "Peter lernt Familie Weber und seine neue 6. Klasse in Lindenberg kennen. Du ordnest Personalpronomen zu und konjugierst sein, haben, regelmäßige Verben und Verben mit Vokalwechsel."
+  en: "Peter meets the Weber family and his new Year 6 class in Lindenberg. You match subject pronouns and conjugate sein, haben, regular verbs, and stem-changing verbs."
 pages:
   - personalpronomen
   - sein-und-haben
   - regelmaessige-verben
   - verben-mit-vokalwechsel
+selfAssessment:
+  pages:
+    - exercises:
+        - /pronomen-und-verben/personalpronomen/#pronomen-waehlen
+        - /pronomen-und-verben/personalpronomen/#pronomen-luecken
+        - /pronomen-und-verben/sein-und-haben/#sein-haben-saetze
+    - exercises:
+        - /pronomen-und-verben/regelmaessige-verben/#regelmaessig-luecken
+        - /pronomen-und-verben/verben-mit-vokalwechsel/#vokalwechsel-wahl
+        - /pronomen-und-verben/verben-mit-vokalwechsel/#vokalwechsel-luecken

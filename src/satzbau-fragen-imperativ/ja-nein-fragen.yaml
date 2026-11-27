@@ -148,3 +148,29 @@ blocks:
         explanation:
           de: "Verb auf Position 1 bildet jede Ja-/Nein-Frage; doch ist dein Werkzeug, um negative Fragen positiv zu beantworten."
           en: "Verb in Position 1 builds every yes/no question; doch is your tool for contradicting negative questions."
+      - type: language-task
+        id: ja-nein-schreiben
+        languages: { source: en, target: de }
+        mode: write
+        form: { punctuation: ok }
+        task:
+          de: Schreibe zwei Ja-/Nein-Fragen auf Deutsch. Setze das Verb auf Position 1!
+          en: Write two yes/no questions in German. Put the verb in Position 1!
+        items:
+          - source: "Do you live in Lindenberg? (du)"
+            target: "Wohnst du in Lindenberg?"
+            mistakes:
+              - answer: "Du wohnst in Lindenberg?"
+                message:
+                  de: "In einer Ja-/Nein-Frage steht das Verb auf Position 1: Wohnst du in Lindenberg?"
+                  en: "In a yes/no question, put the verb in Position 1: Wohnst du in Lindenberg?"
+          - source: "Do you play table tennis? (du)"
+            target: "Spielst du Tischtennis?"
+            mistakes:
+              - answer: "Du spielst Tischtennis?"
+                message:
+                  de: "Stelle das Verb Spielst an Position 1: Spielst du Tischtennis?"
+                  en: "Put the verb Spielst in Position 1: Spielst du Tischtennis?"
+        explanation:
+          de: "Super! Du kannst jetzt Ja-/Nein-Fragen mit Verb auf Position 1 bilden und mit ja, nein oder doch antworten."
+          en: "Great! You can now build yes/no questions with the verb in Position 1 and answer with ja, nein, or doch."

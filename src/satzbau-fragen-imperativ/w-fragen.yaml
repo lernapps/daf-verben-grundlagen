@@ -15,17 +15,17 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "In den ersten Tagen hat Peter viele Fragen an Nadia und Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*"
-          en: "In his first days Peter has many questions for Nadia and Herr Braun: *Wo liegt das Bürgeramt? Wann beginnt der Unterricht? Wer ist das?*"
+          de: "In den ersten Tagen hat Peter viele Fragen an Nadia und Herrn Braun: *Wo ist der Sportplatz? Wann beginnt der Unterricht? Wer ist das?*"
+          en: "In his first days Peter has many questions for Nadia and Herr Braun: *Wo ist der Sportplatz? Wann beginnt der Unterricht? Wer ist das?*"
       - type: figure
         image: images/sentence-cards-questions.svg
         source:
-          de: eigene Zeichnung
-          en: own diagram
+          de: Eigene Zeichnung
+          en: Own drawing
         licence: CC0-1.0
         alt:
-          de: "Satzkarten für Fragen: W-Frage zeigt Woher (Pos. 1 W-Wort), kommst (Pos. 2 Verb), du? (Subjekt). Ja-/Nein-Frage zeigt Spielst (Pos. 1 Verb), du (Subjekt), gern Fußball? (Rest)."
-          en: "Sentence Cards for questions: W-question shows Woher (Pos. 1 W-word), kommst (Pos. 2 Verb), du? (Subject). Yes/No question shows Spielst (Pos. 1 Verb), du (Subject), gern Fußball? (Rest)."
+          de: "Satzkarten für Fragen: W-Frage zeigt Wie (Pos. 1 W-Wort), heißt (Pos. 2 Verb), du? (Subjekt). Ja-/Nein-Frage zeigt Trinkst (Pos. 1 Verb), du (Subjekt), gern Kakao? (Rest)."
+          en: "Sentence Cards for questions: W-question shows Wie (Pos. 1 W-word), heißt (Pos. 2 Verb), du? (Subject). Yes/No question shows Trinkst (Pos. 1 Verb), du (Subject), gern Kakao? (Rest)."
         caption:
           de: "Bei W-Fragen besetzt das Fragewort Position 1 — das Verb bleibt fest auf Position 2."
           en: "In W-questions the question word fills Position 1 — the verb stays locked in Position 2."
@@ -140,6 +140,23 @@ blocks:
         explanation:
           de: "wo fragt nach dem Ort, woher nach der Herkunft (aus …), wohin nach dem Ziel, und wann nach der Zeit."
           en: "wo asks for a location, woher for origin (from), wohin for destination (to), and wann for time."
+      - type: ordering
+        id: w-fragen-ordnen
+        text:
+          de: Bringe die Satzkarten in die richtige Reihenfolge für eine W-Frage.
+          en: Put the Sentence Cards in the right order for a W-question.
+        items:
+          - de: Wann
+            en: Wann
+          - de: beginnt
+            en: beginnt
+          - de: die Schule
+            en: die Schule
+          - de: in Lindenberg?
+            en: in Lindenberg?
+        explanation:
+          de: "Wann (Pos. 1) + beginnt (Pos. 2 Verb) + die Schule (Subjekt) + in Lindenberg?"
+          en: "Wann (Pos. 1) + beginnt (Pos. 2 verb) + die Schule (subject) + in Lindenberg?"
       - type: language-task
         id: w-fragen-schreiben
         languages: { source: en, target: de }

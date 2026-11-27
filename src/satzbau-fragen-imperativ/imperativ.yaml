@@ -116,6 +116,39 @@ blocks:
       de: Übung
       en: Practice
     blocks:
+      - type: matching
+        id: imperativ-zuordnen
+        text:
+          de: Ordne jede Imperativ-Form der passenden Person zu.
+          en: Match each imperative form to the right person.
+        pairs:
+          - left:
+              de: Komm bitte mit!
+              en: Komm bitte mit!
+            right:
+              de: du (1 Freund)
+              en: du (1 friend)
+          - left:
+              de: Kommt bitte mit!
+              en: Kommt bitte mit!
+            right:
+              de: ihr (mehrere Freunde)
+              en: ihr (several friends)
+          - left:
+              de: Kommen Sie bitte mit!
+              en: Kommen Sie bitte mit!
+            right:
+              de: Sie (höflich)
+              en: Sie (formal)
+          - left:
+              de: Sei bitte leise!
+              en: Sei bitte leise!
+            right:
+              de: du (Sonderform von sein)
+              en: du (irregular form of sein)
+        explanation:
+          de: "Komm (du), Kommt (ihr), Kommen Sie (höflich) und Sei (Sonderform von sein für du)."
+          en: "Komm (du), Kommt (ihr), Kommen Sie (formal), and Sei (special du-form of sein)."
       - type: language-task
         id: imperativ-wahl
         languages: { source: en, target: de }

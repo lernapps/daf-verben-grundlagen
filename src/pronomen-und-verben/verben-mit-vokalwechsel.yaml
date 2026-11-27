@@ -53,6 +53,18 @@ blocks:
       de: "Die drei Muster: e → i, e → ie, a → ä"
       en: "The Three Patterns: e → i, e → ie, a → ä"
     blocks:
+      - type: figure
+        image: images/stem-change-spotlight.svg
+        source:
+          de: Eigene Zeichnung
+          en: Own drawing
+        licence: CC0-1.0
+        alt:
+          de: "Übersicht zum Vokalwechsel: Links kein Wechsel bei ich, wir, ihr und sie/Sie (helfen, laufen). Rechts Vokalwechsel nur bei du und er/sie/es: e zu i (hilfst, hilft), e zu ie (siehst, sieht), a zu ä (läufst, läuft)."
+          en: "Stem-change spotlight: Left shows no vowel change for ich, wir, ihr, sie/Sie (helfen, laufen). Right shows vowel change only for du and er/sie/es: e to i (hilfst, hilft), e to ie (siehst, sieht), a to ä (läufst, läuft)."
+        caption:
+          de: "Nur im gelben Feld (du und er/sie/es) wechselt der Vokal — alle anderen Formen bleiben unverändert."
+          en: "Only the highlighted box (du and er/sie/es) changes its vowel — all other forms stay unchanged."
       - type: table
         caption:
           de: "Typische Verben mit Vokalwechsel im Präsens"
@@ -130,8 +142,8 @@ blocks:
           - source: "You all speak German very well!"
             target: "Ihr [sprecht] sehr gut Deutsch!"
             distractors: [[spricht, sprichst]]
-          - source: "Do you read the newspaper, Peter?"
-            target: "[Liest] du die Zeitung, Peter?"
+          - source: "Do you read the comic, Peter?"
+            target: "[Liest] du den Comic, Peter?"
             distractors: [[Lest, Liesst]]
           - source: "I always eat a roll in the morning."
             target: "Ich [esse] morgens immer ein Brötchen."
@@ -169,6 +181,32 @@ blocks:
                 message:
                   de: "Bei wir gibt es keinen Vokalwechsel: Wir fahren."
                   en: "There is no vowel change with wir: Wir fahren."
+        explanation:
+          de: "Prüfe zuerst das Subjekt: Nur bei du und er/sie/es wechselt der Vokal."
+          en: "Always check the subject first: only du and er/sie/es change the vowel."
+      - type: language-task
+        id: vokalwechsel-schreiben
+        languages: { source: en, target: de }
+        mode: write
+        form: { punctuation: ok }
+        task:
+          de: Schreibe diese kurzen Sätze mit Vokalwechsel auf Deutsch.
+          en: Write these short stem-changing sentences in German.
+        items:
+          - source: "Mina reads a comic."
+            target: "Mina liest einen Comic."
+            mistakes:
+              - answer: "Mina lest einen Comic."
+                message:
+                  de: "Bei lesen wechselt e zu ie: Mina liest."
+                  en: "In lesen, e changes to ie: Mina liest."
+          - source: "Lukas eats an apple."
+            target: "Lukas isst einen Apfel."
+            mistakes:
+              - answer: "Lukas esst einen Apfel."
+                message:
+                  de: "Bei essen wechselt e zu i: Lukas isst."
+                  en: "In essen, e changes to i: Lukas isst."
         explanation:
           de: "Du kannst jetzt Pronomen, sein/haben, regelmäßige Verben und Vokalwechsel sicher konjugieren. Im nächsten Kapitel setzt du sie mit den Satzkarten auf Position 2!"
           en: "You can now conjugate pronouns, sein/haben, regular verbs, and stem-changing verbs. In the next chapter, you lock them onto Position 2 with the Sentence Cards!"

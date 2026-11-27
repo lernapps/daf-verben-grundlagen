@@ -10,3 +10,13 @@ pages:
   - w-fragen
   - ja-nein-fragen
   - imperativ
+selfAssessment:
+  pages:
+    - exercises:
+        - /satzbau-fragen-imperativ/verb-zweitstellung/#v2-ordnen
+        - /satzbau-fragen-imperativ/verb-zweitstellung/#v2-umstellen
+        - /satzbau-fragen-imperativ/w-fragen/#w-fragen-waehlen
+    - exercises:
+        - /satzbau-fragen-imperativ/ja-nein-fragen/#ja-nein-ordnen
+        - /satzbau-fragen-imperativ/ja-nein-fragen/#ja-nein-luecken
+        - /satzbau-fragen-imperativ/imperativ/#imperativ-luecken

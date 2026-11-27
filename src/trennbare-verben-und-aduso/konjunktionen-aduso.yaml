@@ -15,13 +15,13 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Peter schreibt seinen Eltern eine Nachricht über seine erste Woche in Lindenberg. Mit fünf kleinen Bindewörtern (**aber, denn, und, sondern, oder** — kurz **ADUSO**) verbindet er zwei Hauptsätze, ohne die Wortstellung zu verändern."
-          en: "Peter writes a message home about his first week in Lindenberg. With five small connecting words (**aber, denn, und, sondern, oder** — short **ADUSO**), he links two main clauses without changing word order."
+          de: "Peter schreibt seiner Oma eine Nachricht über seine erste Woche in Lindenberg. Mit fünf kleinen Bindewörtern (**aber, denn, und, sondern, oder** — kurz **ADUSO**) verbindet er zwei Sätze, ohne die Wortstellung zu verändern."
+          en: "Peter writes his grandma a message about his first week in Lindenberg. With five small connecting words (**aber, denn, und, sondern, oder** — short **ADUSO**), he links two sentences without changing word order."
       - type: figure
         image: images/sentence-cards-aduso.svg
         source:
-          de: eigene Zeichnung
-          en: own diagram
+          de: Eigene Zeichnung
+          en: Own drawing
         licence: CC0-1.0
         alt:
           de: "Position-0-Brücke ADUSO: Satz 1 Peter ist müde, dann Pos. 0 aber, dann Pos. 1 er, Pos. 2 lernt, Rest weiter."
@@ -47,8 +47,8 @@ blocks:
               en: "Peter lernt viel, denn wohnt er jetzt in Lindenberg."
             correct: false
             info:
-              de: "denn zählt nicht als Position 1 — hier gibt es keine Inversion!"
-              en: "denn does not count as Position 1 — there is no subject-verb inversion!"
+              de: "denn zählt nicht als Position 1 — das Subjekt bleibt einfach vor dem Verb!"
+              en: "denn does not count as Position 1 — the subject simply stays before the verb!"
           - text:
               de: "Peter lernt viel, denn er jetzt in Lindenberg wohnt."
               en: "Peter lernt viel, denn er jetzt in Lindenberg wohnt."
@@ -145,6 +145,25 @@ blocks:
         explanation:
           de: "sondern korrigiert eine Verneinung (nicht A, sondern B), denn nennt einen Grund, aber zeigt einen Gegensatz, und oder bietet eine Wahl."
           en: "sondern corrects a negation (not A, but rather B), denn gives a reason, aber expresses contrast, and oder offers a choice."
+      - type: ordering
+        id: aduso-ordnen
+        text:
+          de: Bringe die Satzkarten mit *denn* (Position 0) in die richtige Reihenfolge.
+          en: Put the Sentence Cards with *denn* (Position 0) in the right order.
+        items:
+          - de: Peter bleibt zu Hause,
+            en: Peter bleibt zu Hause,
+          - de: denn
+            en: denn
+          - de: es
+            en: es
+          - de: regnet
+            en: regnet
+          - de: stark.
+            en: stark.
+        explanation:
+          de: "denn steht auf Position 0, danach folgt ganz normal es (Pos. 1) + regnet (Pos. 2) + stark."
+          en: "denn sits in Position 0, followed normally by es (Pos. 1) + regnet (Pos. 2) + stark."
       - type: language-task
         id: aduso-verbinden
         languages: { source: en, target: de }

@@ -15,13 +15,13 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Peter packt bei Familie Weber aus und stellt sich vor: *Ich bin Peter. Ich habe ein Fahrrad und ein helles Zimmer.*"
-          en: "Peter unpacks at the Weber home and introduces himself: *Ich bin Peter. Ich habe ein Fahrrad und ein helles Zimmer.*"
+          de: "Peter packt in seinem neuen Zimmer in Lindenberg aus und erzählt Lukas und Mina: *Ich bin Peter. Ich habe ein Fahrrad und ein helles Zimmer.*"
+          en: "Peter unpacks in his new room in Lindenberg and tells Lukas and Mina: *Ich bin Peter. Ich habe ein Fahrrad und ein helles Zimmer.*"
       - type: single-choice
         id: sein-haben-einstieg
         text:
-          de: "Wie sagt Peter über seine Gastgeschwister Lukas und Mina: „They are nice and they have a dog“?"
-          en: "How does Peter say about his host siblings Lukas and Mina: 'They are nice and they have a dog'?"
+          de: "Wie sagt Peter über seine neuen Freunde Lukas und Mina: „They are nice and they have a dog“?"
+          en: "How does Peter say about his new friends Lukas and Mina: 'They are nice and they have a dog'?"
         options:
           - text:
               de: "Sie sind nett und sie haben einen Hund."
@@ -147,8 +147,8 @@ blocks:
           de: Setze die passende Form von sein oder haben in die Sätze aus Lindenberg ein.
           en: Fill in the right form of sein or haben in these sentences from Lindenberg.
         items:
-          - source: "Peter is 16 years old. (sein)"
-            target: "Peter [ist] sechzehn Jahre alt."
+          - source: "Peter is 12 years old. (sein)"
+            target: "Peter [ist] zwölf Jahre alt."
             mistakes:
               - answer: sind
                 message:
@@ -178,3 +178,29 @@ blocks:
         explanation:
           de: "Jedes Verb richtet sich genau nach dem Subjekt. Im Deutschen nutzt man außerdem „Hunger haben“ und „Durst haben“ mit haben."
           en: "Every verb matches its subject. Notice also that German uses haben for 'Hunger haben' (to be hungry) and 'Durst haben' (to be thirsty)."
+      - type: language-task
+        id: sein-haben-schreiben
+        languages: { source: en, target: de }
+        mode: write
+        form: { punctuation: ok }
+        task:
+          de: Schreibe zwei kurze Sätze über Peters Alltag auf Deutsch.
+          en: Write two short sentences about Peter's day in German.
+        items:
+          - source: "Mina has a ball."
+            target: "Mina hat einen Ball."
+            mistakes:
+              - answer: "Mina habt einen Ball."
+                message:
+                  de: "Mina ist eine Person (sie), also heißt es hat."
+                  en: "Mina is one person (sie), so use hat."
+          - source: "We are in Year 6."
+            target: "Wir sind in Klasse 6."
+            mistakes:
+              - answer: "Wir seid in Klasse 6."
+                message:
+                  de: "Zu wir gehört sind: Wir sind in Klasse 6."
+                  en: "With wir, use sind: Wir sind in Klasse 6."
+        explanation:
+          de: "Du kannst sein und haben jetzt in allen Personen sicher einsetzen — als Nächstes kommen die regelmäßigen Verben."
+          en: "You can now use sein and haben confidently in every person — next come regular verbs."

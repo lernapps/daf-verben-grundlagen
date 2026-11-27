@@ -20,12 +20,12 @@ blocks:
       - type: figure
         image: images/sentence-cards-bracket.svg
         source:
-          de: eigene Zeichnung
-          en: own diagram
+          de: Eigene Zeichnung
+          en: Own drawing
         licence: CC0-1.0
         alt:
-          de: "Satzklammer für aufstehen: Peter (Pos. 1), steht (Pos. 2 Verb), um sieben Uhr (Mittelfeld), auf (Ende Präfix). Eine Klammer verbindet steht und auf."
-          en: "Sentence bracket for aufstehen: Peter (Pos. 1), steht (Pos. 2 Verb), um sieben Uhr (middle field), auf (End Prefix). A bracket links steht and auf."
+          de: "Satzklammer für aufstehen: Peter (Pos. 1), steht (Pos. 2 Verb), um 7 Uhr (Mitte), auf (Ende). Eine Klammer verbindet steht und auf."
+          en: "Sentence bracket for aufstehen: Peter (Pos. 1), steht (Pos. 2 Verb), um 7 Uhr (middle), auf (end). A bracket links steht and auf."
         caption:
           de: "Das konjugierte Grundverb bleibt auf Position 2; die Vorsilbe schließt rechts die Satzklammer."
           en: "The conjugated base verb stays in Position 2; the prefix closes the sentence bracket at the very end."
@@ -79,7 +79,7 @@ blocks:
             example: { target: "Wir kaufen Brötchen ein.", source: "We are buying rolls." }
           - target: anrufen
             source: to call (by phone)
-            example: { target: "Ich rufe meine Eltern an.", source: "I call my parents." }
+            example: { target: "Ich rufe meine Oma an.", source: "I call my grandma." }
           - target: anfangen
             source: to begin, to start
             note:
@@ -110,6 +110,26 @@ blocks:
       de: Übung
       en: Practice
     blocks:
+      - type: language-task
+        id: trennbar-waehlen
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: Wähle die passende Vorsilbe für das Satzende.
+          en: Choose the right prefix for the end of each sentence.
+        items:
+          - source: "Mina watches TV in the evening. (fernsehen)"
+            target: "Mina sieht abends [fern]."
+            distractors: [[auf, ein]]
+          - source: "Lukas calls Nadia after school. (anrufen)"
+            target: "Lukas ruft nach der Schule Nadia [an]."
+            distractors: [[mit, aus]]
+          - source: "We go shopping on Saturday. (einkaufen)"
+            target: "Wir kaufen am Samstag [ein]."
+            distractors: [[an, auf]]
+        explanation:
+          de: "Die betonte Vorsilbe (fern, an, ein) wandert immer ganz ans Ende des Satzes."
+          en: "The stressed prefix (fern, an, ein) always moves to the very end of the sentence."
       - type: ordering
         id: trennbar-ordnen
         text:
@@ -122,13 +142,13 @@ blocks:
             en: ruft
           - de: Peter
             en: Peter
-          - de: seine Eltern
-            en: seine Eltern
+          - de: seine Oma
+            en: seine Oma
           - de: an.
             en: an.
         explanation:
-          de: "Am Abend (Pos. 1) + ruft (Pos. 2 Verb) + Peter seine Eltern (Mittelfeld) + an (rechte Klammer)."
-          en: "Am Abend (Pos. 1) + ruft (Pos. 2 verb) + Peter seine Eltern (middle field) + an (right bracket)."
+          de: "Am Abend (Pos. 1) + ruft (Pos. 2 Verb) + Peter seine Oma (Mitte) + an (Vorsilbe am Ende)."
+          en: "Am Abend (Pos. 1) + ruft (Pos. 2 verb) + Peter seine Oma (middle) + an (prefix at the end)."
       - type: language-task
         id: trennbar-luecken
         languages: { source: en, target: de }
@@ -138,10 +158,10 @@ blocks:
           de: "Schreibe jeden Satz mit dem trennbaren Verb im Präsens. Denke an Position 2 und das Satzende!"
           en: "Write each sentence in German using the separable verb in the present tense. Remember Position 2 and the sentence end!"
         items:
-          - source: "Peter gets up early. (aufstehen · früh)"
-            target: "Peter steht früh auf."
+          - source: "Lukas gets up early. (aufstehen · früh)"
+            target: "Lukas steht früh auf."
             mistakes:
-              - answer: "Peter aufsteht früh."
+              - answer: "Lukas aufsteht früh."
                 message:
                   de: "Teile aufstehen im Hauptsatz: steht auf Position 2, auf ans Ende."
                   en: "Split aufstehen in a main clause: steht in Position 2, auf at the end."

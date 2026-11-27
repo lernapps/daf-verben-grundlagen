@@ -20,8 +20,8 @@ blocks:
       - type: figure
         image: images/sentence-cards-v2.svg
         source:
-          de: eigene Zeichnung
-          en: own diagram
+          de: Eigene Zeichnung
+          en: Own drawing
         licence: CC0-1.0
         alt:
           de: "Satzkarten für Verb-Zweitstellung: Satz A zeigt Peter (Pos. 1), wohnt (Pos. 2 Verb), heute in Lindenberg (Rest). Satz B zeigt Heute (Pos. 1), wohnt (Pos. 2 Verb), Peter (Subjekt), in Lindenberg (Rest)."
@@ -62,16 +62,16 @@ blocks:
   - type: section
     id: regel
     title:
-      de: Subjekt-Verb-Inversion kurz erklärt
-      en: Subject-Verb Inversion in Brief
+      de: Was passiert, wenn etwas anderes vorn steht?
+      en: What Happens When Something Else Goes First?
     blocks:
       - type: definition
         term:
           de: Verb-Zweitstellung (V2)
           en: Verb-second order (V2)
         explanation:
-          de: "In jedem deutschen Aussagesatz steht das konjugierte Verb an zweiter Stelle. Steht auf Position 1 nicht das Subjekt (sondern z. B. Zeit oder Ort), rückt das Subjekt direkt hinter das Verb (Inversion)."
-          en: "In every German statement, the conjugated verb stands in second position. If something other than the subject (such as time or place) fills Position 1, the subject moves right after the verb (inversion)."
+          de: "In jedem deutschen Aussagesatz steht das konjugierte Verb auf Position 2. Wandert eine Zeit- oder Ortskarte nach vorn auf Position 1, springt das Subjekt direkt hinter das Verb."
+          en: "In every German statement, the conjugated verb stands in Position 2. If a time or place card moves to Position 1, the subject jumps right behind the verb."
       - type: table
         caption:
           de: "Position 1 tauschen — Position 2 bleibt fest"
@@ -108,6 +108,36 @@ blocks:
       de: Übung
       en: Practice
     blocks:
+      - type: multiple-choice
+        id: v2-pruefen
+        text:
+          de: "Prüfe die Satzkarten: In welchen Sätzen steht das konjugierte Verb richtig auf Position 2?"
+          en: "Check the Sentence Cards: in which sentences is the conjugated verb properly in Position 2?"
+        options:
+          - text:
+              de: "Am Dienstag spielt Lukas Fußball im Park."
+              en: "Am Dienstag spielt Lukas Fußball im Park."
+            correct: true
+            info:
+              de: "Richtig: Am Dienstag (Pos. 1) + spielt (Pos. 2) + Lukas (Subjekt)."
+              en: "Correct: Am Dienstag (Pos. 1) + spielt (Pos. 2) + Lukas (subject)."
+          - text:
+              de: "Nach der Schule Peter fährt mit dem Fahrrad."
+              en: "Nach der Schule Peter fährt mit dem Fahrrad."
+            correct: false
+            info:
+              de: "Falsch: Hier steht fährt auf Position 3. Richtig: Nach der Schule fährt Peter mit dem Fahrrad."
+              en: "Incorrect: fährt is pushed to Position 3. Correct: Nach der Schule fährt Peter mit dem Fahrrad."
+          - text:
+              de: "Im Park treffen wir Nadia und Mina."
+              en: "Im Park treffen wir Nadia und Mina."
+            correct: true
+            info:
+              de: "Richtig: Im Park (Pos. 1) + treffen (Pos. 2) + wir (Subjekt)."
+              en: "Correct: Im Park (Pos. 1) + treffen (Pos. 2) + wir (subject)."
+        explanation:
+          de: "Zähle immer die Satzkarten: Egal wie viele Wörter auf Position 1 stehen (z. B. Nach der Schule), danach kommt sofort das Verb."
+          en: "Always count Sentence Cards: no matter how many words fill Position 1 (e.g. Nach der Schule), the verb comes immediately next."
       - type: ordering
         id: v2-ordnen
         text:

@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Peter kommt als Austauschschüler nach Lindenberg. Am Bahnhof warten Frau Weber, Lukas (15) und Mina (12). Welches Pronomen passt für das erste Gespräch?"
-          en: "Peter arrives in Lindenberg as an exchange student. Frau Weber, Lukas (15), and Mina (12) wait at the station. Which pronoun fits the first greeting?"
+          de: "Peter (12) zieht mit seinen Eltern für ein Jahr nach Lindenberg. Am Bahnhof warten Freunde seiner Eltern: Frau Weber, Lukas (12) und Mina (9). Welches Pronomen passt für das erste Gespräch?"
+          en: "Peter (12) moves to Lindenberg with his parents for a year. Family friends wait at the station: Frau Weber, Lukas (12), and Mina (9). Which pronoun fits the first greeting?"
       - type: single-choice
         id: pronomen-einstieg
         text:
@@ -85,8 +85,8 @@ blocks:
               en: er / sie / es
             - de: he / she / it
               en: he / she / it
-            - de: Er ist 15. Sie ist 12. Es ist kalt.
-              en: Er ist 15. Sie ist 12. Es ist kalt.
+            - de: Er ist 12. Sie ist 9. Es ist kalt.
+              en: Er ist 12. Sie ist 9. Es ist kalt.
           - - de: wir
               en: wir
             - de: we
@@ -133,8 +133,8 @@ blocks:
           en: Match each person or group in Lindenberg to the right subject pronoun.
         pairs:
           - left:
-              de: Mina (12)
-              en: Mina (12)
+              de: Mina (9)
+              en: Mina (9)
             right:
               de: sie (she)
               en: sie (she)
@@ -145,14 +145,14 @@ blocks:
               de: wir
               en: wir
           - left:
-              de: "du und Mina (Peter spricht mit beiden)"
+              de: "Lukas und Mina (Peter spricht mit beiden)"
               en: "Lukas and Mina (Peter talks to both)"
             right:
               de: ihr
               en: ihr
           - left:
-              de: "Herr Braun (Peters Deutschlehrer)"
-              en: "Herr Braun (Peter's teacher, direct address)"
+              de: "Herr Braun (Peters Klassenlehrer)"
+              en: "Herr Braun (Peter's class teacher, direct address)"
             right:
               de: Sie
               en: Sie
@@ -167,8 +167,8 @@ blocks:
           de: Wähle für jeden Satz das passende Personalpronomen.
           en: Choose the right personal pronoun for each sentence.
         items:
-          - source: "Peter talks about Lukas: He is fifteen years old."
-            target: "[Er] ist fünfzehn Jahre alt."
+          - source: "Peter talks about Lukas: He is twelve years old."
+            target: "[Er] ist zwölf Jahre alt."
             distractors: [[Sie, Es]]
           - source: "Peter talks to Lukas and Mina: You all live in Lindenberg."
             target: "[Ihr] wohnt in Lindenberg."
@@ -182,3 +182,36 @@ blocks:
         explanation:
           de: "Prüfe immer, wer die Subjektkarte trägt: eine Person (er/sie/es), wir selbst (wir), mehrere vertraute Personen (ihr) oder andere Personen im Plural (sie)."
           en: "Always check who is on the Subject Card: one person (er/sie/es), yourself plus others (wir), peers addressed directly (ihr), or other people in the plural (sie)."
+      - type: language-task
+        id: pronomen-luecken
+        languages: { source: en, target: de }
+        mode: gap
+        form: { case: hint }
+        task:
+          de: Schreibe das passende Personalpronomen in die Lücke.
+          en: Type the right personal pronoun in each gap.
+        items:
+          - source: "Peter talks about Nadia: She plays soccer in the park."
+            target: "[Sie] spielt im Park Fußball."
+            mistakes:
+              - answer: Er
+                message:
+                  de: "Nadia ist ein Mädchen, deshalb heißt das Pronomen Sie."
+                  en: "Nadia is a girl, so use Sie (she)."
+          - source: "Peter talks to Lukas and Nadia: Are you all coming to the park?"
+            target: "Kommt [ihr] mit in den Park?"
+            mistakes:
+              - answer: du
+                message:
+                  de: "Es sind zwei Freunde (Lukas und Nadia), also ihr."
+                  en: "There are two friends (Lukas and Nadia), so use ihr."
+          - source: "Peter talks politely to Herr Braun: Are you our class teacher?"
+            target: "Sind [Sie] unser Klassenlehrer?"
+            mistakes:
+              - answer: du
+                message:
+                  de: "Lehrer spricht man höflich mit großem Sie an."
+                  en: "Address a teacher formally with capitalized Sie."
+        explanation:
+          de: "Du kannst jetzt alle deutschen Personalpronomen sicher auswählen und schreiben — als Nächstes verbindest du sie mit sein und haben."
+          en: "You can now choose and write all German subject pronouns — next you pair them with sein and haben."

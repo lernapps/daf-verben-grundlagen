@@ -8,3 +8,10 @@ summary:
 pages:
   - trennbare-verben
   - konjunktionen-aduso
+selfAssessment:
+  pages:
+    - exercises:
+        - /trennbare-verben-und-aduso/trennbare-verben/#trennbar-ordnen
+        - /trennbare-verben-und-aduso/trennbare-verben/#trennbar-luecken
+        - /trennbare-verben-und-aduso/konjunktionen-aduso/#aduso-waehlen
+        - /trennbare-verben-und-aduso/konjunktionen-aduso/#aduso-verbinden
